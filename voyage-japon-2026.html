@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chine × Japon — 16 sept › 2 oct 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400;1,9..144,500&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --washi:#F2ECDD;         /* papier washi */
+    --washi-2:#E9E1CD;       /* washi ombré */
+    --sumi:#1F2126;          /* encre sumi */
+    --sumi-soft:#3B3E46;
+    --indigo:#26355E;        /* ai / indigo profond */
+    --indigo-2:#38508A;      /* indigo clair */
+    --shu:#C6402A;           /* vermillon shu-iro */
+    --shu-soft:#D9694F;
+    --ochre:#B98A32;         /* ocre — accents Chine */
+    --line:#CDC3AA;
+    --paper-shadow:rgba(38,53,94,.10);
+    --maxw:1080px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{
+    background:var(--washi);
+    color:var(--sumi);
+    font-family:"Fraunces",Georgia,serif;
+    font-optical-sizing:auto;
+    line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+    background-image:
+      radial-gradient(circle at 12% 18%, rgba(185,138,50,.05), transparent 40%),
+      radial-gradient(circle at 88% 72%, rgba(38,53,94,.05), transparent 42%);
+  }
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 28px}
+  .mono{font-family:"Space Mono",monospace}
+  .eyebrow{
+    font-family:"Space Mono",monospace;
+    font-size:.72rem;letter-spacing:.28em;text-transform:uppercase;
+    color:var(--shu);font-weight:700;
+  }
+
+  /* ---------- HERO ---------- */
+  header.hero{
+    padding:72px 0 40px;position:relative;overflow:hidden;
+  }
+  .hero .kanji{
+    position:absolute;right:-4%;top:-6%;font-size:38vw;line-height:.8;
+    color:var(--indigo);opacity:.045;font-weight:600;pointer-events:none;user-select:none;
+  }
+  .hero .dates{margin-bottom:22px}
+  .hero h1{
+    font-size:clamp(2.9rem,9vw,6.2rem);line-height:.95;font-weight:600;
+    letter-spacing:-.02em;color:var(--indigo);
+  }
+  .hero h1 em{font-style:italic;color:var(--shu);font-weight:500}
+  .hero .lede{
+    max-width:60ch;margin-top:22px;font-size:1.15rem;color:var(--sumi-soft);
+  }
+  .hero-meta{
+    display:flex;flex-wrap:wrap;gap:26px;margin-top:34px;
+    padding-top:22px;border-top:1px solid var(--line);
+  }
+  .hero-meta div{min-width:120px}
+  .hero-meta .k{font-family:"Space Mono",monospace;font-size:.68rem;letter-spacing:.18em;text-transform:uppercase;color:var(--sumi-soft);opacity:.7}
+  .hero-meta .v{font-size:1.05rem;font-weight:500;color:var(--indigo);margin-top:2px}
+
+  /* ---------- SECTION SHELL ---------- */
+  section{padding:56px 0;border-top:1px solid var(--line)}
+  .sec-head{display:flex;align-items:baseline;gap:16px;margin-bottom:8px;flex-wrap:wrap}
+  .sec-num{font-family:"Space Mono",monospace;font-size:.8rem;color:var(--shu);font-weight:700}
+  h2{font-size:clamp(1.8rem,4.5vw,2.9rem);font-weight:600;color:var(--indigo);letter-spacing:-.01em;line-height:1.05}
+  h2 em{font-style:italic;color:var(--shu)}
+  .sec-sub{color:var(--sumi-soft);max-width:66ch;margin:14px 0 34px;font-size:1.05rem}
+
+  h3{font-size:1.35rem;font-weight:600;color:var(--indigo);margin:28px 0 6px}
+  p{margin:10px 0}
+  a{color:var(--shu);text-decoration:none;border-bottom:1px solid rgba(198,64,42,.35)}
+  a:hover{border-color:var(--shu)}
+
+  /* ---------- CARDS / GRID ---------- */
+  .grid{display:grid;gap:18px}
+  .g2{grid-template-columns:repeat(2,1fr)}
+  .g3{grid-template-columns:repeat(3,1fr)}
+  .card{
+    background:rgba(255,255,255,.42);border:1px solid var(--line);
+    border-radius:2px;padding:22px 22px 20px;box-shadow:0 1px 0 var(--paper-shadow);
+  }
+  .card h4{font-size:1.08rem;font-weight:600;color:var(--indigo);margin-bottom:4px}
+  .card .tag{font-family:"Space Mono",monospace;font-size:.62rem;letter-spacing:.16em;text-transform:uppercase;color:var(--sumi-soft);opacity:.75}
+  .card p{font-size:.96rem;color:var(--sumi-soft);margin:8px 0 0}
+
+  /* ---------- TIMELINE ---------- */
+  .tl{list-style:none;position:relative;margin-top:10px}
+  .tl:before{content:"";position:absolute;left:78px;top:6px;bottom:6px;width:1px;background:var(--line)}
+  .tl li{position:relative;padding:14px 0 14px 108px;min-height:54px}
+  .tl .date{position:absolute;left:0;top:16px;width:66px;text-align:right;font-family:"Space Mono",monospace;font-size:.72rem;line-height:1.25;color:var(--indigo);font-weight:700}
+  .tl .date span{display:block;color:var(--sumi-soft);font-weight:400;opacity:.7}
+  .tl .dot{position:absolute;left:74px;top:20px;width:9px;height:9px;border-radius:50%;background:var(--shu);border:2px solid var(--washi);z-index:1}
+  .tl .dot.travel{background:var(--indigo)}
+  .tl .dot.sw{background:var(--ochre);box-shadow:0 0 0 3px rgba(185,138,50,.22)}
+  .tl h4{font-size:1.06rem;font-weight:600;color:var(--indigo)}
+  .tl p{font-size:.94rem;color:var(--sumi-soft);margin:3px 0 0}
+  .pill{display:inline-block;font-family:"Space Mono",monospace;font-size:.58rem;letter-spacing:.12em;text-transform:uppercase;padding:2px 7px;border-radius:999px;margin-left:6px;vertical-align:middle}
+  .pill.sw{background:rgba(185,138,50,.16);color:#8a651f;border:1px solid rgba(185,138,50,.4)}
+  .pill.lock{background:rgba(198,64,42,.12);color:var(--shu);border:1px solid rgba(198,64,42,.35)}
+  .pill.drive{background:rgba(38,53,94,.1);color:var(--indigo);border:1px solid rgba(38,53,94,.28)}
+
+  /* ---------- FOOD STRIP ---------- */
+  .food{display:flex;gap:14px;flex-wrap:wrap;margin-top:16px}
+  .food .f{flex:1 1 150px;background:rgba(198,64,42,.06);border-left:3px solid var(--shu);padding:12px 14px;border-radius:0 2px 2px 0}
+  .food .f b{display:block;color:var(--indigo);font-size:1rem}
+  .food .f span{font-family:"Space Mono",monospace;font-size:.62rem;letter-spacing:.12em;text-transform:uppercase;color:var(--sumi-soft);opacity:.8}
+  .food .f p{font-size:.88rem;margin-top:5px}
+
+  /* ---------- KYUSHU LOOP SVG (signature) ---------- */
+  .loop-wrap{background:rgba(38,53,94,.04);border:1px solid var(--line);border-radius:3px;padding:8px;margin:12px 0 6px}
+  .loop-svg{width:100%;height:auto;display:block}
+  .loop-svg .road{fill:none;stroke:var(--indigo-2);stroke-width:2.2;stroke-dasharray:6 5;opacity:.55}
+  .loop-svg .road-anim{fill:none;stroke:var(--shu);stroke-width:3;stroke-linecap:round}
+  .loop-svg .node circle{fill:var(--washi);stroke:var(--indigo);stroke-width:2}
+  .loop-svg .node.hub circle{fill:var(--shu);stroke:var(--shu)}
+  .loop-svg .node text{font-family:"Space Mono",monospace;font-size:11px;fill:var(--indigo);font-weight:700}
+  .loop-svg .node .sub{fill:var(--sumi-soft);font-weight:400;font-size:9px}
+
+  /* ---------- CALLOUT ---------- */
+  .callout{border:1px solid var(--line);border-left:4px solid var(--indigo);background:rgba(38,53,94,.05);padding:18px 20px;border-radius:0 2px 2px 0;margin:20px 0}
+  .callout.warn{border-left-color:var(--shu);background:rgba(198,64,42,.06)}
+  .callout.gold{border-left-color:var(--ochre);background:rgba(185,138,50,.08)}
+  .callout h4{font-size:1.05rem;color:var(--indigo);margin-bottom:4px}
+  .callout p{font-size:.95rem;margin:6px 0 0}
+
+  /* ---------- CHECKLIST ---------- */
+  .check{list-style:none;margin-top:12px}
+  .check li{padding:11px 0 11px 30px;border-bottom:1px dashed var(--line);position:relative;font-size:.98rem;color:var(--sumi-soft)}
+  .check li:before{content:"□";position:absolute;left:0;top:9px;color:var(--shu);font-family:"Space Mono",monospace;font-size:1.1rem}
+  .check li b{color:var(--indigo)}
+
+  footer{padding:48px 0 70px;border-top:1px solid var(--line);color:var(--sumi-soft);font-size:.9rem}
+  footer .mono{font-size:.72rem;letter-spacing:.1em;opacity:.7}
+
+  /* ---------- reveal ---------- */
+  .reveal{opacity:0;transform:translateY(18px);transition:opacity .7s ease,transform .7s ease}
+  .reveal.in{opacity:1;transform:none}
+
+  @media(max-width:720px){
+    .g2,.g3{grid-template-columns:1fr}
+    .tl:before{left:58px}.tl li{padding-left:82px}.tl .date{width:48px}.tl .dot{left:54px}
+    .hero{padding-top:48px}
+  }
+  @media(prefers-reduced-motion:reduce){
+    .reveal{opacity:1;transform:none;transition:none}
+    .road-anim{stroke-dasharray:none !important;stroke-dashoffset:0 !important;animation:none !important}
+    html{scroll-behavior:auto}
+  }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="kanji" aria-hidden="true">旅</div>
+  <div class="wrap">
+    <div class="dates eyebrow">16 septembre › 2 octobre 2026 · 2 voyageurs · Silver Week</div>
+    <h1>Chine <em>×</em> Japon</h1>
+    <p class="lede">Escale express à Shanghai, puis boucle en voiture dans un Japon plus authentique — Kansai, Kyushu, Gifu, Tokyo. Itinéraire calé sur des vols fixes, en pleine Silver Week, et pensé pour du participatif plutôt que du touristique passif.</p>
+    <div class="hero-meta">
+      <div><div class="k">Arrivée</div><div class="v">Shanghai PVG · 17 sept 07:15</div></div>
+      <div><div class="k">Retour</div><div class="v">Tokyo HND · 1 oct 22:45</div></div>
+      <div><div class="k">Conduite</div><div class="v">Permis CH + trad. JAF</div></div>
+      <div><div class="k">Format</div><div class="v">Boucle Kyushu (voiture)</div></div>
+    </div>
+  </div>
+</header>
+
+<!-- 01 — CADRE -->
+<section id="cadre">
+  <div class="wrap reveal">
+    <div class="sec-head"><span class="sec-num">01</span><h2>Le cadre & les <em>contraintes</em></h2></div>
+    <p class="sec-sub">Tout se cale sur trois ancres de vol immuables et une donnée qui change tout : 2026 est une <b>vraie Silver Week</b> (19–23 sept, 5 jours fériés consécutifs — la première depuis 2015). C'est le pic de fréquentation de l'automne : trains bondés, hôtels complets, routes chargées.</p>
+
+    <div class="grid g3">
+      <div class="card"><div class="tag">Ancre 1 · vol</div><h4>Genève → Shanghai</h4><p>LX2809 + LX188 · départ 16 sept 11:00, arrivée PVG le 17 sept à 07:15.</p></div>
+      <div class="card"><div class="tag">Ancre 2 · vol</div><h4>Shanghai → Osaka</h4><p>NH974 · 18 sept, PVG 11:35 → Kansai (KIX) 14:55. Transfert privé impératif le matin.</p></div>
+      <div class="card"><div class="tag">Ancre 3 · vol</div><h4>Tokyo → Genève</h4><p>OS8564 · 1 oct, Haneda 22:45. Dernière journée pleine à Tokyo possible.</p></div>
+    </div>
+
+    <div class="callout warn">
+      <h4>Silver Week 2026 — 19 au 23 septembre</h4>
+      <p>Respect for the Aged Day (lun 21), jour férié « pont » (mar 22) et équinoxe d'automne (mer 23) s'enchaînent. Conséquences directes sur ton itinéraire : le <b>Shinkansen du 21 (Shin-Osaka → Hakata) doit être en sièges réservés, réservés tôt</b> ; USJ le 20 (dimanche de Silver Week) sera au maximum ; et la boucle Kyushu traverse volontairement des zones rurales sur les jours de pointe.</p>
+    </div>
+
+    <div class="grid g2">
+      <div class="callout gold" style="margin:0">
+        <h4>Tatouage → onsen adaptés</h4>
+        <p>Un grand tatouage sur la jambe exclut les bains communs. Toute la logistique privilégie <b>ryokan à rotenburo privatif</b> et établissements tattoo-friendly — dont le <b>bain de sable de Beppu</b> (on reste habillé du yukata).</p>
+      </div>
+      <div class="callout" style="margin:0">
+        <h4>Déjà fait — on ne refait pas</h4>
+        <p>Hiroshima, Nara, Kyoto (<b>sauf</b> le Musée Nintendo à Uji), Hakone, Himeji. La boucle et Tokyo évitent ces zones.</p>
+      </div>
+    </div>
+
+    <div class="callout warn">
+      <h4>Réservations non remboursables — exposition au risque</h4>
+      <p>Le jour tampon d'Osaka (jet lag / typhon) a été volontairement sacrifié pour créer la nuit Nagoya/Gifu. Cela augmente l'exposition sur trois postes fermes : <b>Musée Nintendo</b> (QR non annulable une fois émis), <b>USJ</b> (billets + Express Pass), <b>atelier de forge</b> (100 % d'annulation à J-10). Septembre reste une saison à typhons : à surveiller.</p>
+    </div>
+  </div>
+</section>
+
+<!-- 02 — SHANGHAI -->
+<section id="shanghai">
+  <div class="wrap reveal">
+    <div class="sec-head"><span class="sec-num">02</span><h2>Shanghai <em>express</em> — 24 h</h2></div>
+    <p class="sec-sub">Tu arrives à PVG le 17 à 07:15 et tu repars le 18 vers 08:00 : environ 24 h utiles, avec jet lag. Objectif : maximiser la marche, la skyline et la street food sans surcharger.</p>
+
+    <div class="callout gold">
+      <h4>Où dormir — le point stratégique : autour du Bund (Waitan), district de Huangpu</h4>
+      <p>Base la plus rentable pour 24 h : la bande entre <b>East Nanjing Road et le Bund</b>. À pied : Yu Garden, Nanjing Road (shopping), la promenade du Bund face à la skyline de Pudong. Et c'est un accès direct à PVG. <b>Réserve le transfert privé aller-retour directement via l'hôtel</b> (≈ 45–60 min ; alternative rapide : Maglev depuis Longyang Road à 300 km/h). Milieu de gamme correct dans ce périmètre : hôtels de la zone East Nanjing Road / Nanjing East. Je peux te sortir une carte interactive avec des adresses précises et notes à jour si tu veux.</p>
+    </div>
+
+    <h3>Programme 24 h</h3>
+    <ul class="tl">
+      <li><span class="date">17 sept<span>07:15</span></span><span class="dot travel"></span>
+        <h4>Arrivée PVG → transfert privé → dépose des bagages</h4>
+        <p>Check-in probablement pas prêt : laisse les valises à l'hôtel et démarre léger.</p></li>
+      <li><span class="date">Matin</span><span class="dot"></span>
+        <h4>Yu Garden + vieille ville + maison de thé Huxinting</h4>
+        <p>Jardin classique Ming, ruelles, bazar. <b>Xiaolongbao chez Nanxiang</b> (le berceau du ravioli-soupe) pour le premier repas.</p></li>
+      <li><span class="date">Midi</span><span class="dot"></span>
+        <h4>Le Bund (Waitan)</h4>
+        <p>Promenade le long du Huangpu, architecture coloniale d'un côté, gratte-ciels de Pudong de l'autre.</p></li>
+      <li><span class="date">Après-midi</span><span class="dot"></span>
+        <h4>Concession française — Xintiandi / Tianzifang / Wukang Road</h4>
+        <p>Platanes, cafés, boutiques (ton créneau shopping). Ambiance la plus agréable de la ville.</p></li>
+      <li><span class="date">Fin d'ap.</span><span class="dot"></span>
+        <h4>Pudong — Shanghai Tower (pont d'observation) au coucher du soleil</h4>
+        <p>118e étage, la vue la plus haute de Chine. Sinon rester côté Bund pour le crépuscule.</p></li>
+      <li><span class="date">Soir</span><span class="dot"></span>
+        <h4>Le Bund illuminé + dîner</h4>
+        <p>La skyline s'allume : le moment carte postale. Option croisière sur le Huangpu. Dîner cuisine shanghaïenne.</p></li>
+      <li><span class="date">18 sept<span>~08:00</span></span><span class="dot travel"></span>
+        <h4>Transfert privé → PVG</h4>
+        <p>Vol international NH974 à 11:35 : être à l'aéroport ~2h30 avant. Petit-déj tôt.</p></li>
+    </ul>
+  </div>
+</section>
+
+<!-- 03 — KANSAI -->
+<section id="kansai">
+  <div class="wrap reveal">
+    <div class="sec-head"><span class="sec-num">03</span><h2>Osaka / <em>Kansai</em></h2><span class="pill lock">3 nuits · 18–21 sept</span></div>
+    <p class="sec-sub">Base Osaka pour les deux incontournables Kansai — Musée Nintendo et USJ — le tout en plein début de Silver Week. La boucle voiture, elle, se fera au Kyushu (plus dépaysant, réseau routier idéal pour une boucle).</p>
+
+    <ul class="tl">
+      <li><span class="date">18 sept<span>ven</span></span><span class="dot travel"></span>
+        <h4>KIX 14:55 → Osaka · soirée Dotonbori</h4>
+        <p>Néons, canal, street food. Décompression après le vol.</p></li>
+      <li><span class="date">19 sept<span>sam</span></span><span class="dot sw"></span>
+        <h4>Musée Nintendo (Uji) <span class="pill lock">Billet 14:00–14:30</span> <span class="pill sw">Silver Week</span></h4>
+        <p>Accès en train uniquement (pas de parking visiteurs). QR récupérable dès 14:00 la veille. Matinée libre à Osaka avant de filer vers Uji.</p></li>
+      <li><span class="date">20 sept<span>dim</span></span><span class="dot sw"></span>
+        <h4>Universal Studios Japan <span class="pill lock">Express Pass</span> <span class="pill sw">Silver Week</span></h4>
+        <p>C'est le seul créneau possible dans la fenêtre (19 = Nintendo, 21 = Shinkansen). Dimanche de Silver Week = affluence maximale : <b>Express Pass indispensable</b>, entrée dès l'ouverture, Super Nintendo World en priorité via l'appli.</p></li>
+      <li><span class="date">21 sept<span>lun</span></span><span class="dot travel"></span>
+        <h4>Shin-Osaka → Hakata <span class="pill lock">Sièges réservés</span> <span class="pill sw">Jour de pointe</span></h4>
+        <p>Jour férié en pleine Silver Week : <b>réserver les places dès l'ouverture des ventes (J-30)</b>. Départ tôt pour attaquer la boucle Kyushu dans la journée.</p></li>
+    </ul>
+
+    <div class="callout warn">
+      <h4>Le point de tension à assumer : USJ un dimanche de Silver Week</h4>
+      <p>Avec Nintendo bloqué le 19 et le Shinkansen le 21, USJ tombe forcément le 20 — le pire jour possible pour l'affluence. Il n'y a pas de meilleure fenêtre dans la structure actuelle : l'Express Pass est la seule vraie parade. Arrivée avant l'ouverture, réservation des créneaux Super Nintendo World dès l'entrée.</p>
+    </div>
+
+    <div class="food">
+      <div class="f"><span>Dotonbori</span><b>Takoyaki · okonomiyaki · kushikatsu</b><p>Le triptyque street food d'Osaka, à faire le soir du 18.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- 04 — KYUSHU LOOP (signature) -->
+<section id="kyushu">
+  <div class="wrap reveal">
+    <div class="sec-head"><span class="sec-num">04</span><h2>La boucle <em>Kyushu</em></h2><span class="pill drive">Voiture · 4 nuits · 21–25 sept</span></div>
+    <p class="sec-sub">Le cœur authentique du voyage : une boucle au départ et à l'arrivée de Hakata, pensée pour que la route elle-même soit une attraction (Yamanami Highway, Milk Road d'Aso) et pour que chaque étape ait son plat ancré dans sa géographie.</p>
+
+    <div class="loop-wrap">
+      <svg class="loop-svg" viewBox="0 0 760 420" role="img" aria-label="Boucle routière du Kyushu : Hakata, Yanagawa, Kumamoto, Aso, Takachiho, Beppu, retour Hakata">
+        <path id="loopPath" class="road" d="M150,80 L150,180 Q150,220 200,240 L330,300 Q400,330 470,300 L560,250 Q610,220 600,160 L560,90 Q540,60 480,60 L560,250" />
+        <!-- chemin animé qui redessine la boucle -->
+        <path class="road-anim" id="loopAnim" d="M150,80 L150,180 Q150,220 200,240 L330,300 Q400,330 470,300 L560,250 Q610,220 600,160 L560,90 Q540,60 480,60" />
+        <!-- noeuds -->
+        <g class="node hub"><circle cx="150" cy="80" r="8"/><text x="150" y="60" text-anchor="middle">HAKATA</text><text class="sub" x="150" y="46" text-anchor="middle">départ · retour</text></g>
+        <g class="node"><circle cx="150" cy="185" r="6"/><text x="120" y="205" text-anchor="end">YANAGAWA</text><text class="sub" x="120" y="219" text-anchor="end">donko-bune · unagi</text></g>
+        <g class="node"><circle cx="330" cy="302" r="6"/><text x="330" y="330" text-anchor="middle">KUMAMOTO</text><text class="sub" x="330" y="344" text-anchor="middle">château · basashi</text></g>
+        <g class="node"><circle cx="470" cy="300" r="6"/><text x="470" y="330" text-anchor="middle">ASO</text><text class="sub" x="470" y="344" text-anchor="middle">Milk Road · akaushi</text></g>
+        <g class="node"><circle cx="480" cy="60" r="6"/><text x="480" y="44" text-anchor="middle">TAKACHIHO</text><text class="sub" x="480" y="30" text-anchor="middle">gorge · kagura</text></g>
+        <g class="node"><circle cx="600" cy="160" r="6"/><text x="628" y="160" text-anchor="start">BEPPU</text><text class="sub" x="628" y="174" text-anchor="start">jigoku-mushi · sable</text></g>
+      </svg>
+    </div>
+
+    <ul class="tl">
+      <li><span class="date">21 sept<span>J1 · lun</span></span><span class="dot drive sw" style="background:var(--ochre)"></span>
+        <h4>Hakata → Yanagawa → Kumamoto <span class="pill sw">Silver Week</span></h4>
+        <p>Arrivée Shinkansen, prise du véhicule à Hakata. Balade en <b>donko-bune</b> (barque) sur les canaux de Yanagawa, <b>unagi</b> à midi. Puis Kumamoto : château, <b>basashi</b> (cheval) au dîner. Nuit Kumamoto.</p></li>
+      <li><span class="date">22 sept<span>J2 · mar</span></span><span class="dot drive sw" style="background:var(--ochre)"></span>
+        <h4>Kumamoto → Aso → Takachiho <span class="pill sw">Férié pont</span></h4>
+        <p>Route panoramique : <b>Milk Road</b> et point de vue <b>Daikanbo</b> sur la caldeira d'Aso, déjeuner <b>akaushi</b> (bœuf rouge d'Aso). Gorge de Takachiho (barque optionnelle) puis <b>kagura</b> (danse sacrée) à 20h. Nuit Takachiho.</p></li>
+      <li><span class="date">23 sept<span>J3 · mer</span></span><span class="dot drive sw" style="background:var(--ochre)"></span>
+        <h4>Takachiho → Beppu · Yamanami Highway <span class="pill sw">Équinoxe</span></h4>
+        <p>La <b>Yamanami Highway</b> intégrale comme attraction à part entière — l'une des plus belles routes du Japon. Arrivée Beppu. Nuit Beppu (ryokan rotenburo privatif).</p></li>
+      <li><span class="date">24 sept<span>J4 · jeu</span></span><span class="dot" style="background:var(--shu)"></span>
+        <h4>Journée complète Beppu</h4>
+        <p><b>Jigoku-mushi</b> (cuisson vapeur des sources chaudes, participatif), quartier <b>Kannawa</b>, et <b>bain de sable</b> (tattoo-friendly, on reste habillé). Nuit Beppu.</p></li>
+      <li><span class="date">25 sept<span>J5 · ven</span></span><span class="dot travel"></span>
+        <h4>Beppu → Hakata · retour du véhicule (boucle bouclée) → Nagoya</h4>
+        <p>Retour à Hakata, restitution de la voiture, puis Shinkansen vers Nagoya. Nuit Nagoya.</p></li>
+    </ul>
+
+    <div class="food">
+      <div class="f"><span>Yanagawa</span><b>Unagi no seiro-mushi</b><p>Anguille vapeur sur riz, spécialité locale.</p></div>
+      <div class="f"><span>Kumamoto</span><b>Basashi</b><p>Sashimi de cheval, emblème de la ville.</p></div>
+      <div class="f"><span>Aso</span><b>Akaushi</b><p>Bœuf rouge élevé sur la caldeira.</p></div>
+      <div class="f"><span>Beppu</span><b>Jigoku-mushi</b><p>Légumes et fruits de mer cuits à la vapeur volcanique.</p></div>
+    </div>
+
+    <div class="callout">
+      <h4>Écarté au Kyushu (et pourquoi)</h4>
+      <p>Kagoshima, Miyazaki-ville, Nagasaki (incompatibles géographiquement avec la boucle) ; Karatsu (gardé pour un futur voyage dédié) ; circuit complet des « enfers » de Beppu et Yufuin Floral Village (passifs / kitsch — on préfère le participatif).</p>
+    </div>
+  </div>
+</section>
+
+<!-- 05 — NAGOYA / GIFU -->
+<section id="gifu">
+  <div class="wrap reveal">
+    <div class="sec-head"><span class="sec-num">05</span><h2>Nagoya / <em>Gifu</em></h2><span class="pill lock">1 nuit · 25–26 sept</span></div>
+    <p class="sec-sub">La nuit Nagoya n'existe que pour rendre possible l'atelier de forge de couteau à Gifu le 26 (via Japan Experience). Gifu-Hashima est sur la ligne Tokaido Shinkansen : c'est l'unique point d'insertion logique entre Kyushu et Tokyo.</p>
+    <ul class="tl">
+      <li><span class="date">26 sept<span>sam</span></span><span class="dot" style="background:var(--shu)"></span>
+        <h4>Atelier forge de couteau — Gifu <span class="pill lock">100 % annul. à J-10</span></h4>
+        <p>Expérience participative (ta ligne directrice : faire, pas subir). Puis Shinkansen Nagoya → Tokyo dans l'après-midi.</p></li>
+    </ul>
+    <div class="food">
+      <div class="f"><span>Nagoya</span><b>Hitsumabushi</b><p>La version Nagoya de l'anguille, à goûter le soir du 25 si le timing le permet.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- 06 — TOKYO -->
+<section id="tokyo">
+  <div class="wrap reveal">
+    <div class="sec-head"><span class="sec-num">06</span><h2><em>Tokyo</em> — la fin</h2><span class="pill lock">5 nuits · 26 sept–1 oct</span></div>
+    <p class="sec-sub">Cinq nuits pour clôturer, hors Silver Week (elle se termine le 23) : rythme plus détendu, culture + food + shopping, et le créneau naturel pour le <b>baseball</b>. Proposition à affiner ensemble.</p>
+
+    <div class="grid g2">
+      <div class="card"><div class="tag">Jour · culture</div><h4>Yanaka + Asakusa</h4><p>Vieux Tokyo à pied : ruelles de Yanaka, Senso-ji, artisanat de Kappabashi.</p></div>
+      <div class="card"><div class="tag">Jour · food</div><h4>Toyosu + Tsukiji outer market</h4><p>Petit-déj sushi tôt le matin, marché extérieur pour la street food.</p></div>
+      <div class="card"><div class="tag">Jour · shopping</div><h4>Shibuya · Harajuku · Shimokitazawa</h4><p>Du grand carrefour au vintage, ton créneau shopping.</p></div>
+      <div class="card"><div class="tag">Jour · quartiers</div><h4>Shinjuku · Golden Gai · Omoide Yokocho</h4><p>Izakaya, ruelles à lanternes, vie nocturne.</p></div>
+      <div class="card"><div class="tag">Excursion possible</div><h4>Un jour hors Tokyo</h4><p>Kamakura, Nikko ou Yokohama — au choix, sans refaire Hakone.</p></div>
+      <div class="card"><div class="tag">1 oct · départ</div><h4>Dernière journée + HND 22:45</h4><p>Journée pleine possible, bagages à l'hôtel, départ Haneda en soirée.</p></div>
+    </div>
+
+    <div class="callout gold">
+      <h4>⚾ Baseball — le créneau : Tokyo Dome (Yomiuri Giants), 26–30 sept</h4>
+      <p>La saison régulière NPB 2026 court jusqu'au ~30 septembre : ta fenêtre Tokyo tombe pile en fin de saison, l'ambiance est électrique et l'accès est simple. <b>À vérifier sur npb.jp / tokyo-dome.co.jp</b> : les Giants peuvent être à l'extérieur certains soirs — dans ce cas, repli sur les <b>Yakult Swallows au Meiji Jingu Stadium</b>. Alternative Kyushu si tu veux avancer le match : <b>SoftBank Hawks au Mizuho PayPay Dome de Fukuoka</b> (par ex. le soir du 25 au retour à Hakata). Le calendrier détaillé est sorti en janvier 2026 ; je peux te confirmer les affiches exactes des 26–30 si tu veux que je cherche.</p>
+    </div>
+  </div>
+</section>
+
+<!-- 07 — MASTER TIMELINE -->
+<section id="master">
+  <div class="wrap reveal">
+    <div class="sec-head"><span class="sec-num">07</span><h2>Vue <em>d'ensemble</em></h2></div>
+    <ul class="tl">
+      <li><span class="date">16 sept</span><span class="dot travel"></span><h4>Genève → Zurich → Shanghai (nuit en vol)</h4></li>
+      <li><span class="date">17 sept</span><span class="dot"></span><h4>Shanghai express — 24 h, base Le Bund</h4></li>
+      <li><span class="date">18 sept</span><span class="dot travel"></span><h4>Shanghai → Osaka (KIX 14:55) · Dotonbori</h4></li>
+      <li><span class="date">19 sept</span><span class="dot sw"></span><h4>Musée Nintendo, Uji <span class="pill sw">Silver Week</span></h4></li>
+      <li><span class="date">20 sept</span><span class="dot sw"></span><h4>USJ · Express Pass <span class="pill sw">Silver Week</span></h4></li>
+      <li><span class="date">21 sept</span><span class="dot sw" style="background:var(--ochre)"></span><h4>Shinkansen → Hakata · boucle J1 → Kumamoto <span class="pill sw">Silver Week</span></h4></li>
+      <li><span class="date">22 sept</span><span class="dot sw" style="background:var(--ochre)"></span><h4>Boucle J2 · Aso → Takachiho <span class="pill sw">Silver Week</span></h4></li>
+      <li><span class="date">23 sept</span><span class="dot sw" style="background:var(--ochre)"></span><h4>Boucle J3 · Yamanami → Beppu <span class="pill sw">Silver Week</span></h4></li>
+      <li><span class="date">24 sept</span><span class="dot"></span><h4>Beppu — journée complète</h4></li>
+      <li><span class="date">25 sept</span><span class="dot travel"></span><h4>Beppu → Hakata (retour voiture) → Nagoya</h4></li>
+      <li><span class="date">26 sept</span><span class="dot"></span><h4>Forge Gifu → Shinkansen → Tokyo</h4></li>
+      <li><span class="date">27–30</span><span class="dot"></span><h4>Tokyo · culture / food / shopping / baseball</h4></li>
+      <li><span class="date">1 oct</span><span class="dot travel"></span><h4>Tokyo → Haneda 22:45 → Genève</h4></li>
+    </ul>
+  </div>
+</section>
+
+<!-- 08 — RISQUES / TODO -->
+<section id="todo">
+  <div class="wrap reveal">
+    <div class="sec-head"><span class="sec-num">08</span><h2>À réserver & à <em>surveiller</em></h2></div>
+    <ul class="check">
+      <li><b>Shinkansen 21 sept</b> — Shin-Osaka → Hakata, sièges réservés, dès l'ouverture J-30 (jour de pointe Silver Week).</li>
+      <li><b>Transfert privé Shanghai</b> — aller-retour hôtel ↔ PVG, via l'hôtel.</li>
+      <li><b>USJ 20 sept</b> — billets daté + Express Pass (dimanche de Silver Week).</li>
+      <li><b>Atelier forge Gifu</b> — confirmer la résa ; annulation 100 % à J-10, à verrouiller.</li>
+      <li><b>Ryokan Beppu</b> — rotenburo privatif (contrainte tatouage), 2 nuits.</li>
+      <li><b>Location voiture Kyushu</b> — prise/restitution Hakata (boucle) ; permis CH + traduction JAF à bord obligatoire.</li>
+      <li><b>Baseball</b> — vérifier les affiches Tokyo Dome / Jingu 26–30 sept (ou Hawks à Fukuoka le 25).</li>
+      <li><b>Hôtels Tokyo</b> — 5 nuits, quartier à caler (Shinjuku / Shibuya central conseillé).</li>
+      <li><b>Risque typhon / jet lag</b> — plus de jour tampon : surveiller la météo à l'approche, surtout J18–21.</li>
+    </ul>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <p>Document de travail — itinéraire partagé, à affiner ensemble. Musée Nintendo confirmé (billet 19 sept 14:00). Vols Shanghai↔Osaka et Genève↔Tokyo confirmés.</p>
+    <p class="mono" style="margin-top:14px">CHINE × JAPON · SEPT–OCT 2026 · DERNIÈRE MISE À JOUR : 16 JUIL 2026</p>
+  </div>
+</footer>
+
+<script>
+  // scroll-reveal
+  (function(){
+    var els=document.querySelectorAll('.reveal');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in')});return;}
+    var io=new IntersectionObserver(function(entries){
+      entries.forEach(function(en){ if(en.isIntersecting){en.target.classList.add('in');io.unobserve(en.target);} });
+    },{threshold:.12});
+    els.forEach(function(e){io.observe(e)});
+  })();
+
+  // animation du tracé de la boucle Kyushu
+  (function(){
+    var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var p=document.getElementById('loopAnim');
+    if(!p||reduce)return;
+    var len=p.getTotalLength();
+    p.style.strokeDasharray=len;
+    p.style.strokeDashoffset=len;
+    var started=false;
+    var io=new IntersectionObserver(function(en){
+      en.forEach(function(e){
+        if(e.isIntersecting && !started){
+          started=true;
+          p.style.transition='stroke-dashoffset 2.4s ease-in-out';
+          requestAnimationFrame(function(){p.style.strokeDashoffset=0;});
+        }
+      });
+    },{threshold:.3});
+    io.observe(p);
+  })();
+</script>
+</body>
+</html>
