@@ -63,6 +63,7 @@ Arrivée PVG le 17 à 07:15, départ vers ~08:00 le 18 : ~24 h utiles avec jet l
 
 ### Où dormir — point stratégique
 
+Hotel : Atour Hotel Nanjing East Road The Bund, No. 105 Fuzhou Road, Huangpu District , Huangpu, 200001 Shanghai, Chine.
 **Autour du Bund (Waitan), district de Huangpu**, bande **East Nanjing Road ↔ Bund**. À pied : Yu Garden, Nanjing Road (shopping), promenade du Bund face à Pudong. Accès direct PVG.
 - **Réserver le transfert privé aller-retour directement via l'hôtel** (~45–60 min).
 - Alternative rapide : Maglev depuis Longyang Road (300 km/h).
@@ -117,6 +118,10 @@ Avec Nintendo bloqué le 19 et le Shinkansen le 21, **USJ tombe forcément le di
 
 ```
 HAKATA → Yanagawa → Kumamoto → Aso → Takachiho → Beppu → HAKATA
+```
+**Tour alternative**
+```
+HAKATA → Kuratake Shrine → Kumamoto → Takachiho → Aso → Beppu → Tsunoshima Bridge → HAKATA
 ```
 
 | Jour | Date | Trajet | Contenu | Nuit |
@@ -206,21 +211,28 @@ Hors Silver Week (finie le 23) → rythme plus détendu. **Proposition à affine
 
 ## 9. À réserver & à surveiller
 
+- [x] **Permis** — Traduction
+- [x] **Passeport** — Enregistrement du passeport
+- [ ] **Applications Chine** Application pour le chine (Alipay, wechat, amap)
+- [ ] **Applications Japon** Application pour le Japon (tablelog)
 - [ ] **Shinkansen 21 sept** — Shin-Osaka → Hakata, sièges réservés, dès l'ouverture J-30 (pointe Silver Week)
 - [ ] **Transfert privé Shanghai** — A/R hôtel ↔ PVG via l'hôtel
+- [ ] **Hôtels Osaka** — 3 nuits, quartier de la gare
 - [x] **Musée Nintendo** — 19 sept 14:00 — RÉSERVÉ, non annulable
 - [ ] **USJ 20 sept** — billets datés + Express Pass
 - [ ] **Atelier forge Gifu** — confirmer résa ; annulation 100 % à J-10
 - [ ] **Ryokan Beppu** — rotenburo privatif (tatouage), 2 nuits
 - [ ] **Location voiture Kyushu** — prise/restitution Hakata ; permis CH + trad. JAF à bord
 - [ ] **Baseball** — affiches Tokyo Dome / Jingu 26–30 sept (ou Hawks Fukuoka le 25)
+- [ ] **Forge Gifu** - Réservation de la forge ()
 - [ ] **Hôtels Tokyo** — 5 nuits, quartier à caler (Shinjuku / Shibuya central conseillé)
 - [ ] **Risque typhon / jet lag** — plus de jour tampon : surveiller la météo J18–21
+- [ ] **Jeans** Voir pour visiter/réserver (pas obligatoire)
+- [ ] **Baguettes** Voir pour visiter/réserver (pas obligatoire)
 
 ---
 
 ## 10. Ressources
 
-- **Japan Experience** — atelier forge de couteau (Gifu)
+- **Japan Experience** — atelier forge de couteau (Gifu) (https://www.japan-experience.com/fr/activites/autres-regions/forge-a-gifu-fabriquez-votre-propre-couteau)
 - **JAF** — traduction du permis (faite)
-- Billets : références et confirmations dans le dossier privé (non versionné — cf. `.gitignore`)
