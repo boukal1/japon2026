@@ -164,6 +164,27 @@ La nuit Nagoya existe uniquement pour rendre possible l'**atelier de forge de co
 - **Atelier forge : 100 % d'annulation à partir de J-10** → à verrouiller / surveiller.
 - **Food Nagoya** : hitsumabushi (anguille façon Nagoya), le 25 au soir si le timing le permet.
 
+Blacksmithing in Gifu: Craft Your Own Knife 
+1 personnes 
+Date **26 sept. 2026 à 08:50:00 **
+Lieu exact de rendez-vous Gare Shinkansen de Gifu-Hashima, sortie Nord 
+645-1 Fukujuchō Hirakata, Hashima, Gifu, Japan 
+Voir sur Google Maps 
+Veuillez arriver à la gare de Gifu-Hashima via le Tokaido Shinkansen avant 08:50. Le point de rencontre se trouve à la sortie Nord. Si vous ne pouvez pas arriver avant 8:50, veuillez contacter le numéro d'urgence. (+81) **090**-**9944**-**1792** (**ASANOKAJIYA**) Veuillez arriver avant 10h00 au plus tard. Après cette heure, l'événement sera automatiquement annulé. 
+Informations importantes 
+Informations importantes
+Politique d'annulation :
+Frais d'annulation applicables à partir de 10 jours avant la date de l'expérience.
+- De 10 jours avant au jour de l'expérience : 100% du tarif.
+Enfants
+Activité disponible à partir de 10 ans.
+Arrivée
+Veuillez arriver à la gare de Gifu-Hashima par le Tokaido Shinkansen avant 08:50.
+Si vous ne pouvez pas arriver à temps, veuillez contacter le numéro d'urgence. (+81) **090**-**9944**-**1792**
+Veuillez arriver avant 10h00 au plus tard. Après cette heure, l'enregistrement sera automatiquement annulé.
+Précautions
+Risque de brûlure, soyez vigilant. Vêtements de location disponibles.
+
 ---
 
 ## 7. Tokyo (26 sept – 1 oct, 5 nuits)
@@ -224,7 +245,7 @@ Hors Silver Week (finie le 23) → rythme plus détendu. **Proposition à affine
 - [ ] **Ryokan Beppu** — rotenburo privatif (tatouage), 2 nuits
 - [ ] **Location voiture Kyushu** — prise/restitution Hakata ; permis CH + trad. JAF à bord
 - [ ] **Baseball** — affiches Tokyo Dome / Jingu 26–30 sept (ou Hawks Fukuoka le 25)
-- [ ] **Forge Gifu** - Réservation de la forge ()
+- [x] **Forge Gifu** - Réservation de la forge sur japan-experience
 - [ ] **Hôtels Tokyo** — 5 nuits, quartier à caler (Shinjuku / Shibuya central conseillé)
 - [ ] **Risque typhon / jet lag** — plus de jour tampon : surveiller la météo J18–21
 - [ ] **Jeans** Voir pour visiter/réserver (pas obligatoire)
