@@ -202,7 +202,7 @@ Hors Silver Week (finie le 23) → rythme plus détendu. **Proposition à affine
 
 ### Baseball ⚾
 
-**Vérifié sur le calendrier NPB officiel (captures datées 18–30 sept).** La Central League termine sa saison régulière vers le 24 sept : **plus aucun match de 1ʳᵉ division à Tokyo (Giants au Tokyo Dome, Swallows au Jingu) ni à Yokohama (DeNA) pendant le séjour.** Seule la **Pacific League** continue — et deux de ses stades sont accessibles depuis Tokyo.
+**Vérifié et recoupé le 19 juil. 2026 sur les pages détail officielles NPB** (47 matchs de 1ʳᵉ division, 18–30 sept, cf. tableau détaillé plus bas). La Central League termine sa saison régulière **le 24 sept** : **plus aucun match de 1ʳᵉ division à Tokyo (Giants au Tokyo Dome, Swallows au Jingu) ni à Yokohama (DeNA) pendant le séjour.** Seule la **Pacific League** continue — et deux de ses stades sont accessibles depuis Tokyo.
 
 **1ʳᵉ division atteignable depuis Tokyo (confirmé, dates datées) :**
 
@@ -216,6 +216,8 @@ Hors Silver Week (finie le 23) → rythme plus détendu. **Proposition à affine
 
 → **Meilleur créneau : un soir 27, 28 ou 29 à 18:00.** Le 26 (14:00) est trop tôt — arrivée à Tokyo l'après-midi après la forge de Gifu. **Seibu au Belluna Dome** (dispo les 4 soirs) ou **Lotte au ZOZO Marine** (bord de mer, les 27-28).
 
+**Candidats plus tôt dans le voyage (hors Tokyo — cf. tableau détaillé) :** le plus réaliste est **Hanshin–Hiroshima au Koshien le 19 à 18:00** (~1h15 depuis Uji, *après* le créneau Nintendo de 14:00 qui reste le seul verrou de la journée). À la marge : le **18 au soir** au Koshien (jouable mais serré, atterrissage KIX 14:55) et **ORIX–SoftBank au Kyocera le 25** (sur le trajet Shinkansen Hakata→Nagoya, au prix d'une arrivée tardive à Nagoya et du dîner hitsumabushi sacrifié).
+
 - **Plan B — Farm League à Tokyo même :** la réserve des Giants joue au **GIANTS TOWN** (Inagi) vs DeNA les 25/26/27 à 13:00. Décontracté, pas cher, mais niveau réserve (2ᵉ division).
 - Billetterie : sites des clubs (`seibulions.jp`, `marines.co.jp`) ; `e-tix.jp` pour les Giants.
 
@@ -223,59 +225,62 @@ Hors Silver Week (finie le 23) → rythme plus détendu. **Proposition à affine
 
 #### Calendrier NPB jour par jour (1ʳᵉ division, 18 sept – 30 sept)
 
-Relevé sur le calendrier officiel NPB (captures datées). Équipe à domicile citée en premier. `CL` = Central League, `PL` = Pacific League. La colonne « Portée » indique si le match est accessible vu notre position ce jour-là.
+Relevé et **recoupé le 19 juil. 2026** sur les pages détail officielles NPB (`gm2026MMDD.html`) — les 47 matchs vérifiés un à un (équipe à domicile, stade, heure). Équipe à domicile citée en premier. `CL` = Central League, `PL` = Pacific League.
 
-| Date | Ligue | Match (dom. – vis.) | Stade | Heure | Portée |
-|---|---|---|---|---|---|
-| 18 (ven) | CL | Yomiuri – Chunichi | Tokyo Dome | 18:00 | — (Osaka) |
-| 18 (ven) | CL | DeNA – Yakult | Yokohama | 18:00 | — (Osaka) |
-| 18 (ven) | CL | Hanshin – Hiroshima | Koshien | 18:00 | ✅ possible (près d'Osaka) |
-| 19 (sam) | CL | Yomiuri – Chunichi | Tokyo Dome | 14:00 | — |
-| 19 (sam) | CL | DeNA – Yakult | Yokohama | 18:00 | — |
-| 19 (sam) | CL | Hanshin – Hiroshima | Koshien | 18:00 | — (Musée Nintendo) |
-| 19 (sam) | PL | Nippon-Ham – ORIX | ES CON Field | 14:00 | — |
-| 19 (sam) | PL | Rakuten – SoftBank | Rakuten Mobile (Sendai) | 14:00 | — |
-| 19 (sam) | PL | Lotte – Seibu | ZOZO Marine | 18:00 | — |
-| 20 (dim) | CL | Yomiuri – Yakult | Tokyo Dome | 14:00 | — (USJ) |
-| 20 (dim) | CL | Chunichi – Hiroshima | Vantelin Dome | 18:00 | — |
-| 20 (dim) | CL | Hanshin – DeNA | Koshien | 18:00 | — |
-| 20 (dim) | PL | Nippon-Ham – ORIX | ES CON Field | 14:00 | — |
-| 20 (dim) | PL | Rakuten – SoftBank | Rakuten Mobile (Sendai) | 14:00 | — |
-| 20 (dim) | PL | Lotte – Seibu | ZOZO Marine | 18:00 | — |
-| 21 (lun) | CL | Chunichi – Hiroshima | Vantelin Dome | 14:00 | — (Kyushu) |
-| 21 (lun) | CL | Hanshin – DeNA | Koshien | 14:00 | — |
-| 21 (lun) | PL | Nippon-Ham – ORIX | ES CON Field | 14:00 | — |
-| 21 (lun) | PL | Rakuten – SoftBank | Rakuten Mobile (Sendai) | 13:00 | — |
-| 21 (lun) | PL | Lotte – Seibu | ZOZO Marine | 18:00 | — |
-| 22 (mar) | CL | Yakult – Hanshin | Jingu (Tokyo) | 18:00 | — (Takachiho) |
-| 22 (mar) | CL | DeNA – Chunichi | Yokohama | 18:00 | — |
-| 22 (mar) | CL | Hiroshima – Yomiuri | Mazda Stadium | 15:00 | — |
-| 22 (mar) | PL | Nippon-Ham – Rakuten | ES CON Field | 18:00 | — |
-| 22 (mar) | PL | Lotte – ORIX | ZOZO Marine | 18:00 | — |
-| 22 (mar) | PL | SoftBank – Seibu | MIZUHO PayPay (Fukuoka) | 18:00 | — |
-| 23 (mer) | CL | Yakult – Hanshin | Jingu (Tokyo) | 14:00 | — (Beppu) |
-| 23 (mer) | CL | DeNA – Chunichi | Yokohama | 18:00 | — |
-| 23 (mer) | CL | Hiroshima – Yomiuri | Mazda Stadium | 15:00 | — |
-| 23 (mer) | PL | Nippon-Ham – Rakuten | ES CON Field | 18:00 | — |
-| 23 (mer) | PL | Lotte – ORIX | ZOZO Marine | 17:00 | — |
-| 23 (mer) | PL | SoftBank – Seibu | MIZUHO PayPay (Fukuoka) | 14:00 | — |
-| 24 (jeu) | CL | Hiroshima – Yomiuri | Mazda Stadium | 18:00 | — (Beppu) |
-| 24 (jeu) | PL | Nippon-Ham – Rakuten | ES CON Field | 18:00 | — |
-| 25 (ven) | PL | Seibu – Lotte | Belluna Dome | 18:00 | — (transit → Nagoya) |
-| 25 (ven) | PL | ORIX – SoftBank | Kyocera Dome (Osaka) | 18:00 | — |
-| 26 (sam) | PL | Seibu – Lotte | Belluna Dome (Saitama) | 14:00 | ⏳ trop tôt (arrivée Tokyo l'aprem) |
-| 26 (sam) | PL | ORIX – Nippon-Ham | Kyocera Dome (Osaka) | 14:00 | — |
-| 26 (sam) | PL | SoftBank – Rakuten | MIZUHO PayPay (Fukuoka) | 18:00 | — |
-| 27 (dim) | PL | Seibu – Rakuten | Belluna Dome (Saitama) | 18:00 | ✅ **OUI** |
-| 27 (dim) | PL | Lotte – Nippon-Ham | ZOZO Marine (Chiba) | 18:00 | ✅ **OUI** |
-| 27 (dim) | PL | SoftBank – ORIX | MIZUHO PayPay (Fukuoka) | 14:00 | — |
-| 28 (lun) | PL | Seibu – Rakuten | Belluna Dome (Saitama) | 18:00 | ✅ **OUI** |
-| 28 (lun) | PL | Lotte – Nippon-Ham | ZOZO Marine (Chiba) | 18:00 | ✅ **OUI** |
-| 29 (mar) | PL | Seibu – ORIX | Belluna Dome (Saitama) | 18:00 | ✅ **OUI** |
-| 29 (mar) | PL | Rakuten – Lotte | Rakuten Mobile (Sendai) | 18:00 | — |
-| 30 (mer) | PL | Rakuten – Lotte | Rakuten Mobile (Sendai) | 18:00 | — (rien dans le Kanto) |
+- **Distance** = trajet estimé depuis notre position de la journée : **18–20** Osaka/Kansai · **21–24** boucle Kyushu · **25** transit Beppu→Nagoya · **26** Gifu→Tokyo · **27–30** Tokyo.
+- **Candidat ?** = match jouable en réaménageant le planning souple du jour — **sauf** créneau bloqué par un **billet déjà confirmé** (Musée Nintendo le 19 à 14:00, forge de Gifu le 26 à 08:50) ou étape/trajet du jour hors d'atteinte.
 
-*La Farm League (2ᵉ division) joue aussi tous ces jours, dont au GIANTS TOWN (Inagi, Tokyo) : Giants – DeNA les 25, 26, 27 sept à 13:00.*
+| Date | Ligue | Match (dom. – vis.) | Stade (ville) | Heure | Distance (depuis notre position du jour) | Candidat ? |
+|---|---|---|---|---|---|---|
+| 18 (ven) | CL | Yomiuri – Chunichi | Tokyo Dome (Tokyo) | 18:00 | ≈400 km · Shinkansen ~2h45 | ✗ Non |
+| 18 (ven) | CL | DeNA – Yakult | Yokohama Stadium (Yokohama) | 18:00 | ≈430 km | ✗ Non |
+| 18 (ven) | CL | Hanshin – Hiroshima | Koshien (Nishinomiya) | 18:00 | ≈20 km · ~40 min | ✅ Candidat (serré — arrivée KIX 14:55) |
+| 19 (sam) | CL | Yomiuri – Chunichi | Tokyo Dome (Tokyo) | 14:00 | ≈400 km | ✗ Non |
+| 19 (sam) | CL | DeNA – Yakult | Yokohama Stadium (Yokohama) | 18:00 | ≈430 km | ✗ Non |
+| 19 (sam) | CL | Hanshin – Hiroshima | Koshien (Nishinomiya) | 18:00 | ≈55 km depuis Uji · ~1h15 | ✅ Candidat (après le Musée Nintendo) |
+| 19 (sam) | PL | Nippon-Ham – ORIX | ES CON FIELD (Kitahiroshima, Hokkaidō) | 14:00 | ≈1200 km · avion | ✗ Non |
+| 19 (sam) | PL | Rakuten – SoftBank | Rakuten Mobile Park (Sendai) | 14:00 | ≈700 km | ✗ Non |
+| 19 (sam) | PL | Lotte – Seibu | ZOZO Marine (Chiba) | 18:00 | ≈410 km | ✗ Non |
+| 20 (dim) | CL | Yomiuri – Yakult | Tokyo Dome (Tokyo) | 14:00 | ≈400 km | ✗ Non |
+| 20 (dim) | CL | Chunichi – Hiroshima | Vantelin Dome (Nagoya) | 18:00 | ≈180 km · Shinkansen ~50 min | ✗ Non (USJ) |
+| 20 (dim) | CL | Hanshin – DeNA | Koshien (Nishinomiya) | 18:00 | ≈20 km | ✗ Non (USJ) |
+| 20 (dim) | PL | Nippon-Ham – ORIX | ES CON FIELD (Kitahiroshima, Hokkaidō) | 14:00 | ≈1200 km | ✗ Non |
+| 20 (dim) | PL | Rakuten – SoftBank | Rakuten Mobile Park (Sendai) | 14:00 | ≈700 km | ✗ Non |
+| 20 (dim) | PL | Lotte – Seibu | ZOZO Marine (Chiba) | 18:00 | ≈410 km | ✗ Non |
+| 21 (lun) | CL | Chunichi – Hiroshima | Vantelin Dome (Nagoya) | 14:00 | ≈640 km (derrière nous) | ✗ Non (transit Kyushu) |
+| 21 (lun) | CL | Hanshin – DeNA | Koshien (Nishinomiya) | 14:00 | ≈460 km (derrière nous) | ✗ Non (transit) |
+| 21 (lun) | PL | Nippon-Ham – ORIX | ES CON FIELD (Kitahiroshima, Hokkaidō) | 14:00 | >1800 km | ✗ Non |
+| 21 (lun) | PL | Rakuten – SoftBank | Rakuten Mobile Park (Sendai) | 13:00 | ≈1400 km | ✗ Non |
+| 21 (lun) | PL | Lotte – Seibu | ZOZO Marine (Chiba) | 18:00 | ≈1100 km | ✗ Non |
+| 22 (mar) | CL | Yakult – Hanshin | Jingu (Tokyo) | 18:00 | ≈1100 km | ✗ Non |
+| 22 (mar) | CL | DeNA – Chunichi | Yokohama Stadium (Yokohama) | 18:00 | ≈1100 km | ✗ Non |
+| 22 (mar) | CL | Hiroshima – Yomiuri | Mazda Stadium (Hiroshima) | 15:00 | ≈300 km (mer + route) | ✗ Non |
+| 22 (mar) | PL | Nippon-Ham – Rakuten | ES CON FIELD (Kitahiroshima, Hokkaidō) | 18:00 | >1800 km | ✗ Non |
+| 22 (mar) | PL | Lotte – ORIX | ZOZO Marine (Chiba) | 18:00 | ≈1150 km | ✗ Non |
+| 22 (mar) | PL | SoftBank – Seibu | MIZUHO PayPay (Fukuoka) | 18:00 | ≈180 km depuis Takachiho · ~3h | ✗ Non (boucle + kagura 20h) |
+| 23 (mer) | CL | Yakult – Hanshin | Jingu (Tokyo) | 14:00 | ≈1050 km | ✗ Non |
+| 23 (mer) | CL | DeNA – Chunichi | Yokohama Stadium (Yokohama) | 18:00 | ≈1050 km | ✗ Non |
+| 23 (mer) | CL | Hiroshima – Yomiuri | Mazda Stadium (Hiroshima) | 15:00 | ≈250 km | ✗ Non |
+| 23 (mer) | PL | Nippon-Ham – Rakuten | ES CON FIELD (Kitahiroshima, Hokkaidō) | 18:00 | >1800 km | ✗ Non |
+| 23 (mer) | PL | Lotte – ORIX | ZOZO Marine (Chiba) | 17:00 | ≈1100 km | ✗ Non |
+| 23 (mer) | PL | SoftBank – Seibu | MIZUHO PayPay (Fukuoka) | 14:00 | ≈140 km depuis Beppu · ~2h | ✗ Non (Yamanami + ryokan Beppu) |
+| 24 (jeu) | CL | Hiroshima – Yomiuri | Mazda Stadium (Hiroshima) | 18:00 | ≈220 km (train/ferry ~3h) | ✗ Non |
+| 24 (jeu) | PL | Nippon-Ham – Rakuten | ES CON FIELD (Kitahiroshima, Hokkaidō) | 18:00 | >1800 km | ✗ Non |
+| 25 (ven) | PL | Seibu – Lotte | Belluna Dome (Tokorozawa, Saitama) | 18:00 | ≈450 km (en avant) | ✗ Non (transit) |
+| 25 (ven) | PL | ORIX – SoftBank | Kyocera Dome (Osaka) | 18:00 | sur le trajet Shinkansen (arrêt Shin-Osaka, ~15 min métro) | ✅ Candidat (serré — arrivée Nagoya tardive, dîner hitsumabushi sacrifié) |
+| 26 (sam) | PL | Seibu – Lotte | Belluna Dome (Tokorozawa, Saitama) | 14:00 | ≈40 km de Tokyo (mais 14:00 = encore en Shinkansen) | ✗ Non (forge 08:50 + arrivée l'aprem) |
+| 26 (sam) | PL | ORIX – Nippon-Ham | Kyocera Dome (Osaka) | 14:00 | derrière nous | ✗ Non |
+| 26 (sam) | PL | SoftBank – Rakuten | MIZUHO PayPay (Fukuoka) | 18:00 | >1000 km | ✗ Non |
+| 27 (dim) | PL | Seibu – Rakuten | Belluna Dome (Tokorozawa, Saitama) | 18:00 | ≈40 km · Seibu line ~1h | ✅ Candidat |
+| 27 (dim) | PL | Lotte – Nippon-Ham | ZOZO Marine (Chiba) | 18:00 | ≈35 km · ~50 min | ✅ Candidat |
+| 27 (dim) | PL | SoftBank – ORIX | MIZUHO PayPay (Fukuoka) | 14:00 | >1000 km | ✗ Non |
+| 28 (lun) | PL | Seibu – Rakuten | Belluna Dome (Tokorozawa, Saitama) | 18:00 | ≈40 km · ~1h | ✅ Candidat |
+| 28 (lun) | PL | Lotte – Nippon-Ham | ZOZO Marine (Chiba) | 18:00 | ≈35 km · ~50 min | ✅ Candidat |
+| 29 (mar) | PL | Seibu – ORIX | Belluna Dome (Tokorozawa, Saitama) | 18:00 | ≈40 km · ~1h | ✅ Candidat |
+| 29 (mar) | PL | Rakuten – Lotte | Rakuten Mobile Park (Sendai) | 18:00 | ≈350 km · Shinkansen ~1h35 | ✗ Non (excursion soir lourde) |
+| 30 (mer) | PL | Rakuten – Lotte | Rakuten Mobile Park (Sendai) | 18:00 | ≈350 km · Shinkansen ~1h35 | ✗ Non (rien d'autre dans le Kanto) |
+
+*La Farm League (2ᵉ division) joue la plupart de ces jours — **rien les 24, 28, 29 et 30 sept (saison Farm terminée le 27)**. Seul stade dans le Kanto : le **GIANTS TOWN** (Inagi, Tokyo), Giants – DeNA les 25, 26 et 27 sept à 13:00 (recoupé le 19 juil. 2026 sur les pages détail `fgm2026MMDD.html`).*
 
 ---
 
