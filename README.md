@@ -202,11 +202,22 @@ Hors Silver Week (finie le 23) → rythme plus détendu. **Proposition à affine
 
 ### Baseball ⚾
 
-- **Saison régulière confirmée pendant la fenêtre Tokyo.** La Climax Series (playoffs) démarre le **10 octobre 2026**, donc le championnat va jusqu'à ~début octobre : les 26 sept → 1 oct tombent en pleine fin de saison régulière.
-- ⚠️ **Tokyo Dome (Giants) : PAS de match dans la fenêtre.** Calendrier officiel du Tokyo Dome vérifié : dernier match des Giants à domicile le **20 sept** (vs Yakult), puis concerts les 22-23 et **rien du 24 au 30**. Les Giants sont en déplacement pour la fin de saison → le Tokyo Dome n'est pas une option les 26-30.
-- **Option Tokyo restante : Yakult Swallows au Meiji Jingu Stadium** — à confirmer (calendrier fin sept à vérifier ; possible que les Giants y jouent en déplacement, ou que les Swallows reçoivent une autre équipe).
-- ~~Alternative Fukuoka (Hawks)~~ → **écartée**. Calendrier domicile des Hawks vérifié : ils reçoivent le **26 (vs Rakuten 18:00)** et le **27 (vs Orix 14:00)**, mais **rien le 25**. Or le J5 (25 sept) nous fait quitter Hakata pour Nagoya, et dès le 26 on est à Gifu puis Tokyo → on n'est plus au Kyushu. Incompatible avec la boucle.
-- **À faire :** vérifier le calendrier du Jingu / Swallows pour les 26-30. Billetterie officielle en anglais : **e-tix.jp** (Giants) ; sinon `npb.jp`, `jingu-stadium.com`.
+**Conclusion : pas de baseball à domicile à Tokyo pendant le séjour (26 sept – 1 oct).** Les deux équipes de Tokyo finissent leur calendrier à domicile *avant* l'arrivée, puis partent en déplacement pour la dernière ligne droite (la Climax Series ne démarre que le 10 octobre). Calendriers officiels vérifiés :
+
+- ⚠️ **Tokyo Dome (Giants)** : dernier match à domicile le **20 sept** (vs Yakult), concerts les 22-23, **rien du 24 au 30**. Octobre n'a aucun événement confirmé au Tokyo Dome.
+- ⚠️ **Meiji Jingu (Yakult Swallows)** : dernier match à domicile le **23 sept** (vs Hanshin), **rien à partir du 24**.
+
+**Pour mémoire — matchs existants mais incompatibles avec l'itinéraire :**
+
+| Date | Match | Stade | Où l'on est |
+|---|---|---|---|
+| 22 sept | Swallows–Hanshin 18:00 · **et** Hawks–Seibu 18:00 | Jingu (Tokyo) / Fukuoka | Takachiho (kagura 20h) |
+| 23 sept | Swallows–Hanshin 14:00 · **et** Hawks–Seibu 14:00 | Jingu (Tokyo) / Fukuoka | Route Takachiho → Beppu |
+| 26 sept | Hawks–Rakuten 18:00 | Fukuoka | Gifu → Tokyo |
+| 27 sept | Hawks–Orix 14:00 | Fukuoka | Tokyo |
+
+- **Piste restante si le baseball est prioritaire :** le Kansai (Hanshin au Koshien / Orix au Kyocera Dome d'Osaka) pendant les jours Osaka 18-21 — à vérifier. Sinon, revérifier à l'approche (matchs de rattrapage de fin de saison possibles).
+- Billetterie officielle en anglais : **e-tix.jp** (Giants). Calendriers : `npb.jp`, `jingu-stadium.com`, `softbankhawks.co.jp`.
 
 ---
 
@@ -244,7 +255,7 @@ Hors Silver Week (finie le 23) → rythme plus détendu. **Proposition à affine
 - [ ] **Atelier forge Gifu** — confirmer résa ; annulation 100 % à J-10
 - [ ] **Ryokan Beppu** — rotenburo privatif (tatouage), 2 nuits
 - [ ] **Location voiture Kyushu** — prise/restitution Hakata ; permis CH + trad. JAF à bord
-- [ ] **Baseball** — Tokyo Dome VIDE les 26-30 (Giants en déplacement) ; option restante = Jingu / Swallows à vérifier. Fukuoka écartée.
+- [ ] **Baseball** — pas de match à domicile à Tokyo pendant le séjour (Giants et Swallows en déplacement) ; seule piste = Kansai les 18-21 (Hanshin/Orix), à vérifier
 - [x] **Forge Gifu** - Réservation de la forge sur japan-experience
 - [ ] **Hôtels Tokyo** — 5 nuits, quartier à caler (Shinjuku / Shibuya central conseillé)
 - [ ] **Risque typhon / jet lag** — plus de jour tampon : surveiller la météo J18–21
