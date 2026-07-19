@@ -216,8 +216,16 @@ Hors Silver Week (finie le 23) → rythme plus détendu. **Proposition à affine
 | 26 sept | Hawks–Rakuten 18:00 | Fukuoka | Gifu → Tokyo |
 | 27 sept | Hawks–Orix 14:00 | Fukuoka | Tokyo |
 
-- **Piste restante si le baseball est prioritaire :** le Kansai (Hanshin au Koshien / Orix au Kyocera Dome d'Osaka) pendant les jours Osaka 18-21 — à vérifier. Sinon, revérifier à l'approche (matchs de rattrapage de fin de saison possibles).
-- Billetterie officielle en anglais : **e-tix.jp** (Giants). Calendriers : `npb.jp`, `jingu-stadium.com`, `softbankhawks.co.jp`.
+**Meilleure piste : les autres équipes du Kanto (excursion depuis Tokyo).** La région de Tokyo compte 5 équipes NPB, pas 2. Même Giants et Swallows partis, trois clubs jouent à portée de train pendant les 26-30 (à vérifier) :
+
+| Équipe | Stade | Depuis Tokyo |
+|---|---|---|
+| **Yokohama DeNA BayStars** | Yokohama Stadium | ~30 min (Yokohama = déjà une option d'excursion) |
+| **Saitama Seibu Lions** | Belluna Dome (Tokorozawa) | ~45-60 min |
+| **Chiba Lotte Marines** | ZOZO Marine (Chiba) | ~40 min |
+
+- Autre piste : le Kansai (Hanshin au Koshien / Orix au Kyocera Dome) pendant les jours Osaka 18-21.
+- **À vérifier :** calendrier des 3 clubs Kanto pour les 26-30 (le NPB est bloqué depuis l'outil — à consulter côté navigateur : `npb.jp/bis/eng/2026/calendar/index_09.html`, ou sites des clubs). Billetterie Giants en anglais : **e-tix.jp**.
 
 ---
 
@@ -255,7 +263,7 @@ Hors Silver Week (finie le 23) → rythme plus détendu. **Proposition à affine
 - [ ] **Atelier forge Gifu** — confirmer résa ; annulation 100 % à J-10
 - [ ] **Ryokan Beppu** — rotenburo privatif (tatouage), 2 nuits
 - [ ] **Location voiture Kyushu** — prise/restitution Hakata ; permis CH + trad. JAF à bord
-- [ ] **Baseball** — pas de match à domicile à Tokyo pendant le séjour (Giants et Swallows en déplacement) ; seule piste = Kansai les 18-21 (Hanshin/Orix), à vérifier
+- [ ] **Baseball** — Giants/Swallows absents de Tokyo les 26-30 ; vérifier DeNA (Yokohama) / Seibu (Saitama) / Lotte (Chiba), tous en excursion depuis Tokyo
 - [x] **Forge Gifu** - Réservation de la forge sur japan-experience
 - [ ] **Hôtels Tokyo** — 5 nuits, quartier à caler (Shinjuku / Shibuya central conseillé)
 - [ ] **Risque typhon / jet lag** — plus de jour tampon : surveiller la météo J18–21
