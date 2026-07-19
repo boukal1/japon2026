@@ -221,6 +221,62 @@ Hors Silver Week (finie le 23) → rythme plus détendu. **Proposition à affine
 
 **Écartés :** Tokyo Dome & Jingu (saison CL finie), DeNA/Yokohama (saison CL finie), Hawks à Fukuoka (on a quitté le Kyushu le 25).
 
+#### Calendrier NPB jour par jour (1ʳᵉ division, 18 sept – 30 sept)
+
+Relevé sur le calendrier officiel NPB (captures datées). Équipe à domicile citée en premier. `CL` = Central League, `PL` = Pacific League. La colonne « Portée » indique si le match est accessible vu notre position ce jour-là.
+
+| Date | Ligue | Match (dom. – vis.) | Stade | Heure | Portée |
+|---|---|---|---|---|---|
+| 18 (ven) | CL | Yomiuri – Chunichi | Tokyo Dome | 18:00 | — (Osaka) |
+| 18 (ven) | CL | DeNA – Yakult | Yokohama | 18:00 | — (Osaka) |
+| 18 (ven) | CL | Hanshin – Hiroshima | Koshien | 18:00 | ✅ possible (près d'Osaka) |
+| 19 (sam) | CL | Yomiuri – Chunichi | Tokyo Dome | 14:00 | — |
+| 19 (sam) | CL | DeNA – Yakult | Yokohama | 18:00 | — |
+| 19 (sam) | CL | Hanshin – Hiroshima | Koshien | 18:00 | — (Musée Nintendo) |
+| 19 (sam) | PL | Nippon-Ham – ORIX | ES CON Field | 14:00 | — |
+| 19 (sam) | PL | Rakuten – SoftBank | Rakuten Mobile (Sendai) | 14:00 | — |
+| 19 (sam) | PL | Lotte – Seibu | ZOZO Marine | 18:00 | — |
+| 20 (dim) | CL | Yomiuri – Yakult | Tokyo Dome | 14:00 | — (USJ) |
+| 20 (dim) | CL | Chunichi – Hiroshima | Vantelin Dome | 18:00 | — |
+| 20 (dim) | CL | Hanshin – DeNA | Koshien | 18:00 | — |
+| 20 (dim) | PL | Nippon-Ham – ORIX | ES CON Field | 14:00 | — |
+| 20 (dim) | PL | Rakuten – SoftBank | Rakuten Mobile (Sendai) | 14:00 | — |
+| 20 (dim) | PL | Lotte – Seibu | ZOZO Marine | 18:00 | — |
+| 21 (lun) | CL | Chunichi – Hiroshima | Vantelin Dome | 14:00 | — (Kyushu) |
+| 21 (lun) | CL | Hanshin – DeNA | Koshien | 14:00 | — |
+| 21 (lun) | PL | Nippon-Ham – ORIX | ES CON Field | 14:00 | — |
+| 21 (lun) | PL | Rakuten – SoftBank | Rakuten Mobile (Sendai) | 13:00 | — |
+| 21 (lun) | PL | Lotte – Seibu | ZOZO Marine | 18:00 | — |
+| 22 (mar) | CL | Yakult – Hanshin | Jingu (Tokyo) | 18:00 | — (Takachiho) |
+| 22 (mar) | CL | DeNA – Chunichi | Yokohama | 18:00 | — |
+| 22 (mar) | CL | Hiroshima – Yomiuri | Mazda Stadium | 15:00 | — |
+| 22 (mar) | PL | Nippon-Ham – Rakuten | ES CON Field | 18:00 | — |
+| 22 (mar) | PL | Lotte – ORIX | ZOZO Marine | 18:00 | — |
+| 22 (mar) | PL | SoftBank – Seibu | MIZUHO PayPay (Fukuoka) | 18:00 | — |
+| 23 (mer) | CL | Yakult – Hanshin | Jingu (Tokyo) | 14:00 | — (Beppu) |
+| 23 (mer) | CL | DeNA – Chunichi | Yokohama | 18:00 | — |
+| 23 (mer) | CL | Hiroshima – Yomiuri | Mazda Stadium | 15:00 | — |
+| 23 (mer) | PL | Nippon-Ham – Rakuten | ES CON Field | 18:00 | — |
+| 23 (mer) | PL | Lotte – ORIX | ZOZO Marine | 17:00 | — |
+| 23 (mer) | PL | SoftBank – Seibu | MIZUHO PayPay (Fukuoka) | 14:00 | — |
+| 24 (jeu) | CL | Hiroshima – Yomiuri | Mazda Stadium | 18:00 | — (Beppu) |
+| 24 (jeu) | PL | Nippon-Ham – Rakuten | ES CON Field | 18:00 | — |
+| 25 (ven) | PL | Seibu – Lotte | Belluna Dome | 18:00 | — (transit → Nagoya) |
+| 25 (ven) | PL | ORIX – SoftBank | Kyocera Dome (Osaka) | 18:00 | — |
+| 26 (sam) | PL | Seibu – Lotte | Belluna Dome (Saitama) | 14:00 | ⏳ trop tôt (arrivée Tokyo l'aprem) |
+| 26 (sam) | PL | ORIX – Nippon-Ham | Kyocera Dome (Osaka) | 14:00 | — |
+| 26 (sam) | PL | SoftBank – Rakuten | MIZUHO PayPay (Fukuoka) | 18:00 | — |
+| 27 (dim) | PL | Seibu – Rakuten | Belluna Dome (Saitama) | 18:00 | ✅ **OUI** |
+| 27 (dim) | PL | Lotte – Nippon-Ham | ZOZO Marine (Chiba) | 18:00 | ✅ **OUI** |
+| 27 (dim) | PL | SoftBank – ORIX | MIZUHO PayPay (Fukuoka) | 14:00 | — |
+| 28 (lun) | PL | Seibu – Rakuten | Belluna Dome (Saitama) | 18:00 | ✅ **OUI** |
+| 28 (lun) | PL | Lotte – Nippon-Ham | ZOZO Marine (Chiba) | 18:00 | ✅ **OUI** |
+| 29 (mar) | PL | Seibu – ORIX | Belluna Dome (Saitama) | 18:00 | ✅ **OUI** |
+| 29 (mar) | PL | Rakuten – Lotte | Rakuten Mobile (Sendai) | 18:00 | — |
+| 30 (mer) | PL | Rakuten – Lotte | Rakuten Mobile (Sendai) | 18:00 | — (rien dans le Kanto) |
+
+*La Farm League (2ᵉ division) joue aussi tous ces jours, dont au GIANTS TOWN (Inagi, Tokyo) : Giants – DeNA les 25, 26, 27 sept à 13:00.*
+
 ---
 
 ## 8. Vue d'ensemble jour par jour
