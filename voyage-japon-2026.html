@@ -141,6 +141,19 @@
   .check li.done{opacity:.75}
   .check li b{color:var(--indigo)}
 
+  /* ---------- NPB SCHEDULE TABLE ---------- */
+  .npb{width:100%;border-collapse:collapse;margin:14px 0 6px;font-size:.86rem}
+  .npb th,.npb td{text-align:left;padding:7px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+  .npb th{font-family:"Space Mono",monospace;font-size:.62rem;letter-spacing:.12em;text-transform:uppercase;color:var(--sumi-soft);font-weight:700}
+  .npb td{color:var(--sumi-soft)}
+  .npb .d{font-family:"Space Mono",monospace;font-weight:700;color:var(--indigo);white-space:nowrap}
+  .npb .lg{font-family:"Space Mono",monospace;font-size:.62rem;font-weight:700}
+  .npb .cl{color:var(--shu)} .npb .pl{color:var(--indigo-2)}
+  .npb .hh{font-family:"Space Mono",monospace;white-space:nowrap}
+  .npb tr.go td{background:rgba(185,138,50,.12)}
+  .npb .yes{color:#8a651f;font-weight:700}
+  .npb-wrap{overflow-x:auto}
+
   footer{padding:48px 0 70px;border-top:1px solid var(--line);color:var(--sumi-soft);font-size:.9rem}
   footer .mono{font-size:.72rem;letter-spacing:.1em;opacity:.7}
 
@@ -398,6 +411,64 @@
       <h4>Écartés (pour mémoire)</h4>
       <p><b>Tokyo Dome, Jingu, Yokohama</b> : saison de Central League terminée avant l'arrivée. <b>22-23 sept</b> : Swallows au Jingu et Hawks à Fukuoka jouent, mais on est à Takachiho/Beppu. <b>26-27 sept</b> : Hawks à Fukuoka, mais on a déjà quitté le Kyushu.</p>
     </div>
+
+    <h3>Calendrier NPB jour par jour</h3>
+    <p class="sec-sub" style="margin:6px 0 14px">Relevé sur le calendrier officiel NPB (1ʳᵉ division, équipe à domicile en premier). Les lignes surlignées sont à ta portée pendant le séjour Tokyo.</p>
+    <div class="npb-wrap">
+    <table class="npb">
+      <thead><tr><th>Date</th><th>Lg</th><th>Match (dom. – vis.)</th><th>Stade</th><th>Heure</th><th>Portée</th></tr></thead>
+      <tbody>
+        <tr><td class="d">18 ven</td><td class="lg cl">CL</td><td>Yomiuri – Chunichi</td><td>Tokyo Dome</td><td class="hh">18:00</td><td>— (Osaka)</td></tr>
+        <tr><td class="d">18 ven</td><td class="lg cl">CL</td><td>DeNA – Yakult</td><td>Yokohama</td><td class="hh">18:00</td><td>—</td></tr>
+        <tr class="go"><td class="d">18 ven</td><td class="lg cl">CL</td><td>Hanshin – Hiroshima</td><td>Koshien</td><td class="hh">18:00</td><td class="yes">possible (près d'Osaka)</td></tr>
+        <tr><td class="d">19 sam</td><td class="lg cl">CL</td><td>Yomiuri – Chunichi</td><td>Tokyo Dome</td><td class="hh">14:00</td><td>— (Nintendo)</td></tr>
+        <tr><td class="d">19 sam</td><td class="lg cl">CL</td><td>DeNA – Yakult</td><td>Yokohama</td><td class="hh">18:00</td><td>—</td></tr>
+        <tr><td class="d">19 sam</td><td class="lg cl">CL</td><td>Hanshin – Hiroshima</td><td>Koshien</td><td class="hh">18:00</td><td>—</td></tr>
+        <tr><td class="d">19 sam</td><td class="lg pl">PL</td><td>Nippon-Ham – ORIX</td><td>ES CON Field</td><td class="hh">14:00</td><td>—</td></tr>
+        <tr><td class="d">19 sam</td><td class="lg pl">PL</td><td>Rakuten – SoftBank</td><td>Rakuten Mobile (Sendai)</td><td class="hh">14:00</td><td>—</td></tr>
+        <tr><td class="d">19 sam</td><td class="lg pl">PL</td><td>Lotte – Seibu</td><td>ZOZO Marine</td><td class="hh">18:00</td><td>—</td></tr>
+        <tr><td class="d">20 dim</td><td class="lg cl">CL</td><td>Yomiuri – Yakult</td><td>Tokyo Dome</td><td class="hh">14:00</td><td>— (USJ)</td></tr>
+        <tr><td class="d">20 dim</td><td class="lg cl">CL</td><td>Chunichi – Hiroshima</td><td>Vantelin Dome</td><td class="hh">18:00</td><td>—</td></tr>
+        <tr><td class="d">20 dim</td><td class="lg cl">CL</td><td>Hanshin – DeNA</td><td>Koshien</td><td class="hh">18:00</td><td>—</td></tr>
+        <tr><td class="d">20 dim</td><td class="lg pl">PL</td><td>Nippon-Ham – ORIX</td><td>ES CON Field</td><td class="hh">14:00</td><td>—</td></tr>
+        <tr><td class="d">20 dim</td><td class="lg pl">PL</td><td>Rakuten – SoftBank</td><td>Rakuten Mobile (Sendai)</td><td class="hh">14:00</td><td>—</td></tr>
+        <tr><td class="d">20 dim</td><td class="lg pl">PL</td><td>Lotte – Seibu</td><td>ZOZO Marine</td><td class="hh">18:00</td><td>—</td></tr>
+        <tr><td class="d">21 lun</td><td class="lg cl">CL</td><td>Chunichi – Hiroshima</td><td>Vantelin Dome</td><td class="hh">14:00</td><td>— (Kyushu)</td></tr>
+        <tr><td class="d">21 lun</td><td class="lg cl">CL</td><td>Hanshin – DeNA</td><td>Koshien</td><td class="hh">14:00</td><td>—</td></tr>
+        <tr><td class="d">21 lun</td><td class="lg pl">PL</td><td>Nippon-Ham – ORIX</td><td>ES CON Field</td><td class="hh">14:00</td><td>—</td></tr>
+        <tr><td class="d">21 lun</td><td class="lg pl">PL</td><td>Rakuten – SoftBank</td><td>Rakuten Mobile (Sendai)</td><td class="hh">13:00</td><td>—</td></tr>
+        <tr><td class="d">21 lun</td><td class="lg pl">PL</td><td>Lotte – Seibu</td><td>ZOZO Marine</td><td class="hh">18:00</td><td>—</td></tr>
+        <tr><td class="d">22 mar</td><td class="lg cl">CL</td><td>Yakult – Hanshin</td><td>Jingu (Tokyo)</td><td class="hh">18:00</td><td>— (Takachiho)</td></tr>
+        <tr><td class="d">22 mar</td><td class="lg cl">CL</td><td>DeNA – Chunichi</td><td>Yokohama</td><td class="hh">18:00</td><td>—</td></tr>
+        <tr><td class="d">22 mar</td><td class="lg cl">CL</td><td>Hiroshima – Yomiuri</td><td>Mazda Stadium</td><td class="hh">15:00</td><td>—</td></tr>
+        <tr><td class="d">22 mar</td><td class="lg pl">PL</td><td>Nippon-Ham – Rakuten</td><td>ES CON Field</td><td class="hh">18:00</td><td>—</td></tr>
+        <tr><td class="d">22 mar</td><td class="lg pl">PL</td><td>Lotte – ORIX</td><td>ZOZO Marine</td><td class="hh">18:00</td><td>—</td></tr>
+        <tr><td class="d">22 mar</td><td class="lg pl">PL</td><td>SoftBank – Seibu</td><td>MIZUHO PayPay (Fukuoka)</td><td class="hh">18:00</td><td>—</td></tr>
+        <tr><td class="d">23 mer</td><td class="lg cl">CL</td><td>Yakult – Hanshin</td><td>Jingu (Tokyo)</td><td class="hh">14:00</td><td>— (Beppu)</td></tr>
+        <tr><td class="d">23 mer</td><td class="lg cl">CL</td><td>DeNA – Chunichi</td><td>Yokohama</td><td class="hh">18:00</td><td>—</td></tr>
+        <tr><td class="d">23 mer</td><td class="lg cl">CL</td><td>Hiroshima – Yomiuri</td><td>Mazda Stadium</td><td class="hh">15:00</td><td>—</td></tr>
+        <tr><td class="d">23 mer</td><td class="lg pl">PL</td><td>Nippon-Ham – Rakuten</td><td>ES CON Field</td><td class="hh">18:00</td><td>—</td></tr>
+        <tr><td class="d">23 mer</td><td class="lg pl">PL</td><td>Lotte – ORIX</td><td>ZOZO Marine</td><td class="hh">17:00</td><td>—</td></tr>
+        <tr><td class="d">23 mer</td><td class="lg pl">PL</td><td>SoftBank – Seibu</td><td>MIZUHO PayPay (Fukuoka)</td><td class="hh">14:00</td><td>—</td></tr>
+        <tr><td class="d">24 jeu</td><td class="lg cl">CL</td><td>Hiroshima – Yomiuri</td><td>Mazda Stadium</td><td class="hh">18:00</td><td>— (Beppu)</td></tr>
+        <tr><td class="d">24 jeu</td><td class="lg pl">PL</td><td>Nippon-Ham – Rakuten</td><td>ES CON Field</td><td class="hh">18:00</td><td>—</td></tr>
+        <tr><td class="d">25 ven</td><td class="lg pl">PL</td><td>Seibu – Lotte</td><td>Belluna Dome</td><td class="hh">18:00</td><td>— (transit → Nagoya)</td></tr>
+        <tr><td class="d">25 ven</td><td class="lg pl">PL</td><td>ORIX – SoftBank</td><td>Kyocera Dome (Osaka)</td><td class="hh">18:00</td><td>—</td></tr>
+        <tr><td class="d">26 sam</td><td class="lg pl">PL</td><td>Seibu – Lotte</td><td>Belluna Dome (Saitama)</td><td class="hh">14:00</td><td>trop tôt (arrivée l'aprem)</td></tr>
+        <tr><td class="d">26 sam</td><td class="lg pl">PL</td><td>ORIX – Nippon-Ham</td><td>Kyocera Dome (Osaka)</td><td class="hh">14:00</td><td>—</td></tr>
+        <tr><td class="d">26 sam</td><td class="lg pl">PL</td><td>SoftBank – Rakuten</td><td>MIZUHO PayPay (Fukuoka)</td><td class="hh">18:00</td><td>—</td></tr>
+        <tr class="go"><td class="d">27 dim</td><td class="lg pl">PL</td><td>Seibu – Rakuten</td><td>Belluna Dome (Saitama)</td><td class="hh">18:00</td><td class="yes">OUI</td></tr>
+        <tr class="go"><td class="d">27 dim</td><td class="lg pl">PL</td><td>Lotte – Nippon-Ham</td><td>ZOZO Marine (Chiba)</td><td class="hh">18:00</td><td class="yes">OUI</td></tr>
+        <tr><td class="d">27 dim</td><td class="lg pl">PL</td><td>SoftBank – ORIX</td><td>MIZUHO PayPay (Fukuoka)</td><td class="hh">14:00</td><td>—</td></tr>
+        <tr class="go"><td class="d">28 lun</td><td class="lg pl">PL</td><td>Seibu – Rakuten</td><td>Belluna Dome (Saitama)</td><td class="hh">18:00</td><td class="yes">OUI</td></tr>
+        <tr class="go"><td class="d">28 lun</td><td class="lg pl">PL</td><td>Lotte – Nippon-Ham</td><td>ZOZO Marine (Chiba)</td><td class="hh">18:00</td><td class="yes">OUI</td></tr>
+        <tr class="go"><td class="d">29 mar</td><td class="lg pl">PL</td><td>Seibu – ORIX</td><td>Belluna Dome (Saitama)</td><td class="hh">18:00</td><td class="yes">OUI</td></tr>
+        <tr><td class="d">29 mar</td><td class="lg pl">PL</td><td>Rakuten – Lotte</td><td>Rakuten Mobile (Sendai)</td><td class="hh">18:00</td><td>—</td></tr>
+        <tr><td class="d">30 mer</td><td class="lg pl">PL</td><td>Rakuten – Lotte</td><td>Rakuten Mobile (Sendai)</td><td class="hh">18:00</td><td>— (rien dans le Kanto)</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <p style="font-size:.85rem;color:var(--sumi-soft);opacity:.8">La Farm League (2ᵉ division) joue aussi tous ces jours, dont au GIANTS TOWN (Inagi, Tokyo) : Giants – DeNA les 25, 26, 27 sept à 13:00.</p>
   </div>
 </section>
 
