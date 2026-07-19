@@ -202,25 +202,24 @@ Hors Silver Week (finie le 23) → rythme plus détendu. **Proposition à affine
 
 ### Baseball ⚾
 
-**Constat : ni le Tokyo Dome ni le Jingu n'ont de match pendant le séjour (26 sept – 1 oct).** Giants (dernier match à domicile le 20 sept) et Swallows (dernier le 23 sept) partent en déplacement pour la fin de saison (la Climax Series ne démarre que le 10 octobre). Mais la région de Tokyo compte **5 équipes NPB** : les banlieues prennent le relais.
+**Vérifié sur le calendrier NPB officiel (captures datées 18–30 sept).** La Central League termine sa saison régulière vers le 24 sept : **plus aucun match de 1ʳᵉ division à Tokyo (Giants au Tokyo Dome, Swallows au Jingu) ni à Yokohama (DeNA) pendant le séjour.** Seule la **Pacific League** continue — et deux de ses stades sont accessibles depuis Tokyo.
 
-**Matchs de 1ʳᵉ division atteignables depuis Tokyo** (recoupé sur le calendrier NPB, dates calées via le calendrier officiel des Hawks — à reconfirmer à la billetterie le moment venu) :
+**1ʳᵉ division atteignable depuis Tokyo (confirmé, dates datées) :**
 
 | Date | Match | Stade | Depuis Tokyo |
 |---|---|---|---|
 | 26 (sam) | Seibu vs Lotte, 14:00 | Belluna Dome (Saitama) | ~45-60 min |
-| 27 (dim) | Seibu vs Rakuten 18:00 · **ou** Lotte vs Nippon-Ham 18:00 | Belluna / ZOZO Marine (Chiba) | ~60 / ~40 min |
-| 28 (lun) | Seibu vs Rakuten 18:00 · **ou** Lotte vs Nippon-Ham 18:00 | Belluna / ZOZO Marine | ~60 / ~40 min |
+| 27 (dim) | Seibu vs Rakuten 18:00 · **et** Lotte vs Nippon-Ham 18:00 | Belluna / ZOZO Marine (Chiba) | ~60 / ~40 min |
+| 28 (lun) | Seibu vs Rakuten 18:00 · **et** Lotte vs Nippon-Ham 18:00 | Belluna / ZOZO Marine | ~60 / ~40 min |
 | 29 (mar) | Seibu vs Orix, 18:00 | Belluna Dome | ~60 min |
-| 30 (mer) | — (rien dans le Kanto) | — | — |
+| 30 (mer) | — (rien dans le Kanto ; seul Rakuten–Lotte à Sendai) | — | — |
 
-→ **Meilleur pari : Seibu au Belluna Dome** (4 soirs sur 5). Le **ZOZO Marine** (Lotte, stade au bord de la mer) est sympa aussi les 27-28.
+→ **Meilleur créneau : un soir 27, 28 ou 29 à 18:00.** Le 26 (14:00) est trop tôt — arrivée à Tokyo l'après-midi après la forge de Gifu. **Seibu au Belluna Dome** (dispo les 4 soirs) ou **Lotte au ZOZO Marine** (bord de mer, les 27-28).
 
-- **DeNA (Yokohama) — à vérifier, mais le plus pratique** (~30 min, combinable avec la journée d'excursion Yokohama/Kamakura). Les BayStars reçoivent bien à Yokohama en semaine ; leurs dates de fin septembre restent à confirmer (`baystars.co.jp`, e-tix).
-- **Plan C — Farm League (2ᵉ division), tous les jours, dans Tokyo même** : ambiance intimiste, billets bon marché. Stades : **GIANTS TOWN** (Inagi, Tokyo, neuf), Toda (Yakult), Yokosuka (DeNA), CAR3219FIELD (Seibu). Niveau réserve, pas le spectacle de 1ʳᵉ division.
-- Billetterie Giants en anglais : **e-tix.jp**.
+- **Plan B — Farm League à Tokyo même :** la réserve des Giants joue au **GIANTS TOWN** (Inagi) vs DeNA les 25/26/27 à 13:00. Décontracté, pas cher, mais niveau réserve (2ᵉ division).
+- Billetterie : sites des clubs (`seibulions.jp`, `marines.co.jp`) ; `e-tix.jp` pour les Giants.
 
-**Matchs écartés (pour mémoire) :** 22-23 sept, Swallows au Jingu et Hawks à Fukuoka jouent — mais on est à Takachiho/Beppu ; 26-27 sept, Hawks à Fukuoka — mais on a quitté le Kyushu.
+**Écartés :** Tokyo Dome & Jingu (saison CL finie), DeNA/Yokohama (saison CL finie), Hawks à Fukuoka (on a quitté le Kyushu le 25).
 
 ---
 
@@ -258,7 +257,7 @@ Hors Silver Week (finie le 23) → rythme plus détendu. **Proposition à affine
 - [ ] **Atelier forge Gifu** — confirmer résa ; annulation 100 % à J-10
 - [ ] **Ryokan Beppu** — rotenburo privatif (tatouage), 2 nuits
 - [ ] **Location voiture Kyushu** — prise/restitution Hakata ; permis CH + trad. JAF à bord
-- [ ] **Baseball** — meilleur pari Seibu au Belluna Dome (26-29) ou Lotte au ZOZO Marine (27-28) ; vérifier DeNA/Yokohama (le plus pratique). Tokyo Dome & Jingu vides.
+- [ ] **Baseball** — un soir 27/28/29 à 18:00 : Seibu au Belluna Dome (Saitama) ou Lotte au ZOZO Marine (Chiba). CL finie → rien à Tokyo/Yokohama.
 - [x] **Forge Gifu** - Réservation de la forge sur japan-experience
 - [ ] **Hôtels Tokyo** — 5 nuits, quartier à caler (Shinjuku / Shibuya central conseillé)
 - [ ] **Risque typhon / jet lag** — plus de jour tampon : surveiller la météo J18–21
