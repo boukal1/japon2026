@@ -202,11 +202,11 @@ Hors Silver Week (finie le 23) → rythme plus détendu. **Proposition à affine
 
 ### Baseball ⚾
 
-- Saison régulière NPB 2026 → jusqu'au **~30 septembre** : la fenêtre Tokyo tombe pile en fin de saison.
-- **Créneau recommandé : Tokyo Dome (Yomiuri Giants), 26–30 sept** — ambiance électrique, accès simple.
-- Repli si Giants à l'extérieur : **Yakult Swallows au Meiji Jingu Stadium**.
-- Alternative Kyushu (pour avancer) : **SoftBank Hawks au Mizuho PayPay Dome de Fukuoka**, ex. soir du 25 au retour à Hakata.
-- **À faire :** vérifier les affiches exactes sur `npb.jp` / `tokyo-dome.co.jp` (calendrier sorti en janvier 2026).
+- **Saison régulière confirmée pendant la fenêtre Tokyo.** La Climax Series (playoffs) démarre le **10 octobre 2026**, donc le championnat va jusqu'à ~début octobre : les 26 sept → 1 oct tombent en pleine fin de saison régulière, ambiance électrique.
+- **Créneau recommandé : Tokyo Dome (Yomiuri Giants), 26–30 sept.** La saison à domicile des Giants court jusqu'au 30 sept inclus ; il y a très probablement un *home stand* dans la fenêtre (adversaires de fin sept au Tokyo Dome : Yakult, DeNA, Hiroshima, Chunichi). Affiche + horaire exacts à confirmer.
+- **Repli si Giants à l'extérieur : Yakult Swallows au Meiji Jingu Stadium.**
+- ~~Alternative Fukuoka (Hawks) le 25~~ → **écartée** : pas de match à domicile des Hawks le 25 sept (leur dernier match à domicile est le **27 sept vs Orix**, jour où l'on est déjà à Tokyo), et le J5 nous fait quitter Hakata pour Nagoya le soir même. Incompatible avec la boucle.
+- **À faire :** vérifier l'affiche exacte à l'approche. Billetterie officielle en anglais pour étrangers : **e-tix.jp** (paiement CB, e-tickets, sans compte japonais). Sinon `npb.jp` / `tokyo-dome.co.jp`.
 
 ---
 
@@ -244,7 +244,7 @@ Hors Silver Week (finie le 23) → rythme plus détendu. **Proposition à affine
 - [ ] **Atelier forge Gifu** — confirmer résa ; annulation 100 % à J-10
 - [ ] **Ryokan Beppu** — rotenburo privatif (tatouage), 2 nuits
 - [ ] **Location voiture Kyushu** — prise/restitution Hakata ; permis CH + trad. JAF à bord
-- [ ] **Baseball** — affiches Tokyo Dome / Jingu 26–30 sept (ou Hawks Fukuoka le 25)
+- [ ] **Baseball** — Tokyo Dome (Giants) 26–30 sept, repli Jingu (Swallows) ; billets sur e-tix.jp (option Fukuoka écartée)
 - [x] **Forge Gifu** - Réservation de la forge sur japan-experience
 - [ ] **Hôtels Tokyo** — 5 nuits, quartier à caler (Shinjuku / Shibuya central conseillé)
 - [ ] **Risque typhon / jet lag** — plus de jour tampon : surveiller la météo J18–21
