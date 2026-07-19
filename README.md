@@ -202,30 +202,25 @@ Hors Silver Week (finie le 23) → rythme plus détendu. **Proposition à affine
 
 ### Baseball ⚾
 
-**Conclusion : pas de baseball à domicile à Tokyo pendant le séjour (26 sept – 1 oct).** Les deux équipes de Tokyo finissent leur calendrier à domicile *avant* l'arrivée, puis partent en déplacement pour la dernière ligne droite (la Climax Series ne démarre que le 10 octobre). Calendriers officiels vérifiés :
+**Constat : ni le Tokyo Dome ni le Jingu n'ont de match pendant le séjour (26 sept – 1 oct).** Giants (dernier match à domicile le 20 sept) et Swallows (dernier le 23 sept) partent en déplacement pour la fin de saison (la Climax Series ne démarre que le 10 octobre). Mais la région de Tokyo compte **5 équipes NPB** : les banlieues prennent le relais.
 
-- ⚠️ **Tokyo Dome (Giants)** : dernier match à domicile le **20 sept** (vs Yakult), concerts les 22-23, **rien du 24 au 30**. Octobre n'a aucun événement confirmé au Tokyo Dome.
-- ⚠️ **Meiji Jingu (Yakult Swallows)** : dernier match à domicile le **23 sept** (vs Hanshin), **rien à partir du 24**.
+**Matchs de 1ʳᵉ division atteignables depuis Tokyo** (recoupé sur le calendrier NPB, dates calées via le calendrier officiel des Hawks — à reconfirmer à la billetterie le moment venu) :
 
-**Pour mémoire — matchs existants mais incompatibles avec l'itinéraire :**
-
-| Date | Match | Stade | Où l'on est |
+| Date | Match | Stade | Depuis Tokyo |
 |---|---|---|---|
-| 22 sept | Swallows–Hanshin 18:00 · **et** Hawks–Seibu 18:00 | Jingu (Tokyo) / Fukuoka | Takachiho (kagura 20h) |
-| 23 sept | Swallows–Hanshin 14:00 · **et** Hawks–Seibu 14:00 | Jingu (Tokyo) / Fukuoka | Route Takachiho → Beppu |
-| 26 sept | Hawks–Rakuten 18:00 | Fukuoka | Gifu → Tokyo |
-| 27 sept | Hawks–Orix 14:00 | Fukuoka | Tokyo |
+| 26 (sam) | Seibu vs Lotte, 14:00 | Belluna Dome (Saitama) | ~45-60 min |
+| 27 (dim) | Seibu vs Rakuten 18:00 · **ou** Lotte vs Nippon-Ham 18:00 | Belluna / ZOZO Marine (Chiba) | ~60 / ~40 min |
+| 28 (lun) | Seibu vs Rakuten 18:00 · **ou** Lotte vs Nippon-Ham 18:00 | Belluna / ZOZO Marine | ~60 / ~40 min |
+| 29 (mar) | Seibu vs Orix, 18:00 | Belluna Dome | ~60 min |
+| 30 (mer) | — (rien dans le Kanto) | — | — |
 
-**Meilleure piste : les autres équipes du Kanto (excursion depuis Tokyo).** La région de Tokyo compte 5 équipes NPB, pas 2. Même Giants et Swallows partis, trois clubs jouent à portée de train pendant les 26-30 (à vérifier) :
+→ **Meilleur pari : Seibu au Belluna Dome** (4 soirs sur 5). Le **ZOZO Marine** (Lotte, stade au bord de la mer) est sympa aussi les 27-28.
 
-| Équipe | Stade | Depuis Tokyo |
-|---|---|---|
-| **Yokohama DeNA BayStars** | Yokohama Stadium | ~30 min (Yokohama = déjà une option d'excursion) |
-| **Saitama Seibu Lions** | Belluna Dome (Tokorozawa) | ~45-60 min |
-| **Chiba Lotte Marines** | ZOZO Marine (Chiba) | ~40 min |
+- **DeNA (Yokohama) — à vérifier, mais le plus pratique** (~30 min, combinable avec la journée d'excursion Yokohama/Kamakura). Les BayStars reçoivent bien à Yokohama en semaine ; leurs dates de fin septembre restent à confirmer (`baystars.co.jp`, e-tix).
+- **Plan C — Farm League (2ᵉ division), tous les jours, dans Tokyo même** : ambiance intimiste, billets bon marché. Stades : **GIANTS TOWN** (Inagi, Tokyo, neuf), Toda (Yakult), Yokosuka (DeNA), CAR3219FIELD (Seibu). Niveau réserve, pas le spectacle de 1ʳᵉ division.
+- Billetterie Giants en anglais : **e-tix.jp**.
 
-- Autre piste : le Kansai (Hanshin au Koshien / Orix au Kyocera Dome) pendant les jours Osaka 18-21.
-- **À vérifier :** calendrier des 3 clubs Kanto pour les 26-30 (le NPB est bloqué depuis l'outil — à consulter côté navigateur : `npb.jp/bis/eng/2026/calendar/index_09.html`, ou sites des clubs). Billetterie Giants en anglais : **e-tix.jp**.
+**Matchs écartés (pour mémoire) :** 22-23 sept, Swallows au Jingu et Hawks à Fukuoka jouent — mais on est à Takachiho/Beppu ; 26-27 sept, Hawks à Fukuoka — mais on a quitté le Kyushu.
 
 ---
 
@@ -263,7 +258,7 @@ Hors Silver Week (finie le 23) → rythme plus détendu. **Proposition à affine
 - [ ] **Atelier forge Gifu** — confirmer résa ; annulation 100 % à J-10
 - [ ] **Ryokan Beppu** — rotenburo privatif (tatouage), 2 nuits
 - [ ] **Location voiture Kyushu** — prise/restitution Hakata ; permis CH + trad. JAF à bord
-- [ ] **Baseball** — Giants/Swallows absents de Tokyo les 26-30 ; vérifier DeNA (Yokohama) / Seibu (Saitama) / Lotte (Chiba), tous en excursion depuis Tokyo
+- [ ] **Baseball** — meilleur pari Seibu au Belluna Dome (26-29) ou Lotte au ZOZO Marine (27-28) ; vérifier DeNA/Yokohama (le plus pratique). Tokyo Dome & Jingu vides.
 - [x] **Forge Gifu** - Réservation de la forge sur japan-experience
 - [ ] **Hôtels Tokyo** — 5 nuits, quartier à caler (Shinjuku / Shibuya central conseillé)
 - [ ] **Risque typhon / jet lag** — plus de jour tampon : surveiller la météo J18–21
