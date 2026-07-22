@@ -286,27 +286,28 @@ Relevé et **recoupé le 19 juil. 2026** sur les pages détail officielles NPB (
 
 **Règles vérifiées le 22 juil. 2026** sur les annonces officielles `pokemon-cafe.jp/en/cafe/news` (café rouvert après rénovation le 17 juin 2026). Le café ne prend **que des réservations en ligne** (pas de walk-in pour l'instant à Tokyo) et ça part en **1–2 minutes** : c'est une course.
 
-> ⚠️ **Correction (22 juil.) :** depuis la réouverture, ce n'est **plus** le « J‑31 glissant ». Le café libère les réservations **par LOTS MENSUELS** : tout un mois calendaire s'ouvre **d'un coup**, vers le **1ᵉʳ du mois précédent à 18:00 JST**. Confirmé officiellement : *8–31 juil.* ouvert le **7 juin** 18:00 · *1ᵉʳ–31 août* ouvert le **1ᵉʳ juil.** 18:00.
+> **Point sur le système (recoupé le 22 juil.) :** les **lots mensuels** (mois entier ouvert d'un coup — *8–31 juil.* le 7 juin, *1ᵉʳ–31 août* le 1ᵉʳ juil.) n'étaient qu'une mesure **temporaire** de réouverture. **À partir du 1ᵉʳ août 2026, Tokyo revient au système normal “J‑31 glissant, jour par jour”** — donc **nos dates de septembre s'ouvrent chacune 31 jours avant.** ⚠️ Septembre officiellement « annoncé ultérieurement » au 19 juin → à **reconfirmer sur la page NEWS début août** (retour au J‑31 = scénario attendu par toutes les sources, mais non encore posté par le café).
 
 - **Lieu** : Nihonbashi Takashimaya S.C., **Bâtiment Est, 5ᵉ étage** — ~5 min à pied de la gare de Tokyo (facile à caser un midi). Ouvert **10:30–22:00**.
 - **Fenêtre d'ouverture** : **18:00 JST**. En été/tôt automne le Japon est à **+7 h** sur la Suisse (CEST) → **18:00 JST = 11:00 en Suisse**. Créneau commode depuis Genève/Lausanne.
 - **Format** : session de **90 min**, dernière commande 30 min avant la fin. Groupe de **1 à 6** (on est 2). Les desserts ne viennent **pas** automatiquement — les commander vite sur la tablette.
 - **Le jour J** : se présenter **≥ 15 min avant**. **Plus de 10 min de retard = annulation automatique** (même train en retard, sans exception).
 - **Paiement** : rien à payer pour réserver, **pas besoin de numéro japonais** — juste un e‑mail (code de vérification envoyé → utiliser une boîte accessible sur le moment). Goodies à **pré‑commander uniquement pendant la réservation** (pas en boutique) → décider avant de valider.
-- **Secours** : annulations possibles → des places peuvent retomber en ligne (à rafraîchir la veille au soir, heure du Japon). Ne pas compter sur un walk-in : Tokyo est **100 % sur réservation** actuellement.
+- **Secours** : **5–15 % des résas sont annulées** ; les places libérées retombent en ligne **jusqu'à 22:00 JST la veille** (= 15:00 Suisse) → un écran « complet » à l'ouverture n'est pas le dernier mot. Rafraîchir la veille au soir. Pas de walk-in à Tokyo actuellement (100 % sur réservation).
 
-**Plan d'attaque (dates d'alarme — modèle par lots).** Tout notre séjour tient en **deux frappes**, pas cinq matins :
+**Plan d'attaque (dates d'alarme — J‑31 glissant).** Chaque jour cible a sa propre ouverture à 11:00 (heure suisse) ; on peut retenter chaque matin jusqu'à décrocher :
 
-| Nos dates visées | Ouverture probable du lot | Heure d'alarme (Suisse) |
+| Jour visé à Tokyo | Ouverture (J‑31) | Heure d'alarme (Suisse) |
 |---|---|---|
-| **27, 28, 29, 30 sept** (les 4 d'un seul coup) | ~**1ᵉʳ août**, 18:00 JST | **11:00** |
-| **1ᵉʳ oct** | ~**1ᵉʳ sept**, 18:00 JST | **11:00** |
+| dim 27 sept | jeu **27 août**, 18:00 JST | **11:00** |
+| lun 28 sept | ven **28 août**, 18:00 JST | **11:00** |
+| mar 29 sept | sam **29 août**, 18:00 JST | **11:00** |
+| mer 30 sept | dim **30 août**, 18:00 JST | **11:00** |
+| jeu 1ᵉʳ oct | lun **31 août**, 18:00 JST | **11:00** |
 
-→ **Avantage clé :** comme tout septembre s'ouvre en même temps, on n'est **pas coincé sur un jour précis** — on prend le **premier créneau libre parmi le 27–30** (idéalement un **midi en semaine, lun 28 / mar 29**, combinable avec le baseball du soir à Belluna/ZOZO). Le 1ᵉʳ oct dépend d'un second lot (~1ᵉʳ sept) : bonus, pas plan principal.
+→ **Cible conseillée : un midi en semaine (lun 28 ou mar 29)** — jours souples (culture/food/shopping), combinables avec le **baseball du soir** (Belluna / ZOZO à 18:00) le même jour. Le **1ᵉʳ oct** (dernière journée, vol le soir) reste jouable mais risqué comme unique tentative : viser mi-séjour et garder les autres matins comme munitions.
 
-> ⚠️ **À confirmer :** les dates de sept./oct. **ne sont pas encore annoncées officiellement**. Le café prévient que ça peut changer et publie chaque lot sur `pokemon-cafe.jp/en/cafe/news` ~2–3 semaines avant. **Surveiller cette page fin juillet / début août** pour verrouiller la date exacte du lot de septembre (probablement le 1ᵉʳ août, mais à vérifier).
-
-**Check-list minute (le matin de l'ouverture, 11:00 pile) :** connecté au compte + e‑mail ouvert · page `reserve.pokemon-cafe.jp` déjà chargée · rafraîchir à 11:00:00 · viser un midi 27–30 sept (2 pers.) · valider vite (site qui sature = normal, réessayer sans fermer l'onglet).
+**Check-list minute (le matin J‑31, 11:00 pile) :** connecté au compte + e‑mail ouvert · page `reserve.pokemon-cafe.jp` déjà chargée · rafraîchir à 11:00:00 · choisir date/créneau/2 pers. · valider vite (site qui sature = normal, réessayer sans fermer l'onglet).
 
 ---
 
@@ -345,7 +346,7 @@ Relevé et **recoupé le 19 juil. 2026** sur les pages détail officielles NPB (
 - [ ] **Ryokan Beppu** — rotenburo privatif (tatouage), 2 nuits
 - [ ] **Location voiture Kyushu** — prise/restitution Hakata ; permis CH + trad. JAF à bord
 - [ ] **Baseball** — un soir 27/28/29 à 18:00 : Seibu au Belluna Dome (Saitama) ou Lotte au ZOZO Marine (Chiba). CL finie → rien à Tokyo/Yokohama.
-- [ ] **Pokémon Café (Nihonbashi)** — résa en ligne uniquement, part en 1–2 min. **Lots mensuels** (pas J‑31) : tout septembre (27–30) devrait ouvrir **~1ᵉʳ août à 18:00 JST = 11:00 Suisse**, le 1ᵉʳ oct **~1ᵉʳ sept**. ⚠️ Dates non encore annoncées → **surveiller `pokemon-cafe.jp/en/cafe/news` fin juil./début août** pour verrouiller le jour exact.
+- [ ] **Pokémon Café (Nihonbashi)** — résa en ligne uniquement, part en 1–2 min. **Retour au J‑31 glissant dès le 1ᵉʳ août** (les lots mensuels étaient temporaires) : 27 sept→**27 août**, 28→28, 29→29, 30→30, 1ᵉʳ oct→**31 août**, chaque fois **18:00 JST = 11:00 Suisse**. ⚠️ Sept. « annoncé ultérieurement » → **reconfirmer sur `pokemon-cafe.jp/en/cafe/news` début août**. Secours : annulations rouvrent jusqu'à 22:00 JST la veille.
 - [x] **Forge Gifu** - Réservation de la forge sur japan-experience
 - [ ] **Hôtels Tokyo** — 5 nuits, quartier à caler (Shinjuku / Shibuya central conseillé)
 - [ ] **Risque typhon / jet lag** — plus de jour tampon : surveiller la météo J18–21
