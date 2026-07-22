@@ -4,7 +4,7 @@
 >
 > 🌐 Version en ligne : https://boukal1.github.io/japon2026/
 >
-> Voyageurs : 2 amis · Base : Genève/Lausanne · Budget : milieu de gamme · Dernière mise à jour : 16 juillet 2026.
+> Voyageurs : 2 amis · Base : Genève/Lausanne · Budget : milieu de gamme · Dernière mise à jour : 22 juillet 2026.
 
 ---
 
@@ -282,6 +282,31 @@ Relevé et **recoupé le 19 juil. 2026** sur les pages détail officielles NPB (
 
 *La Farm League (2ᵉ division) joue la plupart de ces jours — **rien les 24, 28, 29 et 30 sept (saison Farm terminée le 27)**. Seul stade dans le Kanto : le **GIANTS TOWN** (Inagi, Tokyo), Giants – DeNA les 25, 26 et 27 sept à 13:00 (recoupé le 19 juil. 2026 sur les pages détail `fgm2026MMDD.html`).*
 
+### Pokémon Café 🍽️ — Nihonbashi (à réserver, difficile)
+
+**Règles vérifiées le 22 juil. 2026** sur `reserve.pokemon-cafe.jp` et guides recoupés (cf. Ressources). Le café ne prend **que des réservations en ligne** et ça part en **moins d'une minute** : c'est une course, pas une résa classique.
+
+- **Lieu** : Nihonbashi Takashimaya S.C., **Bâtiment Est, 5ᵉ étage** — ~5 min à pied de la gare de Tokyo (donc facile à caser un midi entre deux quartiers). Ouvert **10:30–22:00**.
+- **Fenêtre d'ouverture** : les créneaux d'un jour J s'ouvrent **exactement 31 jours avant, à 18:00 JST**. En été/tôt automne, le Japon est à **+7 h** sur la Suisse (CEST) → **18:00 JST = 11:00 en Suisse**. Créneau très commode depuis Genève/Lausanne.
+- **Format** : session de **90 min**, dernière commande 30 min avant la fin. Groupe de **1 à 6** (on est 2, facile). Les desserts ne viennent **pas** automatiquement — les commander vite sur la tablette.
+- **Le jour J** : se présenter **≥ 15 min avant** devant le café. **Plus de 10 min de retard = annulation automatique** (même train en retard, sans exception).
+- **Annulation / secours** : gratuite jusqu'à **22:00 JST la veille**. Les désistements retombent en ligne **à ce moment-là** (22:00 JST veille = 15:00 Suisse) → à surveiller si on rate l'ouverture. Sinon **file d'attente “cancellation” sur place** (meilleures chances **en semaine**, très peu de no-shows le week-end).
+- **Paiement** : rien à payer pour réserver, **pas besoin de numéro japonais** — juste un e‑mail (code de vérification envoyé, donc utiliser une boîte accessible sur le moment). Goodies à **pré‑commander uniquement pendant la réservation** (pas en boutique) → décider avant de valider.
+
+**Plan d'attaque (dates d'alarme).** Chaque jour du séjour a sa propre ouverture J‑31 à 11:00 (heure suisse). On peut retenter chaque matin jusqu'à décrocher un créneau :
+
+| Jour visé à Tokyo | Ouverture des résas | Heure d'alarme (Suisse) |
+|---|---|---|
+| dim 27 sept | jeu 27 août, 18:00 JST | **11:00** |
+| lun 28 sept | ven 28 août, 18:00 JST | **11:00** |
+| mar 29 sept | sam 29 août, 18:00 JST | **11:00** |
+| mer 30 sept | dim 30 août, 18:00 JST | **11:00** |
+| jeu 1 oct | lun 31 août, 18:00 JST | **11:00** |
+
+→ **Cible conseillée : un midi en semaine (lun 28 ou mar 29)** — jours souples (culture/food/shopping), et si on décroche un créneau midi ça se combine avec le **baseball du soir** (Belluna / ZOZO à 18:00) le même jour. Bénéfice bonus : en semaine, la file “cancellation” sur place est un vrai plan B (contrairement au week-end). Le **1 oct** (dernière journée, vol le soir) reste jouable mais risqué comme unique tentative — mieux vaut viser mi-séjour et garder les autres matins comme munitions.
+
+**Check-list minute (le matin J‑31, 11:00 pile) :** connecté au compte + e‑mail ouvert · page `reserve.pokemon-cafe.jp` déjà chargée · rafraîchir à 11:00:00 · choisir date/créneau/2 pers. · valider vite (site qui sature = normal, réessayer sans fermer l'onglet).
+
 ---
 
 ## 8. Vue d'ensemble jour par jour
@@ -319,6 +344,7 @@ Relevé et **recoupé le 19 juil. 2026** sur les pages détail officielles NPB (
 - [ ] **Ryokan Beppu** — rotenburo privatif (tatouage), 2 nuits
 - [ ] **Location voiture Kyushu** — prise/restitution Hakata ; permis CH + trad. JAF à bord
 - [ ] **Baseball** — un soir 27/28/29 à 18:00 : Seibu au Belluna Dome (Saitama) ou Lotte au ZOZO Marine (Chiba). CL finie → rien à Tokyo/Yokohama.
+- [ ] **Pokémon Café (Nihonbashi)** — résa en ligne uniquement, part en < 1 min. Ouverture **J‑31 à 18:00 JST = 11:00 en Suisse**. Cible : midi lun 28 ou mar 29 → alarme **28 août** / **29 août 11:00**. Secours : désistements à 22:00 JST la veille + file sur place (en semaine).
 - [x] **Forge Gifu** - Réservation de la forge sur japan-experience
 - [ ] **Hôtels Tokyo** — 5 nuits, quartier à caler (Shinjuku / Shibuya central conseillé)
 - [ ] **Risque typhon / jet lag** — plus de jour tampon : surveiller la météo J18–21
@@ -331,3 +357,4 @@ Relevé et **recoupé le 19 juil. 2026** sur les pages détail officielles NPB (
 
 - **Japan Experience** — atelier forge de couteau (Gifu) (https://www.japan-experience.com/fr/activites/autres-regions/forge-a-gifu-fabriquez-votre-propre-couteau)
 - **JAF** — traduction du permis (faite)
+- **Pokémon Café** — réservation officielle (https://reserve.pokemon-cafe.jp) · site officiel (https://www.pokemon-cafe.jp/en/)
