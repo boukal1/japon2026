@@ -45,7 +45,6 @@ prévus par l'établissement.
 
 ### Chambre Double Supérieure (1/2)
 
-- **Nom du client :** Vincent Prêtre
 - **Nombre de personnes :** 1 adulte
 - **Repas :** Les repas ne sont pas compris dans le tarif de la chambre.
 - **Prix :** CHF 475 (¥95 247)
@@ -68,7 +67,6 @@ le montant total de la réservation.
 
 ### Chambre Double Supérieure (2/2)
 
-- **Nom du client :** Vincent Prêtre
 - **Nombre de personnes :** 1 adulte
 - **Repas :** Les repas ne sont pas compris dans le tarif de la chambre.
 - **Prix :** CHF 475 (¥95 247)

@@ -53,7 +53,6 @@ partir du taux de change en CNY en vigueur aujourd'hui.
 
 ### Chambre Lit King-Size Supérieure — Collations Gratuites + Minibar Gratuit (1/2)
 
-- **Nom du client :** Vincent Prêtre
 - **Nombre de personnes :** 1 adulte
 - **Prix :** CHF 123 (CNY 1 025,30)
   - Chambre : CNY 967,26
@@ -83,7 +82,6 @@ Purificateurs d'air
 
 ### Chambre Lit King-Size Supérieure — Collations Gratuites + Minibar Gratuit (2/2)
 
-- **Nom du client :** Vincent Prêtre
 - **Nombre de personnes :** 1 adulte
 - **Prix :** CHF 123 (CNY 1 025,30)
   - Chambre : CNY 967,26
