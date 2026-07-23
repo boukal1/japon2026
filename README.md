@@ -4,7 +4,7 @@
 >
 > 🌐 Version en ligne : https://boukal1.github.io/japon2026/
 >
-> Voyageurs : 2 amis · Base : Genève/Lausanne · Budget : milieu de gamme · Dernière mise à jour : 22 juillet 2026.
+> Voyageurs : 2 amis · Base : Genève/Lausanne · Budget : milieu de gamme · Dernière mise à jour : 23 juillet 2026.
 
 ---
 
@@ -355,7 +355,18 @@ Relevé et **recoupé le 19 juil. 2026** sur les pages détail officielles NPB (
 
 ---
 
-## 10. Ressources
+## 10. Réservations
+
+Fiches détaillées des hébergements confirmés dans [`reservations/`](reservations/) (données personnelles anonymisées, aucun code confidentiel).
+
+| # | Étape | Établissement | Dates | Nuits | Fiche |
+|---|---|---|---|---|---|
+| 1 | Shanghai | Atour Hotel Nanjing East Road The Bund | 17–18 sept | 1 | [fiche](reservations/atour-hotel-nanjing-east-road-the-bund.md) |
+| 2 | Osaka / Kansai | Villa Fontaine Grand Osaka Umeda | 18–21 sept | 3 | [fiche](reservations/villa-fontaine-grand-osaka-umeda.md) |
+
+---
+
+## 11. Ressources
 
 - **Japan Experience** — atelier forge de couteau (Gifu) (https://www.japan-experience.com/fr/activites/autres-regions/forge-a-gifu-fabriquez-votre-propre-couteau)
 - **JAF** — traduction du permis (faite)
