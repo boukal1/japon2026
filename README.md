@@ -4,7 +4,7 @@
 >
 > 🌐 Version en ligne : https://boukal1.github.io/japon2026/
 >
-> Voyageurs : 2 amis · Base : Genève/Lausanne · Budget : milieu de gamme · Dernière mise à jour : 23 juillet 2026.
+> Voyageurs : 2 amis · Base : Genève/Lausanne · Budget : milieu de gamme · Dernière mise à jour : 30 juillet 2026.
 
 ---
 
@@ -22,7 +22,7 @@
 
 - **19 → 23 septembre = 5 jours fériés consécutifs** (Respect for the Aged Day lun 21, jour « pont » mar 22, équinoxe d'automne mer 23).
 - Vraie Silver Week, la première depuis 2015 (prochaine en 2032). Impact équivalent à la Golden Week : trains bondés, hôtels complets, routes chargées.
-- Conséquences retenues : Shinkansen du 21 en **sièges réservés obligatoires** ; USJ le 20 = dimanche de pointe ; boucle Kyushu volontairement sur zones rurales les jours fériés.
+- Conséquences retenues : Shinkansen du 20 en **sièges réservés obligatoires** (veille des jours fériés, déjà chargé) ; boucle Kyushu volontairement sur zones rurales les jours fériés.
 
 ### Contraintes personnelles
 
@@ -46,10 +46,14 @@
 | # | Segment | Dates | Nuits | Mode |
 |---|---|---|---|---|
 | 1 | Shanghai (express) | 17–18 sept | 1 | Transfert privé |
-| 2 | Osaka / Kansai | 18–21 sept | 3 | Train |
-| 3 | Boucle Kyushu | 21–25 sept | 4 | **Voiture** |
+| 2 | Osaka / Kansai | 18–20 sept | 2 | Train |
+| 3 | Boucle Kyushu | 20–25 sept | 5 | **Voiture** |
 | 4 | Nagoya / Gifu | 25–26 sept | 1 | Train |
 | 5 | Tokyo | 26 sept–1 oct | 5 | Train / métro |
+
+Ligne 2/3 reflète l'**Option B** de la boucle Kyushu (retenue actuellement, cf. section 5) — USJ retiré, une nuit Osaka transférée à Fukuoka en tête de boucle. L'**Option A** (boucle initiale, 21–25 sept, 4 nuits) reste documentée en section 5 à titre de comparaison, non retenue.
+
+⚠️ **Osaka passe de 3 à 2 nuits mais la réservation Villa Fontaine Grand Osaka Umeda est actuellement booquée pour 3 nuits (18–21 sept)** — à raccourcir manuellement (annulation gratuite jusqu'à 2 jours avant l'arrivée, cf. [fiche](reservations/villa-fontaine-grand-osaka-umeda.md)).
 
 ### Arbitrage clé assumé
 
@@ -85,16 +89,15 @@ Hotel : Atour Hotel Nanjing East Road The Bund, No. 105 Fuzhou Road, Huangpu Dis
 
 ---
 
-## 4. Osaka / Kansai (18–21 sept, 3 nuits)
+## 4. Osaka / Kansai (18–20 sept, 2 nuits)
 
-Base Osaka pour les deux incontournables Kansai. La boucle voiture est au Kyushu (pas au Kansai).
+Base Osaka pour l'incontournable Kansai retenu (Musée Nintendo). La boucle voiture est au Kyushu (pas au Kansai).
 
 | Date | Jour | Programme |
 |---|---|---|
 | 18 sept | ven | KIX 14:55 → Osaka · soirée **Dotonbori** |
-| 19 sept | sam | **Musée Nintendo (Uji)** — billet 14:00–14:30 · matinée libre Osaka |
-| 20 sept | dim | **Universal Studios Japan** — Express Pass |
-| 21 sept | lun | Shinkansen **Shin-Osaka → Hakata** (sièges réservés) → départ boucle |
+| 19 sept | sam | **Musée Nintendo (Uji)** — billet 14:00–14:30 · reste de la journée libre à Osaka |
+| 20 sept | dim | Shinkansen **Shin-Osaka → Hakata** (sièges réservés) → départ boucle Kyushu (journée Fukuoka) |
 
 ### Musée Nintendo — RÉSERVÉ (ne pas annuler)
 
@@ -104,24 +107,28 @@ Base Osaka pour les deux incontournables Kansai. La boucle voiture est au Kyushu
 - **Non annulable une fois le QR émis.**
 - **Accès en train uniquement** (Uji, pas de parking visiteurs) → pas de voiture ce jour-là.
 
-### USJ — point de tension assumé
+### Universal Studios Japan — retiré du programme
 
-Avec Nintendo bloqué le 19 et le Shinkansen le 21, **USJ tombe forcément le dimanche 20** = affluence maximale de Silver Week. Pas de meilleure fenêtre dans la structure. Parades : **Express Pass** obligatoire, entrée dès l'ouverture, créneaux Super Nintendo World réservés via l'appli en priorité.
+Abandonné pour libérer une journée entière à Fukuoka en tête de la boucle Kyushu (Option B, section 5) et éviter le dimanche de pointe Silver Week qu'USJ aurait imposé. Le temps gagné sert directement à la journée Fukuoka du 20 sept.
+
+⚠️ Conséquence directe : Osaka passe de 3 à **2 nuits**, mais la réservation Villa Fontaine Grand Osaka Umeda est actuellement booquée pour 3 nuits (18–21 sept) — à raccourcir (cf. section 2 et [fiche](reservations/villa-fontaine-grand-osaka-umeda.md)).
 
 **Food :** takoyaki, okonomiyaki, kushikatsu (Dotonbori, le 18 au soir).
 
 ---
 
-## 5. Boucle Kyushu — voiture (21–25 sept, 4 nuits)
+## 5. Boucle Kyushu — voiture
 
-**Scénario 4 (verrouillé).** Départ et retour Hakata (boucle). Prise/restitution du véhicule à Hakata.
+Deux options documentées ci-dessous : l'**Option A** (scénario initial verrouillé, 4 nuits) et l'**Option B** (nouvelle boucle, 5 nuits, **retenue actuellement**). Option A gardée uniquement pour comparaison.
+
+---
+
+### Option A — boucle initiale (21–25 sept, 4 nuits) — *gardée pour comparaison, non retenue*
+
+Départ et retour Hakata (boucle). Prise/restitution du véhicule à Hakata.
 
 ```
 HAKATA → Yanagawa → Kumamoto → Aso → Takachiho → Beppu → HAKATA
-```
-**Tour alternative**
-```
-HAKATA → Kuratake Shrine → Kumamoto → Takachiho → Aso → Beppu → Tsunoshima Bridge → HAKATA
 ```
 
 | Jour | Date | Trajet | Contenu | Nuit |
@@ -132,24 +139,64 @@ HAKATA → Kuratake Shrine → Kumamoto → Takachiho → Aso → Beppu → Tsun
 | J4 | 24 sept (jeu) | Beppu (journée complète) | **jigoku-mushi** (cuisson vapeur, participatif) · quartier **Kannawa** · **bain de sable** (tattoo-friendly) | Beppu |
 | J5 | 25 sept (ven) | Beppu → Hakata | Retour voiture (boucle bouclée) → Shinkansen Hakata → Nagoya | Nagoya |
 
-### Food hyper-locale
+**Food hyper-locale (Option A) :** Yanagawa (unagi no seiro-mushi), Kumamoto (basashi), Aso (akaushi), Beppu (jigoku-mushi).
 
-- **Yanagawa** : unagi no seiro-mushi (anguille vapeur sur riz)
+---
+
+### Option B — nouvelle boucle retenue (20–25 sept, 5 nuits)
+
+Un jour de plus que l'Option A (USJ retiré, cf. section 4), sans Takachiho (temps réinvesti à Fukuoka), avec un détour Amakusa (Kuratake Shrine), une tournée de statues **One Piece** essentiellement sur le trajet, 1 nuit à **Kurokawa Onsen**, et **Mojiko Retro** ajouté sur le trajet retour.
+
+```
+FUKUOKA (1 nuit) → Uto → Kuratake Shrine (Amakusa) → Kumamoto (1 nuit)
+→ Ozu → Mashiki → Mifune → Nishihara → Aso → Kurokawa Onsen (1 nuit)
+→ Beppu (2 nuits) → Mojiko Retro → Tsunoshima Bridge → HAKATA
+```
+
+| Jour | Date | Départ | Arrivée | Trajet & Programme | Nuit |
+|---|---|---|---|---|---|
+| J1 | 20 sept (dim) | **08:00** Shin-Osaka (Shinkansen) | **~21:00** Fukuoka | 10:20 arrivée Hakata → dépôt bagages · 11:00–13:00 Dazaifu Tenmangu (+ déjeuner) · 14:00 Ohori Park + ruines château · 15:15 Kushida Shrine · 16:15 Canal City · 19:00–21:00 yatai de Nakasu | Fukuoka |
+| J2 | 21 sept (lun) | **08:00** Fukuoka | **~19:00** Kumamoto | Prise voiture → 09:45 Uto (**Jinbe**, 15 min) → 12:15 Kuratake Shrine, Amakusa (visite + déjeuner, ~1h30) → 14:00 départ → 16:40 Kumamoto : **Luffy** (préfecture, 15 min) → château (1h) → 19:00 basashi | Kumamoto |
+| J3 | 22 sept (mar) | **08:30** Kumamoto | **~15:30** Kurokawa Onsen | 09:00 Ozu (**Zoro**) → 09:35 Mashiki (**Sanji**) → 10:10 Mifune (**Brook**) → 10:55 Nishihara (**Nami**) → 11:40 gare d'Aso (**Usopp**) + déjeuner akaushi → 13:00 Milk Road + Daikanbō → 15:30 arrivée, yumeguri en soirée | Kurokawa Onsen |
+| J4 | 23 sept (mer) | **09:00** Kurokawa Onsen | **~13:00** Beppu | Yamanami Highway (~2h30–3h, arrêts photo) → déjeuner à l'arrivée → après-midi libre, installation ryokan rotenburo | Beppu (rotenburo privatif) |
+| J5 | 24 sept (jeu) | **09:00** Beppu | — (sur place) | 09:00 jigoku-mushi · 11:00–13:00 quartier Kannawa · 14:00–16:00 bain de sable · soirée onsen privatif | Beppu |
+| J6 | 25 sept (ven) | **08:00** Beppu | **~19:00** Nagoya | 09:30 Mojiko Retro (déjeuner, ~1h30) → 11:20 Tsunoshima Bridge (~1h) → 12:30 route Hakata → 14:00 retour voiture → Shinkansen Hakata→Nagoya (~4h) | Nagoya |
+
+Horaires indicatifs (estimations sur temps de route + durées de visite raisonnables) — à affiner une fois les réservations calées.
+
+### Statues One Piece (Kumamoto Revival Project)
+
+7 des 10 statues du projet de reconstruction post-séisme 2016 sont sur le trajet, quasi sans détour (arrêts photo de 10–15 min) : **Luffy** (préfecture, Kumamoto), **Jinbe** (Uto, Sumiyoshi Coast Park), **Zoro** (Ozu), **Sanji** (Mashiki), **Brook** (Mifune), **Nami** (Nishihara), **Usopp** (gare d'Aso). Écartées : **Chopper** (zoo de Kumamoto, contrainte d'horaires d'ouverture) et **Robin**/**Franky** (Minami-Aso, hors route depuis la suppression de Takachiho — détour dédié ~30–40 min A/R non retenu).
+
+### Food hyper-locale (Option B)
+
+- **Fukuoka** : ramen Hakata, mentaiko, yatai de Nakasu
 - **Kumamoto** : basashi (sashimi de cheval)
 - **Aso** : akaushi (bœuf rouge de la caldeira)
 - **Beppu** : jigoku-mushi (légumes / fruits de mer vapeur volcanique)
+- **Mojiko** : yaki-curry (spécialité du port) · fugu possible côté Shimonoseki
 
-### Écarté au Kyushu (et pourquoi)
+### Écarté (Option B) et pourquoi
 
-- Kagoshima, Miyazaki-ville, Nagasaki → **incompatibles géographiquement** avec la boucle.
+- **Takachiho** → retiré pour libérer la journée Fukuoka et la tournée de statues ; regret assumé (gorge + kagura), à refaire dans un futur voyage dédié.
+- **Yanagawa** → remplacé par l'axe Uto/Kuratake Shrine.
+- **USJ** → retiré (cf. section 4).
+- **Robin/Franky (Minami-Aso)** → hors route, détour non retenu.
+- **Chopper (zoo Kumamoto)** → contrainte d'horaires, retiré.
+- Kagoshima, Miyazaki-ville, Nagasaki → toujours incompatibles géographiquement avec la boucle.
 - **Karatsu** → gardé pour un futur voyage dédié.
 - Circuit complet des « enfers » de Beppu (Jigoku Meguri) → **passif / touristique**.
 - Yufuin Floral Village → **kitsch**.
 
-### Notes Silver Week
+### Notes Silver Week (Option B)
 
-- 21, 22, 23 sept = fériés → routes et sites chargés, mais tracé volontairement rural.
-- 23 sept (équinoxe) = gros jour de retour national — on est au Kyushu (pas sur Shinkansen), OK.
+- 20 sept (dim) = veille des jours fériés, déjà chargé → Shinkansen en sièges réservés (cf. section 1).
+- 21, 22, 23 sept = fériés (J2–J4) → routes et sites chargés, mais tracé volontairement rural.
+- 23 sept (équinoxe) = gros jour de retour national — on est sur la Yamanami Highway (pas sur Shinkansen), OK.
+
+### Charge de conduite
+
+**J2 est la journée la plus lourde** (~7–8h de route cumulée : Fukuoka↔Amakusa↔Kumamoto). Avec 2 conducteurs c'est gérable, mais à vérifier contre les horaires réels d'ouverture du Kuratake Shrine avant de verrouiller le créneau.
 
 ---
 
@@ -227,8 +274,9 @@ Hors Silver Week (finie le 23) → rythme plus détendu. **Proposition à affine
 
 Relevé et **recoupé le 19 juil. 2026** sur les pages détail officielles NPB (`gm2026MMDD.html`) — les 47 matchs vérifiés un à un (équipe à domicile, stade, heure). Équipe à domicile citée en premier. `CL` = Central League, `PL` = Pacific League.
 
-- **Distance** = trajet estimé depuis notre position de la journée : **18–20** Osaka/Kansai · **21–24** boucle Kyushu · **25** transit Beppu→Nagoya · **26** Gifu→Tokyo · **27–30** Tokyo.
+- **Distance** = trajet estimé depuis notre position de la journée : **18–19** Osaka/Kansai · **20–24** boucle Kyushu · **25** transit Beppu→Nagoya · **26** Gifu→Tokyo · **27–30** Tokyo.
 - **Candidat ?** = match jouable en réaménageant le planning souple du jour — **sauf** créneau bloqué par un **billet déjà confirmé** (Musée Nintendo le 19 à 14:00, forge de Gifu le 26 à 08:50) ou étape/trajet du jour hors d'atteinte.
+- ⚠️ Ce tableau a été recoupé sur la **boucle Kyushu Option A** (Yanagawa/Kumamoto/Aso/Takachiho/Beppu, départ le 21). Depuis le passage à l'**Option B** (départ le 20, Fukuoka/Kuratake/Kumamoto/Kurokawa/Beppu/Mojiko/Tsunoshima, cf. section 5), les positions journalières du 20 au 25 sept ont changé — les verdicts « Non » du 20–25 restent probablement valables (planning toujours dense chaque jour), mais les distances/raisons citées ci-dessous sont à revérifier avant de s'en servir pour réserver un match.
 
 | Date | Ligue | Match (dom. – vis.) | Stade (ville) | Heure | Distance (depuis notre position du jour) | Candidat ? |
 |---|---|---|---|---|---|---|
@@ -242,8 +290,8 @@ Relevé et **recoupé le 19 juil. 2026** sur les pages détail officielles NPB (
 | 19 (sam) | PL | Rakuten – SoftBank | Rakuten Mobile Park (Sendai) | 14:00 | ≈700 km | ✗ Non |
 | 19 (sam) | PL | Lotte – Seibu | ZOZO Marine (Chiba) | 18:00 | ≈410 km | ✗ Non |
 | 20 (dim) | CL | Yomiuri – Yakult | Tokyo Dome (Tokyo) | 14:00 | ≈400 km | ✗ Non |
-| 20 (dim) | CL | Chunichi – Hiroshima | Vantelin Dome (Nagoya) | 18:00 | ≈180 km · Shinkansen ~50 min | ✗ Non (USJ) |
-| 20 (dim) | CL | Hanshin – DeNA | Koshien (Nishinomiya) | 18:00 | ≈20 km | ✗ Non (USJ) |
+| 20 (dim) | CL | Chunichi – Hiroshima | Vantelin Dome (Nagoya) | 18:00 | ≈180 km · Shinkansen ~50 min | ✗ Non (journée Fukuoka) |
+| 20 (dim) | CL | Hanshin – DeNA | Koshien (Nishinomiya) | 18:00 | ≈20 km | ✗ Non (journée Fukuoka) |
 | 20 (dim) | PL | Nippon-Ham – ORIX | ES CON FIELD (Kitahiroshima, Hokkaidō) | 14:00 | ≈1200 km | ✗ Non |
 | 20 (dim) | PL | Rakuten – SoftBank | Rakuten Mobile Park (Sendai) | 14:00 | ≈700 km | ✗ Non |
 | 20 (dim) | PL | Lotte – Seibu | ZOZO Marine (Chiba) | 18:00 | ≈410 km | ✗ Non |
@@ -313,18 +361,20 @@ Relevé et **recoupé le 19 juil. 2026** sur les pages détail officielles NPB (
 
 ## 8. Vue d'ensemble jour par jour
 
+Reflète la **boucle Kyushu Option B** (retenue, cf. section 5). Option A gardée en section 5 pour comparaison.
+
 | Date | Étape |
 |---|---|
 | 16 sept | Genève → Zurich → Shanghai (nuit en vol) |
 | 17 sept | Shanghai express 24 h — base Le Bund |
 | 18 sept | Shanghai → Osaka (KIX 14:55) · Dotonbori |
 | 19 sept | Musée Nintendo, Uji (14:00) |
-| 20 sept | USJ · Express Pass |
-| 21 sept | Shinkansen → Hakata · boucle J1 → Kumamoto |
-| 22 sept | Boucle J2 · Aso → Takachiho |
-| 23 sept | Boucle J3 · Yamanami → Beppu |
+| 20 sept | Shinkansen → Hakata · journée Fukuoka (Dazaifu, Ohori Park, yatai Nakasu) |
+| 21 sept | Uto (Jinbe) → Kuratake Shrine (Amakusa) → Kumamoto (Luffy, château, basashi) |
+| 22 sept | Straw Hat road trip (Zoro/Sanji/Brook/Nami/Usopp) → Milk Road/Daikanbō → Kurokawa Onsen |
+| 23 sept | Yamanami Highway → Beppu |
 | 24 sept | Beppu — journée complète |
-| 25 sept | Beppu → Hakata (retour voiture) → Nagoya |
+| 25 sept | Beppu → Mojiko Retro → Tsunoshima Bridge → Hakata (retour voiture) → Nagoya |
 | 26 sept | Forge Gifu → Shinkansen → Tokyo |
 | 27–30 sept | Tokyo · culture / food / shopping / baseball |
 | 1 oct | Tokyo → Haneda 22:45 → Genève |
@@ -337,19 +387,22 @@ Relevé et **recoupé le 19 juil. 2026** sur les pages détail officielles NPB (
 - [x] **Passeport** — Enregistrement du passeport
 - [ ] **Applications Chine** Application pour le chine (Alipay, wechat, amap)
 - [ ] **Applications Japon** Application pour le Japon (tablelog)
-- [ ] **Shinkansen 21 sept** — Shin-Osaka → Hakata, sièges réservés, dès l'ouverture J-30 (pointe Silver Week)
+- [ ] **Shinkansen 20 sept** — Shin-Osaka → Hakata, sièges réservés, dès l'ouverture J-30 (veille Silver Week, déjà chargé)
 - [ ] **Transfert privé Shanghai** — A/R hôtel ↔ PVG via l'hôtel
-- [ ] **Hôtels Osaka** — 3 nuits, quartier de la gare
+- [ ] **Raccourcir résa Osaka** — Villa Fontaine Grand Osaka Umeda bookée 3 nuits (18–21), à ramener à 2 nuits (18–20) ; annulation gratuite jusqu'à J-2
 - [x] **Musée Nintendo** — 19 sept 14:00 — RÉSERVÉ, non annulable
-- [ ] **USJ 20 sept** — billets datés + Express Pass
 - [ ] **Atelier forge Gifu** — confirmer résa ; annulation 100 % à J-10
+- [ ] **Hôtel Fukuoka** — 1 nuit, 20 sept (nouveau, boucle Option B)
+- [ ] **Hôtel Kumamoto** — 1 nuit, 21 sept
+- [ ] **Vérifier horaires Kuratake Shrine** (Amakusa) avant de verrouiller le créneau du 21 sept
+- [ ] **Ryokan Kurokawa Onsen** — 1 nuit, 22 sept
 - [ ] **Ryokan Beppu** — rotenburo privatif (tatouage), 2 nuits
-- [ ] **Location voiture Kyushu** — prise/restitution Hakata ; permis CH + trad. JAF à bord
+- [ ] **Location voiture Kyushu** — prise Fukuoka le 20 sept, restitution Hakata le 25 sept ; permis CH + trad. JAF à bord
 - [ ] **Baseball** — un soir 27/28/29 à 18:00 : Seibu au Belluna Dome (Saitama) ou Lotte au ZOZO Marine (Chiba). CL finie → rien à Tokyo/Yokohama.
 - [ ] **Pokémon Café (Nihonbashi)** — résa en ligne uniquement, part en 1–2 min. **Retour au J‑31 glissant dès le 1ᵉʳ août** (les lots mensuels étaient temporaires) : 27 sept→**27 août**, 28→28, 29→29, 30→30, 1ᵉʳ oct→**31 août**, chaque fois **18:00 JST = 11:00 Suisse**. ⚠️ Sept. « annoncé ultérieurement » → **reconfirmer sur `pokemon-cafe.jp/en/cafe/news` début août**. Secours : annulations rouvrent jusqu'à 22:00 JST la veille.
 - [x] **Forge Gifu** - Réservation de la forge sur japan-experience
 - [ ] **Hôtels Tokyo** — 5 nuits, quartier à caler (Shinjuku / Shibuya central conseillé)
-- [ ] **Risque typhon / jet lag** — plus de jour tampon : surveiller la météo J18–21
+- [ ] **Risque typhon / jet lag** — plus de jour tampon : surveiller la météo J18–20
 - [ ] **Jeans** Voir pour visiter/réserver (pas obligatoire)
 - [ ] **Baguettes** Voir pour visiter/réserver (pas obligatoire)
 
@@ -362,7 +415,9 @@ Fiches détaillées des hébergements confirmés dans [`reservations/`](reservat
 | # | Étape | Établissement | Dates | Nuits | Fiche |
 |---|---|---|---|---|---|
 | 1 | Shanghai | Atour Hotel Nanjing East Road The Bund | 17–18 sept | 1 | [fiche](reservations/atour-hotel-nanjing-east-road-the-bund.md) |
-| 2 | Osaka / Kansai | Villa Fontaine Grand Osaka Umeda | 18–21 sept | 3 | [fiche](reservations/villa-fontaine-grand-osaka-umeda.md) |
+| 2 | Osaka / Kansai | Villa Fontaine Grand Osaka Umeda | 18–21 sept ⚠️ | 3 ⚠️ | [fiche](reservations/villa-fontaine-grand-osaka-umeda.md) |
+
+⚠️ Réservation Osaka actuellement bookée pour 3 nuits (18–21 sept) alors que le programme retenu (Option B, section 5) n'en nécessite que 2 (18–20 sept). À raccourcir manuellement — annulation gratuite jusqu'à 2 jours avant l'arrivée (cf. fiche).
 
 ---
 
