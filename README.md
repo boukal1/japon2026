@@ -4,7 +4,7 @@
 >
 > 🌐 Version en ligne : https://boukal1.github.io/japon2026/
 >
-> Voyageurs : 2 amis · Base : Genève/Lausanne · Budget : milieu de gamme · Dernière mise à jour : 30 juillet 2026.
+> Voyageurs : 2 amis · Base : Genève/Lausanne · Budget : milieu de gamme · Dernière mise à jour : 1ᵉʳ août 2026.
 
 ---
 
@@ -245,6 +245,7 @@ Hors Silver Week (finie le 23) → rythme plus détendu. **Proposition à affine
 | Shopping | Shibuya · Harajuku · Shimokitazawa (vintage) |
 | Quartiers | Shinjuku · Golden Gai · Omoide Yokochō (izakaya) |
 | Excursion (1 j) | Kamakura, Nikkō ou Yokohama (sans refaire Hakone) |
+| 30 sept | **Verrou : Pokémon Café 13:00** (Nihonbashi, arrivée 12:45) → journée articulée autour de la gare de Tokyo |
 | 1 oct | Dernière journée pleine · bagages à l'hôtel · départ HND 22:45 |
 
 ### Baseball ⚾
@@ -330,32 +331,29 @@ Relevé et **recoupé le 19 juil. 2026** sur les pages détail officielles NPB (
 
 *La Farm League (2ᵉ division) joue la plupart de ces jours — **rien les 24, 28, 29 et 30 sept (saison Farm terminée le 27)**. Seul stade dans le Kanto : le **GIANTS TOWN** (Inagi, Tokyo), Giants – DeNA les 25, 26 et 27 sept à 13:00 (recoupé le 19 juil. 2026 sur les pages détail `fgm2026MMDD.html`).*
 
-### Pokémon Café 🍽️ — Nihonbashi (à réserver, difficile)
+### Pokémon Café 🍽️ — Nihonbashi ✅ RÉSERVÉ (mer 30 sept, 13:00)
 
-**Règles vérifiées le 22 juil. 2026** sur les annonces officielles `pokemon-cafe.jp/en/cafe/news` (café rouvert après rénovation le 17 juin 2026). Le café ne prend **que des réservations en ligne** (pas de walk-in pour l'instant à Tokyo) et ça part en **1–2 minutes** : c'est une course.
+**Décroché le 1ᵉʳ août 2026.** Fiche complète : [`reservations/pokemon-cafe-tokyo.md`](reservations/pokemon-cafe-tokyo.md).
 
-> **Point sur le système (recoupé le 22 juil.) :** les **lots mensuels** (mois entier ouvert d'un coup — *8–31 juil.* le 7 juin, *1ᵉʳ–31 août* le 1ᵉʳ juil.) n'étaient qu'une mesure **temporaire** de réouverture. **À partir du 1ᵉʳ août 2026, Tokyo revient au système normal “J‑31 glissant, jour par jour”** — donc **nos dates de septembre s'ouvrent chacune 31 jours avant.** ⚠️ Septembre officiellement « annoncé ultérieurement » au 19 juin → à **reconfirmer sur la page NEWS début août** (retour au J‑31 = scénario attendu par toutes les sources, mais non encore posté par le café).
+| | |
+|---|---|
+| **Date / heure** | **mercredi 30 septembre, 13:00** — session de **90 min** |
+| **Arrivée exigée** | **12:45** (15 min avant) |
+| **Convives** | 2 · **Sièges** : Type B |
+| **Goodies** | aucun pré-commandé (impossible d'en ajouter après coup) |
+| **Lieu** | Nihonbashi Takashimaya S.C., **Bâtiment Est, 5ᵉ ét.** — ~5 min à pied de la gare de Tokyo |
+| **Annulable** | jusqu'à **22:00 JST la veille** (= 15:00 Suisse le 29 sept) ; le jour même, par téléphone uniquement |
 
-- **Lieu** : Nihonbashi Takashimaya S.C., **Bâtiment Est, 5ᵉ étage** — ~5 min à pied de la gare de Tokyo (facile à caser un midi). Ouvert **10:30–22:00**.
-- **Fenêtre d'ouverture** : **18:00 JST**. En été/tôt automne le Japon est à **+7 h** sur la Suisse (CEST) → **18:00 JST = 11:00 en Suisse**. Créneau commode depuis Genève/Lausanne.
-- **Format** : session de **90 min**, dernière commande 30 min avant la fin. Groupe de **1 à 6** (on est 2). Les desserts ne viennent **pas** automatiquement — les commander vite sur la tablette.
-- **Le jour J** : se présenter **≥ 15 min avant**. **Plus de 10 min de retard = annulation automatique** (même train en retard, sans exception).
-- **Paiement** : rien à payer pour réserver, **pas besoin de numéro japonais** — juste un e‑mail (code de vérification envoyé → utiliser une boîte accessible sur le moment). Goodies à **pré‑commander uniquement pendant la réservation** (pas en boutique) → décider avant de valider.
-- **Secours** : **5–15 % des résas sont annulées** ; les places libérées retombent en ligne **jusqu'à 22:00 JST la veille** (= 15:00 Suisse) → un écran « complet » à l'ouverture n'est pas le dernier mot. Rafraîchir la veille au soir. Pas de walk-in à Tokyo actuellement (100 % sur réservation).
+> **Correction du modèle de réservation (constatée le 1ᵉʳ août).** Nous avions retenu le « retour au **J‑31 glissant** dès le 1ᵉʳ août » (chaque date ouvrant 31 jours avant). **C'était faux** : la place du 30 septembre a été prise le 1ᵉʳ août, soit ~60 jours à l'avance — donc **les lots mensuels sont restés en vigueur** et septembre s'est ouvert **le 1ᵉʳ août**, dans la continuité de la série *8–31 juil.* (ouvert le 7 juin) et *1ᵉʳ–31 août* (ouvert le 1ᵉʳ juil.). À retenir si une deuxième date devait être tentée : c'est **le 1ᵉʳ du mois précédent, 18:00 JST = 11:00 en Suisse**, pas J‑31.
 
-**Plan d'attaque (dates d'alarme — J‑31 glissant).** Chaque jour cible a sa propre ouverture à 11:00 (heure suisse) ; on peut retenter chaque matin jusqu'à décrocher :
+**À faire d'ici le jour J :**
 
-| Jour visé à Tokyo | Ouverture (J‑31) | Heure d'alarme (Suisse) |
-|---|---|---|
-| dim 27 sept | jeu **27 août**, 18:00 JST | **11:00** |
-| lun 28 sept | ven **28 août**, 18:00 JST | **11:00** |
-| mar 29 sept | sam **29 août**, 18:00 JST | **11:00** |
-| mer 30 sept | dim **30 août**, 18:00 JST | **11:00** |
-| jeu 1ᵉʳ oct | lun **31 août**, 18:00 JST | **11:00** |
+- **Garder l'e-mail de confirmation accessible hors ligne** (screenshot) : le café vérifie la réservation dessus au comptoir.
+- **Ne rien annuler par erreur** : le nombre de personnes n'est **pas** modifiable, et une annulation fait perdre le créneau (repris en 1–2 min).
+- **Marge de trajet** : **plus de 10 min de retard = annulation automatique**, sans exception. Depuis la gare de Tokyo c'est court, mais ne pas caler d'activité serrée juste avant.
+- **Sur place** : dernière commande 30 min avant la fin (~14:00) ; les desserts ne viennent pas d'office → commander vite sur la tablette.
 
-→ **Cible conseillée : un midi en semaine (lun 28 ou mar 29)** — jours souples (culture/food/shopping), combinables avec le **baseball du soir** (Belluna / ZOZO à 18:00) le même jour. Le **1ᵉʳ oct** (dernière journée, vol le soir) reste jouable mais risqué comme unique tentative : viser mi-séjour et garder les autres matins comme munitions.
-
-**Check-list minute (le matin J‑31, 11:00 pile) :** connecté au compte + e‑mail ouvert · page `reserve.pokemon-cafe.jp` déjà chargée · rafraîchir à 11:00:00 · choisir date/créneau/2 pers. · valider vite (site qui sature = normal, réessayer sans fermer l'onglet).
+**Conséquence sur le planning Tokyo :** le **30 sept** est désormais **ancré à midi sur Nihonbashi / gare de Tokyo**. C'est le seul des jours Tokyo **sans match NPB dans le Kanto** (le 30, il ne reste que Sendai) — donc aucun conflit : le **baseball se cale un soir du 27, 28 ou 29**. La matinée et l'après-midi du 30 s'organisent naturellement autour du quartier : Nihonbashi, Ginza à pied, Kappabashi/Asakusa en métro direct.
 
 ---
 
@@ -376,7 +374,8 @@ Reflète la **boucle Kyushu Option B** (retenue, cf. section 5). Option A gardé
 | 24 sept | Beppu — journée complète |
 | 25 sept | Beppu → Mojiko Retro → Tsunoshima Bridge → Hakata (retour voiture) → Nagoya |
 | 26 sept | Forge Gifu → Shinkansen → Tokyo |
-| 27–30 sept | Tokyo · culture / food / shopping / baseball |
+| 27–29 sept | Tokyo · culture / food / shopping · **baseball un soir** (Belluna / ZOZO, 18:00) |
+| 30 sept | Tokyo · **Pokémon Café 13:00** (Nihonbashi) · Nihonbashi / Ginza autour |
 | 1 oct | Tokyo → Haneda 22:45 → Genève |
 
 ---
@@ -398,8 +397,8 @@ Reflète la **boucle Kyushu Option B** (retenue, cf. section 5). Option A gardé
 - [ ] **Ryokan Kurokawa Onsen** — 1 nuit, 22 sept
 - [ ] **Ryokan Beppu** — rotenburo privatif (tatouage), 2 nuits
 - [ ] **Location voiture Kyushu** — prise Fukuoka le 20 sept, restitution Hakata le 25 sept ; permis CH + trad. JAF à bord
-- [ ] **Baseball** — un soir 27/28/29 à 18:00 : Seibu au Belluna Dome (Saitama) ou Lotte au ZOZO Marine (Chiba). CL finie → rien à Tokyo/Yokohama.
-- [ ] **Pokémon Café (Nihonbashi)** — résa en ligne uniquement, part en 1–2 min. **Retour au J‑31 glissant dès le 1ᵉʳ août** (les lots mensuels étaient temporaires) : 27 sept→**27 août**, 28→28, 29→29, 30→30, 1ᵉʳ oct→**31 août**, chaque fois **18:00 JST = 11:00 Suisse**. ⚠️ Sept. « annoncé ultérieurement » → **reconfirmer sur `pokemon-cafe.jp/en/cafe/news` début août**. Secours : annulations rouvrent jusqu'à 22:00 JST la veille.
+- [ ] **Baseball** — un soir 27/28/29 à 18:00 : Seibu au Belluna Dome (Saitama) ou Lotte au ZOZO Marine (Chiba). CL finie → rien à Tokyo/Yokohama. *(Le 30 est pris par le Pokémon Café à midi — mais ce soir-là il n'y a de toute façon rien dans le Kanto.)*
+- [x] **Pokémon Café (Nihonbashi)** — **RÉSERVÉ : mer 30 sept, 13:00, 2 pers., sièges Type B, 90 min** (arrivée 12:45). Aucun goodie pré-commandé, nombre de personnes non modifiable. Annulable jusqu'à 22:00 JST la veille. → e-mail de confirmation à garder hors ligne pour le comptoir.
 - [x] **Forge Gifu** - Réservation de la forge sur japan-experience
 - [ ] **Hôtels Tokyo** — 5 nuits, quartier à caler (Shinjuku / Shibuya central conseillé)
 - [ ] **Risque typhon / jet lag** — plus de jour tampon : surveiller la météo J18–20
@@ -410,14 +409,16 @@ Reflète la **boucle Kyushu Option B** (retenue, cf. section 5). Option A gardé
 
 ## 10. Réservations
 
-Fiches détaillées des hébergements confirmés dans [`reservations/`](reservations/) (données personnelles anonymisées, aucun code confidentiel).
+Fiches détaillées des hébergements et activités confirmés dans [`reservations/`](reservations/) (données personnelles anonymisées, aucun code confidentiel).
 
-| # | Étape | Établissement | Dates | Nuits | Fiche |
+| # | Étape | Établissement / activité | Dates | Détail | Fiche |
 |---|---|---|---|---|---|
-| 1 | Shanghai | Atour Hotel Nanjing East Road The Bund | 17–18 sept | 1 | [fiche](reservations/atour-hotel-nanjing-east-road-the-bund.md) |
-| 2 | Osaka / Kansai | Villa Fontaine Grand Osaka Umeda | 18–21 sept ⚠️ | 3 ⚠️ | [fiche](reservations/villa-fontaine-grand-osaka-umeda.md) |
+| 1 | Shanghai | Atour Hotel Nanjing East Road The Bund | 17–18 sept | 1 nuit | [fiche](reservations/atour-hotel-nanjing-east-road-the-bund.md) |
+| 2 | Osaka / Kansai | Villa Fontaine Grand Osaka Umeda | 18–21 sept | 3 nuits | [fiche](reservations/villa-fontaine-grand-osaka-umeda.md) |
+| 3 | Tokyo | Pokémon Café — Nihonbashi | 30 sept, 13:00 | 90 min · 2 pers. | [fiche](reservations/pokemon-cafe-tokyo.md) |
 
 ⚠️ Réservation Osaka actuellement bookée pour 3 nuits (18–21 sept) alors que le programme retenu (Option B, section 5) n'en nécessite que 2 (18–20 sept). À raccourcir manuellement — annulation gratuite jusqu'à 2 jours avant l'arrivée (cf. fiche).
+
 
 ---
 
