@@ -242,11 +242,39 @@ Hors Silver Week (finie le 23) → rythme plus détendu. **Proposition à affine
 |---|---|
 | Culture | Yanaka (vieux Tokyo à pied) + Asakusa (Sensō-ji) + Kappabashi (artisanat couteaux) |
 | Food | Toyosu (petit-déj sushi) + marché extérieur de Tsukiji |
-| Shopping | Shibuya · Harajuku · Shimokitazawa (vintage) |
+| Shopping · sport | **Ginza** : flagships ASICS, Arc'teryx, adidas, Lululemon (GINZA SIX) · **Harajuku/Omotesandō** : sneakers (Nike, Atmos, Undefeated, Jordan) · Shimokitazawa (vintage) |
+| Shopping · horlogerie | **Wako / Seiko House** (Ginza 4-chōme, 1F Watch Square) · **Grand Seiko** : deux flagships (Wako 2F + Namiki-dōri) · **Seiko Museum Ginza** gratuit, 6 étages, **fermé le lundi** · Nakano Broadway pour le vintage japonais (Firekids, Jackroad) |
+| Snacks & curiosités | **Antenna shops** préfectoraux (28 à Ginza/Yūrakuchō, dont Iwate à Higashi-Ginza et Ibaraki pour ses pâtisseries au nattō) · **Tokyo Okashi Land** (gare de Tokyo, B1 Ichibangai : Calbee+, Glico, Morinaga, exclusivités) · **Okashi no Machioka** et drugstores, moins chers que Don Quijote sur les formats courants |
 | Quartiers | Shinjuku · Golden Gai · Omoide Yokochō (izakaya) |
 | Excursion (1 j) | Kamakura, Nikkō ou Yokohama (sans refaire Hakone) |
 | 30 sept | **Verrou : Pokémon Café 13:00** (Nihonbashi, arrivée 12:45) → journée articulée autour de la gare de Tokyo |
 | 1 oct | Dernière journée pleine · bagages à l'hôtel · départ HND 22:45 |
+
+### Où dormir - zone retenue
+
+**Tsukiji / Higashi-Ginza (Chūō-ku).** Quartier de bureaux et résidentiel : il se vide le soir,
+tout en restant dense en konbini et petits restos. Retenu contre Shinjuku/Shibuya (écartés, trop
+animés) et contre Kanda/Jimbōchō (qui perd l'accès direct à Haneda).
+
+| Ancre | Depuis Tsukiji |
+|---|---|
+| Ginza - shopping, horlogerie, sport premium | à pied, 12-15 min |
+| Pokémon Café, Nihonbashi (30 sept) | Higashi-Ginza → 2 stations, ~15 min porte à porte |
+| Haneda (1 oct, vol 22:45) | Higashi-Ginza → Keikyū direct, ~40 min |
+| Marché extérieur de Tsukiji | à la porte |
+| Toyosu (petit-déj sushi) | Shintomichō → 2 stations (ligne Yūrakuchō) |
+| ZOZO Marine (baseball) | Hatchōbori → ligne Keiyō directe |
+| Harajuku / Omotesandō (sneakers) | Ginza → ligne Ginza directe, ~13 min |
+
+**Candidats - rien de réservé, disponibilités et tarifs non vérifiés :**
+
+- **Tokyu Stay Tsukiji** *(recommandé)* - twin 25 m² / double 18 m², **lave-linge-séchant dans
+  chaque chambre**, kitchenette. Tokyo arrive après neuf jours de voyage : c'est le moment logique
+  pour laver. ~¥22 000/nuit indicatif. Réserve : le marché réveille le quartier tôt, demander un
+  étage élevé hors Harumi-dōri.
+- **Villa Fontaine Kayabachō** *(alternative budget)* - même chaîne qu'à Osaka, ~30 % moins cher,
+  **T-CAT à 7 min à pied** (bus Haneda ¥1 000, ~25 min, bagages pris en charge au comptoir) et
+  ligne Tōzai directe pour Nakano. Réserve : chambres de 17-20 m², pas de machine à laver.
 
 ### Baseball ⚾
 
@@ -400,7 +428,7 @@ Reflète la **boucle Kyushu Option B** (retenue, cf. section 5). Option A gardé
 - [ ] **Baseball** — un soir 27/28/29 à 18:00 : Seibu au Belluna Dome (Saitama) ou Lotte au ZOZO Marine (Chiba). CL finie → rien à Tokyo/Yokohama. *(Le 30 est pris par le Pokémon Café à midi — mais ce soir-là il n'y a de toute façon rien dans le Kanto.)*
 - [x] **Pokémon Café (Nihonbashi)** — **RÉSERVÉ : mer 30 sept, 13:00, 2 pers., sièges Type B, 90 min** (arrivée 12:45). Aucun goodie pré-commandé, nombre de personnes non modifiable. Annulable jusqu'à 22:00 JST la veille. → e-mail de confirmation à garder hors ligne pour le comptoir.
 - [x] **Forge Gifu** - Réservation de la forge sur japan-experience
-- [ ] **Hôtels Tokyo** — 5 nuits, quartier à caler (Shinjuku / Shibuya central conseillé)
+- [ ] **Hôtels Tokyo** - 5 nuits, 2 chambres, zone **Tsukiji / Higashi-Ginza** retenue ; candidats Tokyu Stay Tsukiji (recommandé) ou Villa Fontaine Kayabachō (cf. section 7)
 - [ ] **Risque typhon / jet lag** — plus de jour tampon : surveiller la météo J18–20
 - [ ] **Jeans** Voir pour visiter/réserver (pas obligatoire)
 - [ ] **Baguettes** Voir pour visiter/réserver (pas obligatoire)
