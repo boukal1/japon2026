@@ -4,7 +4,7 @@
 >
 > 🌐 Version en ligne : https://boukal1.github.io/japon2026/
 >
-> Voyageurs : 2 amis · Base : Genève/Lausanne · Budget : milieu de gamme · Dernière mise à jour : 1ᵉʳ août 2026.
+> Voyageurs : 2 amis · Base : Genève/Lausanne · Budget : milieu de gamme · Dernière mise à jour : 11 août 2026.
 
 ---
 
@@ -53,7 +53,7 @@
 
 Ligne 2/3 reflète l'**Option B** de la boucle Kyushu (retenue actuellement, cf. section 5) — USJ retiré, une nuit Osaka transférée à Fukuoka en tête de boucle. L'**Option A** (boucle initiale, 21–25 sept, 4 nuits) reste documentée en section 5 à titre de comparaison, non retenue.
 
-⚠️ **Osaka passe de 3 à 2 nuits mais la réservation Villa Fontaine Grand Osaka Umeda est actuellement booquée pour 3 nuits (18–21 sept)** — à raccourcir manuellement (annulation gratuite jusqu'à 2 jours avant l'arrivée, cf. [fiche](reservations/villa-fontaine-grand-osaka-umeda.md)).
+✅ **Osaka est passé de 3 à 2 nuits et la réservation Villa Fontaine Grand Osaka Umeda a été raccourcie en conséquence** : 18-20 sept, 2 nuits (cf. [fiche](reservations/villa-fontaine-grand-osaka-umeda.md)).
 
 ### Arbitrage clé assumé
 
@@ -111,7 +111,7 @@ Base Osaka pour l'incontournable Kansai retenu (Musée Nintendo). La boucle voit
 
 Abandonné pour libérer une journée entière à Fukuoka en tête de la boucle Kyushu (Option B, section 5) et éviter le dimanche de pointe Silver Week qu'USJ aurait imposé. Le temps gagné sert directement à la journée Fukuoka du 20 sept.
 
-⚠️ Conséquence directe : Osaka passe de 3 à **2 nuits**, mais la réservation Villa Fontaine Grand Osaka Umeda est actuellement booquée pour 3 nuits (18–21 sept) — à raccourcir (cf. section 2 et [fiche](reservations/villa-fontaine-grand-osaka-umeda.md)).
+✅ Conséquence directe : Osaka passe de 3 à **2 nuits**. La réservation Villa Fontaine Grand Osaka Umeda a été raccourcie à 2 nuits (18-20 sept) et la nuit libérée bascule sur Fukuoka (cf. section 2 et [fiche](reservations/villa-fontaine-grand-osaka-umeda.md)).
 
 **Food :** takoyaki, okonomiyaki, kushikatsu (Dotonbori, le 18 au soir).
 
@@ -388,7 +388,7 @@ Reflète la **boucle Kyushu Option B** (retenue, cf. section 5). Option A gardé
 - [ ] **Applications Japon** Application pour le Japon (tablelog)
 - [ ] **Shinkansen 20 sept** — Shin-Osaka → Hakata, sièges réservés, dès l'ouverture J-30 (veille Silver Week, déjà chargé)
 - [ ] **Transfert privé Shanghai** — A/R hôtel ↔ PVG via l'hôtel
-- [ ] **Raccourcir résa Osaka** — Villa Fontaine Grand Osaka Umeda bookée 3 nuits (18–21), à ramener à 2 nuits (18–20) ; annulation gratuite jusqu'à J-2
+- [x] **Résa Osaka raccourcie** — Villa Fontaine Grand Osaka Umeda ramenée de 3 à 2 nuits (18-20 sept) ; ≈ CHF 574 (¥112 797)
 - [x] **Musée Nintendo** — 19 sept 14:00 — RÉSERVÉ, non annulable
 - [ ] **Atelier forge Gifu** — confirmer résa ; annulation 100 % à J-10
 - [ ] **Hôtel Fukuoka** — 1 nuit, 20 sept (nouveau, boucle Option B)
@@ -414,10 +414,10 @@ Fiches détaillées des hébergements et activités confirmés dans [`reservatio
 | # | Étape | Établissement / activité | Dates | Détail | Fiche |
 |---|---|---|---|---|---|
 | 1 | Shanghai | Atour Hotel Nanjing East Road The Bund | 17–18 sept | 1 nuit | [fiche](reservations/atour-hotel-nanjing-east-road-the-bund.md) |
-| 2 | Osaka / Kansai | Villa Fontaine Grand Osaka Umeda | 18–21 sept | 3 nuits | [fiche](reservations/villa-fontaine-grand-osaka-umeda.md) |
+| 2 | Osaka / Kansai | Villa Fontaine Grand Osaka Umeda | 18-20 sept | 2 nuits | [fiche](reservations/villa-fontaine-grand-osaka-umeda.md) |
 | 3 | Tokyo | Pokémon Café — Nihonbashi | 30 sept, 13:00 | 90 min · 2 pers. | [fiche](reservations/pokemon-cafe-tokyo.md) |
 
-⚠️ Réservation Osaka actuellement bookée pour 3 nuits (18–21 sept) alors que le programme retenu (Option B, section 5) n'en nécessite que 2 (18–20 sept). À raccourcir manuellement — annulation gratuite jusqu'à 2 jours avant l'arrivée (cf. fiche).
+✅ Réservation Osaka raccourcie à 2 nuits (18-20 sept), alignée sur le programme retenu (Option B, section 5). Annulation gratuite jusqu'à 2 jours avant l'arrivée (cf. fiche).
 
 
 ---
