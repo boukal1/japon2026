@@ -95,7 +95,7 @@ Base Osaka pour l'incontournable Kansai retenu (Musée Nintendo). La boucle voit
 
 | Date | Jour | Programme |
 |---|---|---|
-| 18 sept | ven | KIX 14:55 → Osaka · soirée **Dotonbori** |
+| 18 sept | ven | KIX 14:55 → Koshien · **Baseball : Hanshin – Hiroshima, 18:00** ✅ |
 | 19 sept | sam | **Musée Nintendo (Uji)** — billet 14:00–14:30 · reste de la journée libre à Osaka |
 | 20 sept | dim | Shinkansen **Shin-Osaka → Hakata** (sièges réservés) → départ boucle Kyushu (journée Fukuoka) |
 
@@ -113,7 +113,7 @@ Abandonné pour libérer une journée entière à Fukuoka en tête de la boucle 
 
 ✅ Conséquence directe : Osaka passe de 3 à **2 nuits**. La réservation Villa Fontaine Grand Osaka Umeda a été raccourcie à 2 nuits (18-20 sept) et la nuit libérée bascule sur Fukuoka (cf. section 2 et [fiche](reservations/villa-fontaine-grand-osaka-umeda.md)).
 
-**Food :** takoyaki, okonomiyaki, kushikatsu (Dotonbori, le 18 au soir).
+**Food :** takoyaki, okonomiyaki, kushikatsu (Dotonbori, à recaser un autre soir — le 18 est pris par le baseball).
 
 ---
 
@@ -276,26 +276,20 @@ animés) et contre Kanda/Jimbōchō (qui perd l'accès direct à Haneda).
   **T-CAT à 7 min à pied** (bus Haneda ¥1 000, ~25 min, bagages pris en charge au comptoir) et
   ligne Tōzai directe pour Nakano. Réserve : chambres de 17-20 m², pas de machine à laver.
 
-### Baseball ⚾
+### Baseball ⚾ ✅ RÉSERVÉ (ven 18 sept, 18:00)
 
-**Vérifié et recoupé le 19 juil. 2026 sur les pages détail officielles NPB** (47 matchs de 1ʳᵉ division, 18–30 sept, cf. tableau détaillé plus bas). La Central League termine sa saison régulière **le 24 sept** : **plus aucun match de 1ʳᵉ division à Tokyo (Giants au Tokyo Dome, Swallows au Jingu) ni à Yokohama (DeNA) pendant le séjour.** Seule la **Pacific League** continue — et deux de ses stades sont accessibles depuis Tokyo.
+**Match retenu : Hanshin – Hiroshima, Koshien (Nishinomiya), vendredi 18 sept, 18:00.** ~20 km / ~40 min depuis Kansai Airport — transfert direct après l'atterrissage du vol Shanghai→Osaka (KIX 14:55). La soirée Dotonbori initialement prévue est reportée à un autre soir à Osaka.
 
-**1ʳᵉ division atteignable depuis Tokyo (confirmé, dates datées) :**
+**Bonus optionnel pendant le séjour Tokyo (27–29 sept), à saisir sur place si l'envie est là — rien d'autre à réserver à l'avance :** la Central League termine sa saison régulière **le 24 sept** : plus aucun match de 1ʳᵉ division à Tokyo (Giants au Tokyo Dome, Swallows au Jingu) ni à Yokohama (DeNA) après cette date. Seule la **Pacific League** continue, avec deux stades accessibles depuis Tokyo :
 
 | Date | Match | Stade | Depuis Tokyo |
 |---|---|---|---|
-| 26 (sam) | Seibu vs Lotte, 14:00 | Belluna Dome (Saitama) | ~45-60 min |
 | 27 (dim) | Seibu vs Rakuten 18:00 · **et** Lotte vs Nippon-Ham 18:00 | Belluna / ZOZO Marine (Chiba) | ~60 / ~40 min |
 | 28 (lun) | Seibu vs Rakuten 18:00 · **et** Lotte vs Nippon-Ham 18:00 | Belluna / ZOZO Marine | ~60 / ~40 min |
 | 29 (mar) | Seibu vs Orix, 18:00 | Belluna Dome | ~60 min |
-| 30 (mer) | — (rien dans le Kanto ; seul Rakuten–Lotte à Sendai) | — | — |
 
-→ **Meilleur créneau : un soir 27, 28 ou 29 à 18:00.** Le 26 (14:00) est trop tôt — arrivée à Tokyo l'après-midi après la forge de Gifu. **Seibu au Belluna Dome** (dispo les 4 soirs) ou **Lotte au ZOZO Marine** (bord de mer, les 27-28).
-
-**Candidats plus tôt dans le voyage (hors Tokyo — cf. tableau détaillé) :** le plus réaliste est **Hanshin–Hiroshima au Koshien le 19 à 18:00** (~1h15 depuis Uji, *après* le créneau Nintendo de 14:00 qui reste le seul verrou de la journée). À la marge : le **18 au soir** au Koshien (jouable mais serré, atterrissage KIX 14:55) et **ORIX–SoftBank au Kyocera le 25** (sur le trajet Shinkansen Hakata→Nagoya, au prix d'une arrivée tardive à Nagoya et du dîner hitsumabushi sacrifié).
-
-- **Plan B — Farm League à Tokyo même :** la réserve des Giants joue au **GIANTS TOWN** (Inagi) vs DeNA les 25/26/27 à 13:00. Décontracté, pas cher, mais niveau réserve (2ᵉ division).
-- Billetterie : sites des clubs (`seibulions.jp`, `marines.co.jp`) ; `e-tix.jp` pour les Giants.
+- Billetterie (si tenté sur place) : sites des clubs (`seibulions.jp`, `marines.co.jp`).
+- **Plan B farm league à Tokyo même :** la réserve des Giants joue au **GIANTS TOWN** (Inagi) vs DeNA les 25/26/27 à 13:00. Décontracté, pas cher, mais niveau réserve (2ᵉ division).
 
 **Écartés :** Tokyo Dome & Jingu (saison CL finie), DeNA/Yokohama (saison CL finie), Hawks à Fukuoka (on a quitté le Kyushu le 25).
 
@@ -311,7 +305,7 @@ Relevé et **recoupé le 19 juil. 2026** sur les pages détail officielles NPB (
 |---|---|---|---|---|---|---|
 | 18 (ven) | CL | Yomiuri – Chunichi | Tokyo Dome (Tokyo) | 18:00 | ≈400 km · Shinkansen ~2h45 | ✗ Non |
 | 18 (ven) | CL | DeNA – Yakult | Yokohama Stadium (Yokohama) | 18:00 | ≈430 km | ✗ Non |
-| 18 (ven) | CL | Hanshin – Hiroshima | Koshien (Nishinomiya) | 18:00 | ≈20 km · ~40 min | ✅ Candidat (serré — arrivée KIX 14:55) |
+| 18 (ven) | CL | Hanshin – Hiroshima | Koshien (Nishinomiya) | 18:00 | ≈20 km · ~40 min | ✅ **RÉSERVÉ** |
 | 19 (sam) | CL | Yomiuri – Chunichi | Tokyo Dome (Tokyo) | 14:00 | ≈400 km | ✗ Non |
 | 19 (sam) | CL | DeNA – Yakult | Yokohama Stadium (Yokohama) | 18:00 | ≈430 km | ✗ Non |
 | 19 (sam) | CL | Hanshin – Hiroshima | Koshien (Nishinomiya) | 18:00 | ≈55 km depuis Uji · ~1h15 | ✅ Candidat (après le Musée Nintendo) |
@@ -381,7 +375,7 @@ Relevé et **recoupé le 19 juil. 2026** sur les pages détail officielles NPB (
 - **Marge de trajet** : **plus de 10 min de retard = annulation automatique**, sans exception. Depuis la gare de Tokyo c'est court, mais ne pas caler d'activité serrée juste avant.
 - **Sur place** : dernière commande 30 min avant la fin (~14:00) ; les desserts ne viennent pas d'office → commander vite sur la tablette.
 
-**Conséquence sur le planning Tokyo :** le **30 sept** est désormais **ancré à midi sur Nihonbashi / gare de Tokyo**. C'est le seul des jours Tokyo **sans match NPB dans le Kanto** (le 30, il ne reste que Sendai) — donc aucun conflit : le **baseball se cale un soir du 27, 28 ou 29**. La matinée et l'après-midi du 30 s'organisent naturellement autour du quartier : Nihonbashi, Ginza à pied, Kappabashi/Asakusa en métro direct.
+**Conséquence sur le planning Tokyo :** le **30 sept** est désormais **ancré à midi sur Nihonbashi / gare de Tokyo**. Le baseball (section 6) est déjà réglé le 18 sept à Koshien — les matchs Pacific League du 27/28/29 dans le Kanto restent une option bonus facultative, sans contrainte de résa. La matinée et l'après-midi du 30 s'organisent naturellement autour du quartier : Nihonbashi, Ginza à pied, Kappabashi/Asakusa en métro direct.
 
 ---
 
@@ -393,7 +387,7 @@ Reflète la **boucle Kyushu Option B** (retenue, cf. section 5). Option A gardé
 |---|---|
 | 16 sept | Genève → Zurich → Shanghai (nuit en vol) |
 | 17 sept | Shanghai express 24 h — base Le Bund |
-| 18 sept | Shanghai → Osaka (KIX 14:55) · Dotonbori |
+| 18 sept | Shanghai → Osaka (KIX 14:55) · **Baseball Koshien 18:00** (Hanshin-Hiroshima) ✅ |
 | 19 sept | Musée Nintendo, Uji (14:00) |
 | 20 sept | Shinkansen → Hakata · journée Fukuoka (Dazaifu, Ohori Park, yatai Nakasu) |
 | 21 sept | Uto (Jinbe) → Kuratake Shrine (Amakusa) → Kumamoto (Luffy, château, basashi) |
@@ -402,7 +396,7 @@ Reflète la **boucle Kyushu Option B** (retenue, cf. section 5). Option A gardé
 | 24 sept | Beppu — journée complète |
 | 25 sept | Beppu → Mojiko Retro → Tsunoshima Bridge → Hakata (retour voiture) → Nagoya |
 | 26 sept | Forge Gifu → Shinkansen → Tokyo |
-| 27–29 sept | Tokyo · culture / food / shopping · **baseball un soir** (Belluna / ZOZO, 18:00) |
+| 27–29 sept | Tokyo · culture / food / shopping · **baseball bonus facultatif possible** (Belluna / ZOZO, 18:00) |
 | 30 sept | Tokyo · **Pokémon Café 13:00** (Nihonbashi) · Nihonbashi / Ginza autour |
 | 1 oct | Tokyo → Haneda 22:45 → Genève |
 
@@ -425,7 +419,7 @@ Reflète la **boucle Kyushu Option B** (retenue, cf. section 5). Option A gardé
 - [ ] **Ryokan Kurokawa Onsen** — 1 nuit, 22 sept
 - [ ] **Ryokan Beppu** — rotenburo privatif (tatouage), 2 nuits
 - [ ] **Location voiture Kyushu** — prise Fukuoka le 20 sept, restitution Hakata le 25 sept ; permis CH + trad. JAF à bord
-- [ ] **Baseball** — un soir 27/28/29 à 18:00 : Seibu au Belluna Dome (Saitama) ou Lotte au ZOZO Marine (Chiba). CL finie → rien à Tokyo/Yokohama. *(Le 30 est pris par le Pokémon Café à midi — mais ce soir-là il n'y a de toute façon rien dans le Kanto.)*
+- [x] **Baseball** — **RÉSERVÉ : Hanshin – Hiroshima, Koshien (Nishinomiya), ven 18 sept 18:00**, juste après l'atterrissage KIX 14:55. *(Bonus facultatif possible à Tokyo un soir du 27/28/29 — Seibu au Belluna Dome ou Lotte au ZOZO Marine — sans rien à réserver à l'avance.)*
 - [x] **Pokémon Café (Nihonbashi)** — **RÉSERVÉ : mer 30 sept, 13:00, 2 pers., sièges Type B, 90 min** (arrivée 12:45). Aucun goodie pré-commandé, nombre de personnes non modifiable. Annulable jusqu'à 22:00 JST la veille. → e-mail de confirmation à garder hors ligne pour le comptoir.
 - [x] **Forge Gifu** - Réservation de la forge sur japan-experience
 - [ ] **Hôtels Tokyo** - 5 nuits, 2 chambres, zone **Tsukiji / Higashi-Ginza** retenue ; candidats Tokyu Stay Tsukiji (recommandé) ou Villa Fontaine Kayabachō (cf. section 7)
@@ -443,7 +437,8 @@ Fiches détaillées des hébergements et activités confirmés dans [`reservatio
 |---|---|---|---|---|---|
 | 1 | Shanghai | Atour Hotel Nanjing East Road The Bund | 17–18 sept | 1 nuit | [fiche](reservations/atour-hotel-nanjing-east-road-the-bund.md) |
 | 2 | Osaka / Kansai | Villa Fontaine Grand Osaka Umeda | 18-20 sept | 2 nuits | [fiche](reservations/villa-fontaine-grand-osaka-umeda.md) |
-| 3 | Tokyo | Pokémon Café — Nihonbashi | 30 sept, 13:00 | 90 min · 2 pers. | [fiche](reservations/pokemon-cafe-tokyo.md) |
+| 3 | Osaka / Kansai | Baseball — Hanshin – Hiroshima, Koshien | 18 sept, 18:00 | ~40 min depuis KIX | — |
+| 4 | Tokyo | Pokémon Café — Nihonbashi | 30 sept, 13:00 | 90 min · 2 pers. | [fiche](reservations/pokemon-cafe-tokyo.md) |
 
 ✅ Réservation Osaka raccourcie à 2 nuits (18-20 sept), alignée sur le programme retenu (Option B, section 5). Annulation gratuite jusqu'à 2 jours avant l'arrivée (cf. fiche).
 
