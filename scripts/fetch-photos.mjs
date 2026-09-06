@@ -15,7 +15,6 @@ import { fileURLToPath } from 'node:url';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const html = readFileSync(join(root, 'voyage-japon-2026.html'), 'utf8');
-await sleep(0);
 const outDir = join(root, 'assets', 'img');
 mkdirSync(outDir, { recursive: true });
 
