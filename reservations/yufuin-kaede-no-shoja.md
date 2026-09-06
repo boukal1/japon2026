@@ -52,13 +52,13 @@ le bœuf de Bungo (豊後牛).
 ## Réservation
 
 - **Date de la demande :** 6 septembre 2026
-- **Nom du titulaire :** Pretre Vincent
+- **Nom du titulaire :** *(non versionné — voir la confirmation Rakuten Travel)*
 - **Contact établissement :** 由布院温泉 楓の小舎 — 0977-28-8181
 - **Réservé via :** Rakuten Travel
 
 ## Remarques transmises à l'établissement (備考欄)
 
-- Téléphone joignable le jour J : **+41 78 880 38 56** (mobile suisse)
+- Téléphone joignable le jour J : *(mobile personnel, non versionné — le ryokan l'a dans la réservation)*
 - Moyen de transport : voiture de location
 - Heure d'arrivée prévue : avant 18h
 - Voyageurs : 2 hommes

@@ -291,6 +291,7 @@
   <div class="wrap reveal">
     <div class="sec-head"><span class="sec-num">00</span><h2>Le tour <em>en vigueur</em></h2></div>
     <p class="sec-sub">Cinq étapes, quatorze nuits. Tout ce qui suit décrit ce programme-là — les variantes étudiées puis écartées restent dans la mémoire du dépôt, pas ici.</p>
+    <p id="photo-note" hidden class="callout warn" style="font-size:.9rem;margin:-10px 0 24px"></p>
     <div class="route">
       <div class="stage">
         <figure class="ph" data-wiki="The Bund"><span class="kj">滬</span><a class="credit" href="https://en.wikipedia.org/wiki/The_Bund" target="_blank" rel="noopener">Wikipédia</a><figcaption class="cap"><b>Shanghai</b><span>Le Bund</span></figcaption></figure>
@@ -937,36 +938,85 @@
     io.observe(p);
   })();
 
-  // photos : image principale de l'article Wikipédia indiqué dans data-wiki (API REST, CORS ouvert)
+  // photos : image principale des articles Wikipédia listés dans data-wiki.
+  // 1) API MediaWiki (action=query, prop=pageimages, origin=*) en une requête groupée par langue ;
+  // 2) repli : API REST « summary », figure par figure ; 3) si rien ne charge, note visible + détail en console.
   (function(){
     if(!('fetch' in window))return;
-    var figs=document.querySelectorAll('figure[data-wiki]');
-    var cache={};
-    function apply(f,j){
-      if(!j)return;
-      var src=null,w=900;
-      if(j.originalimage&&j.originalimage.source){
-        if(j.originalimage.width<=w){src=j.originalimage.source;}
-        else if(j.thumbnail&&j.thumbnail.source){src=j.thumbnail.source.replace(/\/(\d+)px-/,'/'+w+'px-');}
-      }else if(j.thumbnail&&j.thumbnail.source){src=j.thumbnail.source;}
-      if(!src)return;
+    var figs=Array.prototype.slice.call(document.querySelectorAll('figure[data-wiki]'));
+    if(!figs.length)return;
+    var W=900, log=[];
+    function norm(t){return t.replace(/_/g,' ').trim();}
+    function show(f,src,page){
+      if(!src||f.querySelector('img'))return;
       var img=new Image();
       img.alt=(f.querySelector('.cap b')||{}).textContent||f.getAttribute('data-wiki');
       img.loading='lazy';img.decoding='async';img.referrerPolicy='no-referrer';
       img.onload=function(){f.classList.add('has-img');};
+      img.onerror=function(){log.push('image KO: '+src);};
       img.src=src;
       f.insertBefore(img,f.firstChild);
-      var a=f.querySelector('a.credit');
-      if(a&&j.content_urls&&j.content_urls.desktop){a.href=j.content_urls.desktop.page;}
+      var a=f.querySelector('a.credit'); if(a&&page)a.href=page;
     }
-    figs.forEach(function(f){
-      var t=f.getAttribute('data-wiki'),lang=f.getAttribute('data-lang')||'en';
-      var key=lang+':'+t;
-      if(!cache[key]){
-        var url='https://'+lang+'.wikipedia.org/api/rest_v1/page/summary/'+encodeURIComponent(t.replace(/ /g,'_'));
-        cache[key]=fetch(url,{headers:{'Accept':'application/json'}}).then(function(r){return r.ok?r.json():null;}).catch(function(){return null;});
-      }
-      cache[key].then(function(j){apply(f,j);});
+    function pick(p){ // p = page (Action API) ou summary (REST)
+      var th=p.thumbnail&&p.thumbnail.source, or=(p.original||p.originalimage||{});
+      if(or.source&&or.width&&or.width<=W)return or.source;
+      if(th)return th.replace(/\/(\d+)px-/,'/'+W+'px-');
+      return or.source||null;
+    }
+    function viaActionApi(lang,titles){
+      var chunks=[];for(var i=0;i<titles.length;i+=50)chunks.push(titles.slice(i,i+50));
+      return Promise.all(chunks.map(function(ch){
+        var url='https://'+lang+'.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&origin=*&redirects=1'
+               +'&prop=pageimages&piprop=thumbnail%7Coriginal&pithumbsize='+W+'&titles='+encodeURIComponent(ch.join('|'));
+        return fetch(url).then(function(r){if(!r.ok)throw new Error('HTTP '+r.status);return r.json();})
+          .catch(function(e){log.push('api.php '+lang+' KO: '+e.message);return null;});
+      })).then(function(results){
+        var map={},ok=false;
+        results.forEach(function(j){
+          if(!j||!j.query)return; ok=true;
+          var q=j.query,alias={},pages={};
+          (q.normalized||[]).forEach(function(n){alias[n.from]=n.to;});
+          (q.redirects||[]).forEach(function(r){alias[r.from]=r.to;});
+          (q.pages||[]).forEach(function(p){pages[p.title]=p;});
+          titles.forEach(function(t){
+            var k=t,n=0;while(alias[k]&&n++<5)k=alias[k];
+            var p=pages[k];if(!p||p.missing)return;
+            var src=pick(p);
+            if(src)map[t]={src:src,page:'https://'+lang+'.wikipedia.org/wiki/'+encodeURIComponent(p.title.replace(/ /g,'_'))};
+            else log.push('sans image libre: '+t);
+          });
+        });
+        return ok?map:null;
+      });
+    }
+    function viaRest(lang,f){
+      var t=norm(f.getAttribute('data-wiki'));
+      var url='https://'+lang+'.wikipedia.org/api/rest_v1/page/summary/'+encodeURIComponent(t.replace(/ /g,'_'));
+      return fetch(url).then(function(r){if(!r.ok)throw new Error('HTTP '+r.status);return r.json();})
+        .then(function(j){show(f,pick(j),j.content_urls&&j.content_urls.desktop?j.content_urls.desktop.page:null);})
+        .catch(function(e){log.push('rest '+t+' KO: '+e.message);});
+    }
+    var byLang={};
+    figs.forEach(function(f){var l=f.getAttribute('data-lang')||'en';(byLang[l]=byLang[l]||[]).push(f);});
+    var jobs=Object.keys(byLang).map(function(lang){
+      var list=byLang[lang],titles=[];
+      list.forEach(function(f){var t=norm(f.getAttribute('data-wiki'));if(titles.indexOf(t)<0)titles.push(t);});
+      return viaActionApi(lang,titles).then(function(map){
+        var rest=[];
+        list.forEach(function(f){var t=norm(f.getAttribute('data-wiki'));if(map&&map[t])show(f,map[t].src,map[t].page);else rest.push(f);});
+        return Promise.all(rest.map(function(f){return viaRest(lang,f);}));
+      });
+    });
+    Promise.all(jobs).then(function(){
+      setTimeout(function(){
+        var n=document.querySelectorAll('figure.has-img').length;
+        if(n===0){
+          var note=document.getElementById('photo-note');
+          if(note){note.hidden=false;note.textContent='Les photos ne se sont pas chargées ('+(log.length?log[0]:'aucune réponse de Wikipédia')+'). Vérifier la connexion ou un bloqueur de contenu — détail dans la console du navigateur.';}
+        }
+        if(log.length)console.warn('[photos Wikipédia] '+n+' image(s) chargée(s), '+log.length+' problème(s):\n'+log.join('\n'));
+      },5000);
     });
   })();
 </script>
