@@ -32,7 +32,24 @@ jobs:
           node-version: 20
 
       - name: Télécharger les photos et leurs crédits
+        env:
+          FETCH_PHOTOS_NEWLIST: ${{ runner.temp }}/new-photos.txt
         run: node scripts/fetch-photos.mjs ${{ inputs.force && '--force' || '' }}
+
+      - name: Optimiser les nouvelles images (≤ 1000 px, JPEG qualité 80, PNG/SVG convertis)
+        env:
+          NEWLIST: ${{ runner.temp }}/new-photos.txt
+        run: |
+          [ -s "$NEWLIST" ] || { echo "Rien de nouveau à optimiser."; exit 0; }
+          before=$(du -sk assets/img | cut -f1)
+          while IFS= read -r f; do
+            [ -f "$f" ] || continue
+            convert "$f" -auto-orient -background white -alpha remove -alpha off \
+              -resize '1000x1000>' -strip -interlace Plane -quality 80 "jpg:$f" \
+              || echo "⚠ $f non converti (laissé tel quel)"
+          done < "$NEWLIST"
+          after=$(du -sk assets/img | cut -f1)
+          echo "assets/img : ${before} Ko → ${after} Ko"
 
       - name: Commiter assets/img si quelque chose a changé
         id: commit

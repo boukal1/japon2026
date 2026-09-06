@@ -6,10 +6,11 @@
 // Wikipédia :   node scripts/fetch-photos.mjs        (Node 18+, aucune dépendance)
 //
 // Options : --width=1000 (largeur max, défaut 1000) · --force (re-télécharge tout)
+// Env FETCH_PHOTOS_NEWLIST=<fichier> : y ajoute le chemin de chaque image téléchargée (optimisation en CI).
 // Photos perso : déposer assets/img/<slug>.jpg puis relancer le script, il complète
 // le manifest sans écraser les fichiers existants (sauf --force).
 
-import { readFileSync, writeFileSync, existsSync, mkdirSync, readdirSync } from 'node:fs';
+import { readFileSync, writeFileSync, appendFileSync, existsSync, mkdirSync, readdirSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -114,6 +115,7 @@ for (const [lang, set] of Object.entries(byLang)) {
       const r = await get(info.url);
       const buf = Buffer.from(await r.arrayBuffer());
       writeFileSync(dest, buf);
+      if (process.env.FETCH_PHOTOS_NEWLIST) appendFileSync(process.env.FETCH_PHOTOS_NEWLIST, dest + '\n');
       manifest[s] = { title, source: 'wikimedia', file: pi.file, page: info.page, author: info.author, license: info.license, licenseUrl: info.licenseUrl,
                       article: `https://${lang}.wikipedia.org/wiki/${encodeURIComponent(pi.pageTitle.replace(/ /g, '_'))}` };
       ok++; console.log(`✓ ${s}.jpg  (${Math.round(buf.length / 1024)} Ko, ${info.license}, ${info.author.slice(0, 40)})`);

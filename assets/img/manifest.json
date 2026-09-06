@@ -9,16 +9,6 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "article": "https://en.wikipedia.org/wiki/The_Bund"
   },
-  "hanshin-koshien-stadium": {
-    "title": "Hanshin Koshien Stadium",
-    "source": "wikimedia",
-    "file": "Koshien_Stadium_Dimensions.svg",
-    "page": "https://commons.wikimedia.org/wiki/File:Koshien_Stadium_Dimensions.svg",
-    "author": "Torsodog",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "article": "https://en.wikipedia.org/wiki/Koshien_Stadium"
-  },
   "mount-aso": {
     "title": "Mount Aso",
     "source": "wikimedia",
@@ -89,16 +79,6 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "article": "https://en.wikipedia.org/wiki/Xiaolongbao"
   },
-  "nintendo-museum": {
-    "title": "Nintendo Museum",
-    "source": "wikimedia",
-    "file": "Nintendo_Museum_logo.svg",
-    "page": "https://commons.wikimedia.org/wiki/File:Nintendo_Museum_logo.svg",
-    "author": "Nintendo",
-    "license": "Public domain",
-    "licenseUrl": "",
-    "article": "https://en.wikipedia.org/wiki/Nintendo_Museum"
-  },
   "umeda": {
     "title": "Umeda",
     "source": "wikimedia",
@@ -128,16 +108,6 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "article": "https://en.wikipedia.org/wiki/Dazaifu_Tenmang%C5%AB"
-  },
-  "amakusa": {
-    "title": "Amakusa",
-    "source": "wikimedia",
-    "file": "Yatsushiro_Sea.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Yatsushiro_Sea.png",
-    "author": "Bobo12345 at English Wikipedia",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "article": "https://en.wikipedia.org/wiki/Amakusa"
   },
   "kumamoto-castle": {
     "title": "Kumamoto Castle",
@@ -208,16 +178,6 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "article": "https://en.wikipedia.org/wiki/Nagoya_Castle"
-  },
-  "cormorant-fishing": {
-    "title": "Cormorant fishing",
-    "source": "wikimedia",
-    "file": "Cormorant_fishing_in_Yangshuo.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Cormorant_fishing_in_Yangshuo.jpg",
-    "author": "Rod Waddington",
-    "license": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "article": "https://en.wikipedia.org/wiki/Cormorant_fishing"
   },
   "tsukiji": {
     "title": "Tsukiji",
