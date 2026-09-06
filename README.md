@@ -163,22 +163,22 @@ HAKATA → Yanagawa → Kumamoto → Aso → Takachiho → Beppu → HAKATA
 
 ### Option B — nouvelle boucle retenue (20–25 sept, 5 nuits)
 
-Un jour de plus que l'Option A (USJ retiré, cf. section 4), sans Takachiho (temps réinvesti à Fukuoka), avec un détour Amakusa (Kuratake Shrine), une tournée de statues **One Piece** essentiellement sur le trajet, 1 nuit à **Kurokawa Onsen**, et **Mojiko Retro** ajouté sur le trajet retour.
+Un jour de plus que l'Option A (USJ retiré, cf. section 4), sans Takachiho (temps réinvesti à Fukuoka), avec un détour Amakusa (Kuratake Shrine), une tournée de statues **One Piece** essentiellement sur le trajet, **1 seule nuit en ryokan à Beppu**, un **jour libre/flexible** juste après (buffer sans programme fixe), et une **nuit à Mojiko/Kitakyushu** — pile à mi-chemin vers Tsunoshima Bridge — qui remplace l'ancien arrêt déjeuner par une étape avec nuit sur place (Mojiko Retro est plus beau illuminé le soir, et ça désengorge la journée retour). **Kurokawa Onsen a été retiré** pour libérer ces nuits.
 
 ```
 FUKUOKA (1 nuit) → Uto → Kuratake Shrine (Amakusa) → Kumamoto (1 nuit)
-→ Ozu → Mashiki → Mifune → Nishihara → Aso → Kurokawa Onsen (1 nuit)
-→ Beppu (2 nuits) → Mojiko Retro → Tsunoshima Bridge → HAKATA
+→ Ozu → Mashiki → Mifune → Nishihara → Aso → Yamanami Highway → Beppu (1 nuit, ryokan)
+→ jour libre → Mojiko Retro (1 nuit) → Tsunoshima Bridge → HAKATA
 ```
 
 | Jour | Date | Départ | Arrivée | Trajet & Programme | Nuit |
 |---|---|---|---|---|---|
 | J1 | 20 sept (dim) | **08:00** Shin-Osaka (Shinkansen) | **~21:00** Fukuoka | 10:20 arrivée Hakata → dépôt bagages · 11:00–13:00 Dazaifu Tenmangu (+ déjeuner) · 14:00 Ohori Park + ruines château · 15:15 Kushida Shrine · 16:15 Canal City · 19:00–21:00 yatai de Nakasu | Fukuoka |
 | J2 | 21 sept (lun) | **08:00** Fukuoka | **~19:00** Kumamoto | Prise voiture → 09:45 Uto (**Jinbe**, 15 min) → 12:15 Kuratake Shrine, Amakusa (visite + déjeuner, ~1h30) → 14:00 départ → 16:40 Kumamoto : **Luffy** (préfecture, 15 min) → château (1h) → 19:00 basashi | Kumamoto |
-| J3 | 22 sept (mar) | **08:30** Kumamoto | **~15:30** Kurokawa Onsen | 09:00 Ozu (**Zoro**) → 09:35 Mashiki (**Sanji**) → 10:10 Mifune (**Brook**) → 10:55 Nishihara (**Nami**) → 11:40 gare d'Aso (**Usopp**) + déjeuner akaushi → 13:00 Milk Road + Daikanbō → 15:30 arrivée, yumeguri en soirée | Kurokawa Onsen |
-| J4 | 23 sept (mer) | **09:00** Kurokawa Onsen | **~13:00** Beppu | Yamanami Highway (~2h30–3h, arrêts photo) → déjeuner à l'arrivée → après-midi libre, installation ryokan rotenburo | Beppu (rotenburo privatif) |
-| J5 | 24 sept (jeu) | **09:00** Beppu | — (sur place) | 09:00 jigoku-mushi · 11:00–13:00 quartier Kannawa · 14:00–16:00 bain de sable · soirée onsen privatif | Beppu |
-| J6 | 25 sept (ven) | **08:00** Beppu | **~19:00** Nagoya | 09:30 Mojiko Retro (déjeuner, ~1h30) → 11:20 Tsunoshima Bridge (~1h) → 12:30 route Hakata → 14:00 retour voiture → Shinkansen Hakata→Nagoya (~4h) | Nagoya |
+| J3 | 22 sept (mar) | **08:30** Kumamoto | **~17:00** Beppu | 09:00 Ozu (**Zoro**) → 09:35 Mashiki (**Sanji**) → 10:10 Mifune (**Brook**) → 10:55 Nishihara (**Nami**) → 11:40 gare d'Aso (**Usopp**) + déjeuner akaushi → 13:00 Milk Road + Daikanbō → 14:00 Yamanami Highway (~2h30–3h, arrêts photo) → ~17:00 installation ryokan rotenburo | **Beppu (ryokan, rotenburo privatif)** |
+| J4 | 23 sept (mer, équinoxe) | — (sur place) | — | 08:00 rando **Mont Tsurumi** (ropeway + sentier, vue panoramique sur la baie) · 11:30 jigoku-mushi (déjeuner vapeur) · 13:30–15:30 quartier Kannawa · 15:30–17:30 bain de sable (tattoo-friendly) · checkout ryokan | **Libre / flexible** — sur place ou début de route tranquille vers Kitakyushu selon l'envie |
+| J5 | 24 sept (jeu) | — | **~16:00** Mojiko/Kitakyushu | Route tranquille vers Kitakyushu (~1h30–2h selon point de départ de la veille) → après-midi/soirée **Mojiko Retro** (marché, port, dîner yaki-curry, illuminations de nuit) | Mojiko / Kitakyushu |
+| J6 | 25 sept (ven) | **09:00** Mojiko | **~19:00** Nagoya | Matinée Mojiko Retro → 11:00 Tsunoshima Bridge (~40 min via Kanmon) → 12:30 route Hakata → 14:00 retour voiture → Shinkansen Hakata→Nagoya (~4h) | Nagoya |
 
 Horaires indicatifs (estimations sur temps de route + durées de visite raisonnables) — à affiner une fois les réservations calées.
 
@@ -197,6 +197,7 @@ Horaires indicatifs (estimations sur temps de route + durées de visite raisonna
 ### Écarté (Option B) et pourquoi
 
 - **Takachiho** → retiré pour libérer la journée Fukuoka et la tournée de statues ; regret assumé (gorge + kagura), à refaire dans un futur voyage dédié.
+- **Kurokawa Onsen** → nuit retirée (6 sept) pour libérer les nuits nécessaires au jour libre après Beppu et à l'étape Mojiko/Kitakyushu. L'onsen privatif du ryokan de Beppu couvre déjà le besoin tattoo-friendly, donc regret limité.
 - **Yanagawa** → remplacé par l'axe Uto/Kuratake Shrine.
 - **USJ** → retiré (cf. section 4).
 - **Robin/Franky (Minami-Aso)** → hors route, détour non retenu.
@@ -209,12 +210,12 @@ Horaires indicatifs (estimations sur temps de route + durées de visite raisonna
 ### Notes Silver Week (Option B)
 
 - 20 sept (dim) = veille des jours fériés, déjà chargé → Shinkansen en sièges réservés (cf. section 1).
-- 21, 22, 23 sept = fériés (J2–J4) → routes et sites chargés, mais tracé volontairement rural.
-- 23 sept (équinoxe) = gros jour de retour national — on est sur la Yamanami Highway (pas sur Shinkansen), OK.
+- 21, 22, 23 sept = fériés (J2–J4) → routes et sites chargés, mais tracé volontairement rural (la Yamanami Highway est concentrée le 22, journée déjà dense).
+- 23 sept (équinoxe) = plus gros jour de retour national — on est **stationnaires à Beppu** (jour libre, rando + onsen sur place), encore mieux que d'être sur la route ce jour-là.
 
 ### Charge de conduite
 
-**J2 est la journée la plus lourde** (~7–8h de route cumulée : Fukuoka↔Amakusa↔Kumamoto). Avec 2 conducteurs c'est gérable, mais à vérifier contre les horaires réels d'ouverture du Kuratake Shrine avant de verrouiller le créneau.
+**J2 reste la journée la plus lourde** (~7–8h de route cumulée : Fukuoka↔Amakusa↔Kumamoto). Avec 2 conducteurs c'est gérable, mais à vérifier contre les horaires réels d'ouverture du Kuratake Shrine avant de verrouiller le créneau. **J3 s'est allongé** (fusion des statues/Milk Road avec la liaison Yamanami Highway vers Beppu, ~4–5h de route cumulée avec arrêts) suite au retrait de la nuit Kurokawa — dans la marge de ce que le duo gère déjà ailleurs, mais à garder à l'œil.
 
 ---
 
@@ -352,10 +353,10 @@ Reflète la **boucle Kyushu Option B** (retenue, cf. section 5). Option A gardé
 | 19 sept | Musée Nintendo, Uji (14:00) |
 | 20 sept | Shinkansen → Hakata · journée Fukuoka (Dazaifu, Ohori Park, yatai Nakasu) |
 | 21 sept | Uto (Jinbe) → Kuratake Shrine (Amakusa) → Kumamoto (Luffy, château, basashi) |
-| 22 sept | Straw Hat road trip (Zoro/Sanji/Brook/Nami/Usopp) → Milk Road/Daikanbō → Kurokawa Onsen |
-| 23 sept | Yamanami Highway → Beppu |
-| 24 sept | Beppu — journée complète |
-| 25 sept | Beppu → Mojiko Retro → Tsunoshima Bridge → Hakata (retour voiture) → Nagoya · nuit 1 |
+| 22 sept | Straw Hat road trip (Zoro/Sanji/Brook/Nami/Usopp) → Milk Road/Daikanbō → Yamanami Highway → Beppu (ryokan) |
+| 23 sept | Beppu — rando Mont Tsurumi + jigoku-mushi + Kannawa + bain de sable · journée libre/flexible |
+| 24 sept | Route tranquille vers Kitakyushu → Mojiko Retro (soirée, illuminations) |
+| 25 sept | Mojiko Retro (matin) → Tsunoshima Bridge → Hakata (retour voiture) → Nagoya · nuit 1 |
 | 26 sept | **Forge Gifu 08:50** → retour Nagoya · après-midi et soirée libres (hitsumabushi) · nuit 2 |
 | 27 sept | Nagoya → Tokyo en Shinkansen (matin) · **check-in Tokyu Stay Tsukiji dès 15:00** · demi-journée Tokyo |
 | 28–29 sept | Tokyo · culture / food / shopping · soirées libres |
@@ -378,8 +379,8 @@ Reflète la **boucle Kyushu Option B** (retenue, cf. section 5). Option A gardé
 - [ ] **Hôtel Fukuoka** — 1 nuit, 20 sept (nouveau, boucle Option B)
 - [ ] **Hôtel Kumamoto** — 1 nuit, 21 sept
 - [ ] **Vérifier horaires Kuratake Shrine** (Amakusa) avant de verrouiller le créneau du 21 sept
-- [ ] **Ryokan Kurokawa Onsen** — 1 nuit, 22 sept
-- [ ] **Ryokan Beppu** — rotenburo privatif (tatouage), 2 nuits
+- [x] **Ryokan** — **RÉSERVÉ : Yufuin Onsen Kaede no Shoja (由布院温泉 楓の小舎), 22→23 sept, 1 nuit**, chambre spéciale 椛の間 (離れ, rotenburo privatif), demi-pension kaiseki ; ≈ CHF 478 (¥92 400 TTC, payé). ⚠️ C'est **Yufuin**, pas Beppu (~30-40 min de route entre les deux) — à recouper avec le check-in 17:30 après la Yamanami Highway et avec la rando du Mont Tsurumi prévue 08:00 le 23 à Beppu (départ tôt de Yufuin nécessaire, ou horaire à décaler).
+- [ ] **Hôtel Mojiko / Kitakyushu** — 1 nuit, 24 sept (nouveau, remplace l'ancien arrêt déjeuner par une étape avec nuit sur place, mi-chemin vers Tsunoshima Bridge)
 - [ ] **Location voiture Kyushu** — prise Fukuoka le 20 sept, restitution Hakata le 25 sept ; permis CH + trad. JAF à bord
 - [x] **Baseball** — **RÉSERVÉ : Hanshin – Hiroshima, Koshien (Nishinomiya), ven 18 sept 18:00**, juste après l'atterrissage KIX 14:55, billets en main. **Un seul match sur le voyage** (décision du 6 sept) : plus rien à réserver ni à surveiller — garder simplement les billets accessibles hors ligne.
 - [x] **Pokémon Café (Nihonbashi)** — **RÉSERVÉ : mer 30 sept, 13:00, 2 pers., sièges Type B, 90 min** (arrivée 12:45). Aucun goodie pré-commandé, nombre de personnes non modifiable. Annulable jusqu'à 22:00 JST la veille. → e-mail de confirmation à garder hors ligne pour le comptoir.
@@ -404,8 +405,11 @@ Fiches détaillées des hébergements et activités confirmés dans [`reservatio
 | 3 | Osaka / Kansai | Baseball — Hanshin – Hiroshima, Koshien | 18 sept, 18:00 | billets en main · ~40 min depuis KIX | — |
 | 4 | Tokyo | Pokémon Café — Nihonbashi | 30 sept, 13:00 | 90 min · 2 pers. | [fiche](reservations/pokemon-cafe-tokyo.md) |
 | 5 | Tokyo | Tokyu Stay Tsukiji - Tokyo Ginza Area | 27 sept – 1ᵉʳ oct | 4 nuits | [fiche](reservations/tokyu-stay-tsukiji.md) |
+| 6 | Kyushu (boucle) | Yufuin Onsen Kaede no Shoja | 22-23 sept | 1 nuit | [fiche](reservations/yufuin-kaede-no-shoja.md) |
 
 ✅ Réservation Osaka raccourcie à 2 nuits (18-20 sept), alignée sur le programme retenu (Option B, section 5). Annulation gratuite jusqu'à 2 jours avant l'arrivée (cf. fiche).
+
+✅ Ryokan de la boucle Kyushu réservé à **Yufuin** (pas Beppu) pour la nuit du 22 sept — cf. [fiche](reservations/yufuin-kaede-no-shoja.md) pour le détail et la tension d'horaire avec la rando du Mont Tsurumi du 23 au matin.
 
 ✅ **Tokyo réservé** : Tokyu Stay Tsukiji, 2 chambres non-fumeur, ≈ CHF 720 (¥138 825), annulation
 gratuite jusqu'à 1 jour avant l'arrivée. Le planning a été aligné dessus — la nuit du 26 se passe
