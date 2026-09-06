@@ -49,11 +49,13 @@
 | 2 | Osaka / Kansai | 18–20 sept | 2 | Train |
 | 3 | Boucle Kyushu | 20–25 sept | 5 | **Voiture** |
 | 4 | Nagoya / Gifu | 25–26 sept | 1 | Train |
-| 5 | Tokyo | 26 sept–1 oct | 5 | Train / métro |
+| 5 | Tokyo | 26 sept–1 oct | 5 *(4 réservées, dès le 27)* | Train / métro |
 
 Ligne 2/3 reflète l'**Option B** de la boucle Kyushu (retenue actuellement, cf. section 5) — USJ retiré, une nuit Osaka transférée à Fukuoka en tête de boucle. L'**Option A** (boucle initiale, 21–25 sept, 4 nuits) reste documentée en section 5 à titre de comparaison, non retenue.
 
 ✅ **Osaka est passé de 3 à 2 nuits et la réservation Villa Fontaine Grand Osaka Umeda a été raccourcie en conséquence** : 18-20 sept, 2 nuits (cf. [fiche](reservations/villa-fontaine-grand-osaka-umeda.md)).
+
+✅ **Tokyo réservé** : Tokyu Stay Tsukiji, 27 sept – 1ᵉʳ oct, 4 nuits, 2 chambres (cf. [fiche](reservations/tokyu-stay-tsukiji.md)). ⚠️ **La nuit du 26 sept n'est pas couverte** — cf. section 7.
 
 ### Arbitrage clé assumé
 
@@ -234,7 +236,7 @@ Risque de brûlure, soyez vigilant. Vêtements de location disponibles.
 
 ---
 
-## 7. Tokyo (26 sept – 1 oct, 5 nuits)
+## 7. Tokyo (26 sept – 1 oct, 5 nuits — dont 4 réservées)
 
 Hors Silver Week (finie le 23) → rythme plus détendu. **Proposition à affiner ensemble.**
 
@@ -250,7 +252,7 @@ Hors Silver Week (finie le 23) → rythme plus détendu. **Proposition à affine
 | 30 sept | **Verrou : Pokémon Café 13:00** (Nihonbashi, arrivée 12:45) → journée articulée autour de la gare de Tokyo |
 | 1 oct | Dernière journée pleine · bagages à l'hôtel · départ HND 22:45 |
 
-### Où dormir - zone retenue
+### Où dormir - ✅ RÉSERVÉ : Tokyu Stay Tsukiji (27 sept - 1ᵉʳ oct)
 
 **Tsukiji / Higashi-Ginza (Chūō-ku).** Quartier de bureaux et résidentiel : il se vide le soir,
 tout en restant dense en konbini et petits restos. Retenu contre Shinjuku/Shibuya (écartés, trop
@@ -266,15 +268,30 @@ animés) et contre Kanda/Jimbōchō (qui perd l'accès direct à Haneda).
 | ZOZO Marine (baseball) | Hatchōbori → ligne Keiyō directe |
 | Harajuku / Omotesandō (sneakers) | Ginza → ligne Ginza directe, ~13 min |
 
-**Candidats - rien de réservé, disponibilités et tarifs non vérifiés :**
+**✅ Réservé : Tokyu Stay Tsukiji - Tokyo Ginza Area** (東急ステイ築地), le candidat recommandé.
+Fiche complète : [`reservations/tokyu-stay-tsukiji.md`](reservations/tokyu-stay-tsukiji.md).
 
-- **Tokyu Stay Tsukiji** *(recommandé)* - twin 25 m² / double 18 m², **lave-linge-séchant dans
-  chaque chambre**, kitchenette. Tokyo arrive après neuf jours de voyage : c'est le moment logique
-  pour laver. ~¥22 000/nuit indicatif. Réserve : le marché réveille le quartier tôt, demander un
-  étage élevé hors Harumi-dōri.
-- **Villa Fontaine Kayabachō** *(alternative budget)* - même chaîne qu'à Osaka, ~30 % moins cher,
-  **T-CAT à 7 min à pied** (bus Haneda ¥1 000, ~25 min, bagages pris en charge au comptoir) et
-  ligne Tōzai directe pour Nakano. Réserve : chambres de 17-20 m², pas de machine à laver.
+| | |
+|---|---|
+| **Dates** | **dim 27 sept 15:00 → jeu 1ᵉʳ oct 11:00** — **4 nuits** |
+| **Chambres** | 2, non-fumeur : Residential Double 18 m² (grand lit 151-180 cm) + Moderate Single 15 m² (lit simple 90-130 cm) |
+| **Tarif** | **≈ CHF 720** (¥138 825, taxes comprises) — CHF 378 + CHF 342 |
+| **Adresse** | Chuo-ku Tsukiji 4-11-5, Tokyo 104-0045 · +81 3 5551 0109 · N 035° 39.944, E 139° 46.256 |
+| **Annulation** | gratuite jusqu'à **1 jour avant l'arrivée**, puis 100 % (idem non-présentation) |
+
+- **Lave-linge-séchant dans chaque chambre** : l'argument décisif. Tokyo arrive après plus de dix
+  jours de voyage, c'est le moment logique pour laver. Kitchenette + ustensiles dans la Residential
+  Double uniquement (la Single a micro-ondes et lave-linge, mais pas de kitchenette).
+- **À demander au check-in :** étage élevé, hors Harumi-dōri — le marché réveille le quartier tôt.
+
+> ⚠️ **Trou d'une nuit : le 26 septembre.** Le programme fait arriver à Tokyo le **26 au soir**
+> (forge de Gifu le matin, puis Shinkansen), soit 5 nuits jusqu'au 1ᵉʳ oct. La réservation n'en
+> couvre que **4** (27 → 1ᵉʳ oct). Trois issues : étendre la résa d'une nuit chez Tokyu Stay si
+> dispo, réserver ailleurs pour la seule nuit du 26, ou passer la nuit du 26 à Nagoya/Gifu et
+> rejoindre Tokyo le 27 (cf. section 6 — ce qui décale le programme du 27).
+
+*Écartée : **Villa Fontaine Kayabachō** (alternative budget, même chaîne qu'à Osaka, ~30 % moins
+cher, T-CAT à 7 min à pied) — chambres de 17-20 m² et pas de machine à laver.*
 
 ### Baseball ⚾ ✅ RÉSERVÉ (ven 18 sept, 18:00)
 
@@ -395,10 +412,10 @@ Reflète la **boucle Kyushu Option B** (retenue, cf. section 5). Option A gardé
 | 23 sept | Yamanami Highway → Beppu |
 | 24 sept | Beppu — journée complète |
 | 25 sept | Beppu → Mojiko Retro → Tsunoshima Bridge → Hakata (retour voiture) → Nagoya |
-| 26 sept | Forge Gifu → Shinkansen → Tokyo |
-| 27–29 sept | Tokyo · culture / food / shopping · **baseball bonus facultatif possible** (Belluna / ZOZO, 18:00) |
+| 26 sept | Forge Gifu → Shinkansen → Tokyo · ⚠️ **nuit non réservée** (Tokyu Stay démarre le 27) |
+| 27–29 sept | Tokyo · **check-in Tokyu Stay Tsukiji (27, dès 15:00)** · culture / food / shopping · **baseball bonus facultatif possible** (Belluna / ZOZO, 18:00) |
 | 30 sept | Tokyo · **Pokémon Café 13:00** (Nihonbashi) · Nihonbashi / Ginza autour |
-| 1 oct | Tokyo → Haneda 22:45 → Genève |
+| 1 oct | Tokyo · **check-out 11:00** (bagages à l'hôtel) → Haneda 22:45 → Genève |
 
 ---
 
@@ -422,7 +439,8 @@ Reflète la **boucle Kyushu Option B** (retenue, cf. section 5). Option A gardé
 - [x] **Baseball** — **RÉSERVÉ : Hanshin – Hiroshima, Koshien (Nishinomiya), ven 18 sept 18:00**, juste après l'atterrissage KIX 14:55. *(Bonus facultatif possible à Tokyo un soir du 27/28/29 — Seibu au Belluna Dome ou Lotte au ZOZO Marine — sans rien à réserver à l'avance.)*
 - [x] **Pokémon Café (Nihonbashi)** — **RÉSERVÉ : mer 30 sept, 13:00, 2 pers., sièges Type B, 90 min** (arrivée 12:45). Aucun goodie pré-commandé, nombre de personnes non modifiable. Annulable jusqu'à 22:00 JST la veille. → e-mail de confirmation à garder hors ligne pour le comptoir.
 - [x] **Forge Gifu** - Réservation de la forge sur japan-experience
-- [ ] **Hôtels Tokyo** - 5 nuits, 2 chambres, zone **Tsukiji / Higashi-Ginza** retenue ; candidats Tokyu Stay Tsukiji (recommandé) ou Villa Fontaine Kayabachō (cf. section 7)
+- [x] **Hôtel Tokyo** — **RÉSERVÉ : Tokyu Stay Tsukiji, 27 sept → 1ᵉʳ oct, 4 nuits, 2 chambres** (Residential Double 18 m² + Moderate Single 15 m²) ; ≈ CHF 720 (¥138 825). Lave-linge-séchant dans chaque chambre. Annulation gratuite jusqu'à 1 jour avant l'arrivée.
+- [ ] **⚠️ Nuit du 26 sept à Tokyo — NON COUVERTE** : la résa Tokyu Stay démarre le 27 alors que l'arrivée à Tokyo est prévue le 26 au soir. Étendre d'une nuit, réserver ailleurs, ou dormir à Nagoya/Gifu le 26 (cf. section 7)
 - [ ] **Risque typhon / jet lag** — plus de jour tampon : surveiller la météo J18–20
 - [ ] **Jeans** Voir pour visiter/réserver (pas obligatoire)
 - [ ] **Baguettes** Voir pour visiter/réserver (pas obligatoire)
@@ -439,8 +457,15 @@ Fiches détaillées des hébergements et activités confirmés dans [`reservatio
 | 2 | Osaka / Kansai | Villa Fontaine Grand Osaka Umeda | 18-20 sept | 2 nuits | [fiche](reservations/villa-fontaine-grand-osaka-umeda.md) |
 | 3 | Osaka / Kansai | Baseball — Hanshin – Hiroshima, Koshien | 18 sept, 18:00 | ~40 min depuis KIX | — |
 | 4 | Tokyo | Pokémon Café — Nihonbashi | 30 sept, 13:00 | 90 min · 2 pers. | [fiche](reservations/pokemon-cafe-tokyo.md) |
+| 5 | Tokyo | Tokyu Stay Tsukiji - Tokyo Ginza Area | 27 sept – 1ᵉʳ oct | 4 nuits | [fiche](reservations/tokyu-stay-tsukiji.md) |
 
 ✅ Réservation Osaka raccourcie à 2 nuits (18-20 sept), alignée sur le programme retenu (Option B, section 5). Annulation gratuite jusqu'à 2 jours avant l'arrivée (cf. fiche).
+
+✅ **Tokyo réservé** : Tokyu Stay Tsukiji, 2 chambres non-fumeur, ≈ CHF 720 (¥138 825), annulation
+gratuite jusqu'à 1 jour avant l'arrivée. ⚠️ **La nuit du 26 sept reste à couvrir** (résa à partir
+du 27, arrivée prévue le 26 au soir) — cf. sections 7 et 9.
+
+**Total hébergements réservés à ce jour : ≈ CHF 1 540** (Shanghai CHF 246 + Osaka CHF 574 + Tokyo CHF 720).
 
 
 ---
