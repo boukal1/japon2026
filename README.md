@@ -4,7 +4,7 @@
 >
 > 🌐 Version en ligne : https://boukal1.github.io/japon2026/
 >
-> Voyageurs : 2 amis · Base : Genève/Lausanne · Budget : milieu de gamme · Dernière mise à jour : 11 août 2026.
+> Voyageurs : 2 amis · Base : Genève/Lausanne · Budget : milieu de gamme · Dernière mise à jour : 6 septembre 2026.
 
 ---
 
@@ -48,18 +48,20 @@
 | 1 | Shanghai (express) | 17–18 sept | 1 | Transfert privé |
 | 2 | Osaka / Kansai | 18–20 sept | 2 | Train |
 | 3 | Boucle Kyushu | 20–25 sept | 5 | **Voiture** |
-| 4 | Nagoya / Gifu | 25–26 sept | 1 | Train |
-| 5 | Tokyo | 26 sept–1 oct | 5 *(4 réservées, dès le 27)* | Train / métro |
+| 4 | Nagoya / Gifu | 25–27 sept | 2 | Train |
+| 5 | Tokyo | 27 sept–1 oct | 4 | Train / métro |
 
 Ligne 2/3 reflète l'**Option B** de la boucle Kyushu (retenue actuellement, cf. section 5) — USJ retiré, une nuit Osaka transférée à Fukuoka en tête de boucle. L'**Option A** (boucle initiale, 21–25 sept, 4 nuits) reste documentée en section 5 à titre de comparaison, non retenue.
 
 ✅ **Osaka est passé de 3 à 2 nuits et la réservation Villa Fontaine Grand Osaka Umeda a été raccourcie en conséquence** : 18-20 sept, 2 nuits (cf. [fiche](reservations/villa-fontaine-grand-osaka-umeda.md)).
 
-✅ **Tokyo réservé** : Tokyu Stay Tsukiji, 27 sept – 1ᵉʳ oct, 4 nuits, 2 chambres (cf. [fiche](reservations/tokyu-stay-tsukiji.md)). ⚠️ **La nuit du 26 sept n'est pas couverte** — cf. section 7.
+✅ **Tokyo réservé** : Tokyu Stay Tsukiji, 27 sept – 1ᵉʳ oct, 4 nuits, 2 chambres (cf. [fiche](reservations/tokyu-stay-tsukiji.md)).
+
+✅ **Nagoya / Gifu passe de 1 à 2 nuits (25 et 26 sept)**, en cohérence avec la réservation Tokyo qui démarre le 27. L'après-midi et la soirée du 26 — jusqu'ici mangées par le transfert vers Tokyo — deviennent du temps libre sur place, et Tokyo passe à 4 nuits. **L'hôtel Nagoya reste à réserver (2 nuits)**, cf. section 9.
 
 ### Arbitrage clé assumé
 
-Le **jour tampon d'Osaka** (réservé au jet lag / risque typhon) a été **volontairement sacrifié** pour créer la **nuit Nagoya/Gifu** (atelier de forge). Décision prise en connaissance de cause : elle augmente l'exposition aux réservations non remboursables.
+Le **jour tampon d'Osaka** (réservé au jet lag / risque typhon) a été **volontairement sacrifié** pour créer l'**étape Nagoya/Gifu** (atelier de forge), passée depuis à **2 nuits**. Décision prise en connaissance de cause : elle augmente l'exposition aux réservations non remboursables.
 
 ---
 
@@ -202,16 +204,21 @@ Horaires indicatifs (estimations sur temps de route + durées de visite raisonna
 
 ---
 
-## 6. Nagoya / Gifu (25–26 sept, 1 nuit)
+## 6. Nagoya / Gifu (25–27 sept, 2 nuits)
 
-La nuit Nagoya existe uniquement pour rendre possible l'**atelier de forge de couteau à Gifu** le 26 (via **Japan Experience**). Gifu-Hashima est sur la ligne **Tokaido Shinkansen** : unique point d'insertion logique entre Kyushu et Tokyo.
+La base Nagoya existe d'abord pour rendre possible l'**atelier de forge de couteau à Gifu** le 26 (via **Japan Experience**). Gifu-Hashima est sur la ligne **Tokaido Shinkansen** : unique point d'insertion logique entre Kyushu et Tokyo.
 
 | Date | Programme |
 |---|---|
-| 26 sept (sam) | Atelier forge Gifu → Shinkansen Nagoya → Tokyo (après-midi) |
+| 25 sept (ven) | Arrivée de Hakata en fin de journée (voiture rendue) → **nuit 1** |
+| 26 sept (sam) | **Atelier forge Gifu 08:50** → retour Nagoya en milieu de journée → **après-midi et soirée libres** (Nagoya ou Gifu) → **nuit 2** |
+| 27 sept (dim) | Nagoya → Tokyo en Shinkansen (~1 h 40) → check-in Tsukiji dès 15:00 |
 
+- **2 nuits, pas 1** (décision du 6 sept) : le transfert vers Tokyo bascule au 27, ce qui aligne l'étape sur la réservation Tokyu Stay Tsukiji (27 sept → 1ᵉʳ oct) et supprime le trou d'hébergement du 26.
 - **Atelier forge : 100 % d'annulation à partir de J-10** → à verrouiller / surveiller.
-- **Food Nagoya** : hitsumabushi (anguille façon Nagoya), le 25 au soir si le timing le permet.
+- **Food Nagoya** : hitsumabushi (anguille façon Nagoya). Le 25 au soir dépend de l'heure d'arrivée de Hakata — la **soirée du 26** devient le créneau de repli confortable.
+- **Où dormir : côté gare de Nagoya** — Gifu-Hashima à ~10 min de Shinkansen le 26 au matin, et départ direct pour Tokyo le 27. Rien de réservé (cf. section 9).
+- **Après-midi du 26 — pistes, à affiner :** Nagoya (château, Atsuta-jingū, quartier d'Ōsu, musée Toyota de l'industrie et de la technique, SCMAGLEV and Railway Park) ou Gifu (château au sommet du mont Kinka par téléphérique). L'**ukai** — pêche au cormoran sur la rivière Nagara — court traditionnellement jusqu'à la mi-octobre, donc *a priori* encore actif le 26 : **à vérifier et à réserver** si ça tente.
 
 Blacksmithing in Gifu: Craft Your Own Knife 
 1 personnes 
@@ -236,9 +243,11 @@ Risque de brûlure, soyez vigilant. Vêtements de location disponibles.
 
 ---
 
-## 7. Tokyo (26 sept – 1 oct, 5 nuits — dont 4 réservées)
+## 7. Tokyo (27 sept – 1 oct, 4 nuits)
 
 Hors Silver Week (finie le 23) → rythme plus détendu. **Proposition à affiner ensemble.**
+
+Arrivée le **27 en début d'après-midi** depuis Nagoya (cf. section 6) : la journée du 27 est une demi-journée utile après le check-in.
 
 | Thème | Idées |
 |---|---|
@@ -284,11 +293,10 @@ Fiche complète : [`reservations/tokyu-stay-tsukiji.md`](reservations/tokyu-stay
   Double uniquement (la Single a micro-ondes et lave-linge, mais pas de kitchenette).
 - **À demander au check-in :** étage élevé, hors Harumi-dōri — le marché réveille le quartier tôt.
 
-> ⚠️ **Trou d'une nuit : le 26 septembre.** Le programme fait arriver à Tokyo le **26 au soir**
-> (forge de Gifu le matin, puis Shinkansen), soit 5 nuits jusqu'au 1ᵉʳ oct. La réservation n'en
-> couvre que **4** (27 → 1ᵉʳ oct). Trois issues : étendre la résa d'une nuit chez Tokyu Stay si
-> dispo, réserver ailleurs pour la seule nuit du 26, ou passer la nuit du 26 à Nagoya/Gifu et
-> rejoindre Tokyo le 27 (cf. section 6 — ce qui décale le programme du 27).
+> ✅ **Résolu (6 sept).** Le programme faisait initialement arriver à Tokyo le 26 au soir, soit une
+> nuit de plus que la réservation. Arbitrage retenu : **la nuit du 26 se passe à Nagoya/Gifu**
+> (2ᵉ nuit sur place, après-midi et soirée libres) et le transfert vers Tokyo bascule au **27 au
+> matin**. Plus aucun trou d'hébergement — reste à réserver l'hôtel de Nagoya, cf. section 9.
 
 *Écartée : **Villa Fontaine Kayabachō** (alternative budget, même chaîne qu'à Osaka, ~30 % moins
 cher, T-CAT à 7 min à pied) — chambres de 17-20 m² et pas de machine à laver.*
@@ -297,7 +305,7 @@ cher, T-CAT à 7 min à pied) — chambres de 17-20 m² et pas de machine à lav
 
 **Match retenu : Hanshin – Hiroshima, Koshien (Nishinomiya), vendredi 18 sept, 18:00.** ~20 km / ~40 min depuis Kansai Airport — transfert direct après l'atterrissage du vol Shanghai→Osaka (KIX 14:55). La soirée Dotonbori initialement prévue est reportée à un autre soir à Osaka.
 
-**Bonus optionnel pendant le séjour Tokyo (27–29 sept), à saisir sur place si l'envie est là — rien d'autre à réserver à l'avance :** la Central League termine sa saison régulière **le 24 sept** : plus aucun match de 1ʳᵉ division à Tokyo (Giants au Tokyo Dome, Swallows au Jingu) ni à Yokohama (DeNA) après cette date. Seule la **Pacific League** continue, avec deux stades accessibles depuis Tokyo :
+**Bonus optionnel pendant le séjour Tokyo (27–29 sept), à saisir sur place si l'envie est là — rien d'autre à réserver à l'avance** *(le 27 est désormais un jour d'arrivée depuis Nagoya : jouable, mais le 28 ou le 29 est plus confortable)* **:** la Central League termine sa saison régulière **le 24 sept** : plus aucun match de 1ʳᵉ division à Tokyo (Giants au Tokyo Dome, Swallows au Jingu) ni à Yokohama (DeNA) après cette date. Seule la **Pacific League** continue, avec deux stades accessibles depuis Tokyo :
 
 | Date | Match | Stade | Depuis Tokyo |
 |---|---|---|---|
@@ -314,7 +322,8 @@ cher, T-CAT à 7 min à pied) — chambres de 17-20 m² et pas de machine à lav
 
 Relevé et **recoupé le 19 juil. 2026** sur les pages détail officielles NPB (`gm2026MMDD.html`) — les 47 matchs vérifiés un à un (équipe à domicile, stade, heure). Équipe à domicile citée en premier. `CL` = Central League, `PL` = Pacific League.
 
-- **Distance** = trajet estimé depuis notre position de la journée : **18–19** Osaka/Kansai · **20–24** boucle Kyushu · **25** transit Beppu→Nagoya · **26** Gifu→Tokyo · **27–30** Tokyo.
+- **Distance** = trajet estimé depuis notre position de la journée : **18–19** Osaka/Kansai · **20–24** boucle Kyushu · **25** transit Beppu→Nagoya · **26** Gifu/Nagoya · **27** Nagoya→Tokyo · **28–30** Tokyo.
+- ⚠️ Le tableau a été bâti sur l'ancien découpage (1 nuit à Nagoya, arrivée à Tokyo le 26). Depuis le **passage à 2 nuits Nagoya/Gifu** (6 sept), les verdicts du **26** et du **27** sont à relire : le 26 on est à Nagoya toute la journée (aucun match à domicile des Chunichi au Vantelin Dome ce jour-là d'après ce même relevé), et le 27 on n'arrive à Tokyo qu'en début d'après-midi.
 - **Candidat ?** = match jouable en réaménageant le planning souple du jour — **sauf** créneau bloqué par un **billet déjà confirmé** (Musée Nintendo le 19 à 14:00, forge de Gifu le 26 à 08:50) ou étape/trajet du jour hors d'atteinte.
 - ⚠️ Ce tableau a été recoupé sur la **boucle Kyushu Option A** (Yanagawa/Kumamoto/Aso/Takachiho/Beppu, départ le 21). Depuis le passage à l'**Option B** (départ le 20, Fukuoka/Kuratake/Kumamoto/Kurokawa/Beppu/Mojiko/Tsunoshima, cf. section 5), les positions journalières du 20 au 25 sept ont changé — les verdicts « Non » du 20–25 restent probablement valables (planning toujours dense chaque jour), mais les distances/raisons citées ci-dessous sont à revérifier avant de s'en servir pour réserver un match.
 
@@ -355,8 +364,8 @@ Relevé et **recoupé le 19 juil. 2026** sur les pages détail officielles NPB (
 | 24 (jeu) | CL | Hiroshima – Yomiuri | Mazda Stadium (Hiroshima) | 18:00 | ≈220 km (train/ferry ~3h) | ✗ Non |
 | 24 (jeu) | PL | Nippon-Ham – Rakuten | ES CON FIELD (Kitahiroshima, Hokkaidō) | 18:00 | >1800 km | ✗ Non |
 | 25 (ven) | PL | Seibu – Lotte | Belluna Dome (Tokorozawa, Saitama) | 18:00 | ≈450 km (en avant) | ✗ Non (transit) |
-| 25 (ven) | PL | ORIX – SoftBank | Kyocera Dome (Osaka) | 18:00 | sur le trajet Shinkansen (arrêt Shin-Osaka, ~15 min métro) | ✅ Candidat (serré — arrivée Nagoya tardive, dîner hitsumabushi sacrifié) |
-| 26 (sam) | PL | Seibu – Lotte | Belluna Dome (Tokorozawa, Saitama) | 14:00 | ≈40 km de Tokyo (mais 14:00 = encore en Shinkansen) | ✗ Non (forge 08:50 + arrivée l'aprem) |
+| 25 (ven) | PL | ORIX – SoftBank | Kyocera Dome (Osaka) | 18:00 | sur le trajet Shinkansen (arrêt Shin-Osaka, ~15 min métro) | ✅ Candidat (serré — arrivée Nagoya tardive ; le hitsumabushi bascule sur le 26 au soir, désormais libre) |
+| 26 (sam) | PL | Seibu – Lotte | Belluna Dome (Tokorozawa, Saitama) | 14:00 | ≈350 km — on reste à Nagoya/Gifu ce jour-là | ✗ Non (forge 08:50, puis journée sur place) |
 | 26 (sam) | PL | ORIX – Nippon-Ham | Kyocera Dome (Osaka) | 14:00 | derrière nous | ✗ Non |
 | 26 (sam) | PL | SoftBank – Rakuten | MIZUHO PayPay (Fukuoka) | 18:00 | >1000 km | ✗ Non |
 | 27 (dim) | PL | Seibu – Rakuten | Belluna Dome (Tokorozawa, Saitama) | 18:00 | ≈40 km · Seibu line ~1h | ✅ Candidat |
@@ -411,9 +420,10 @@ Reflète la **boucle Kyushu Option B** (retenue, cf. section 5). Option A gardé
 | 22 sept | Straw Hat road trip (Zoro/Sanji/Brook/Nami/Usopp) → Milk Road/Daikanbō → Kurokawa Onsen |
 | 23 sept | Yamanami Highway → Beppu |
 | 24 sept | Beppu — journée complète |
-| 25 sept | Beppu → Mojiko Retro → Tsunoshima Bridge → Hakata (retour voiture) → Nagoya |
-| 26 sept | Forge Gifu → Shinkansen → Tokyo · ⚠️ **nuit non réservée** (Tokyu Stay démarre le 27) |
-| 27–29 sept | Tokyo · **check-in Tokyu Stay Tsukiji (27, dès 15:00)** · culture / food / shopping · **baseball bonus facultatif possible** (Belluna / ZOZO, 18:00) |
+| 25 sept | Beppu → Mojiko Retro → Tsunoshima Bridge → Hakata (retour voiture) → Nagoya · nuit 1 |
+| 26 sept | **Forge Gifu 08:50** → retour Nagoya · après-midi et soirée libres (hitsumabushi) · nuit 2 |
+| 27 sept | Nagoya → Tokyo en Shinkansen (matin) · **check-in Tokyu Stay Tsukiji dès 15:00** · demi-journée Tokyo |
+| 28–29 sept | Tokyo · culture / food / shopping · **baseball bonus facultatif possible** (Belluna / ZOZO, 18:00) |
 | 30 sept | Tokyo · **Pokémon Café 13:00** (Nihonbashi) · Nihonbashi / Ginza autour |
 | 1 oct | Tokyo · **check-out 11:00** (bagages à l'hôtel) → Haneda 22:45 → Genève |
 
@@ -440,7 +450,8 @@ Reflète la **boucle Kyushu Option B** (retenue, cf. section 5). Option A gardé
 - [x] **Pokémon Café (Nihonbashi)** — **RÉSERVÉ : mer 30 sept, 13:00, 2 pers., sièges Type B, 90 min** (arrivée 12:45). Aucun goodie pré-commandé, nombre de personnes non modifiable. Annulable jusqu'à 22:00 JST la veille. → e-mail de confirmation à garder hors ligne pour le comptoir.
 - [x] **Forge Gifu** - Réservation de la forge sur japan-experience
 - [x] **Hôtel Tokyo** — **RÉSERVÉ : Tokyu Stay Tsukiji, 27 sept → 1ᵉʳ oct, 4 nuits, 2 chambres** (Residential Double 18 m² + Moderate Single 15 m²) ; ≈ CHF 720 (¥138 825). Lave-linge-séchant dans chaque chambre. Annulation gratuite jusqu'à 1 jour avant l'arrivée.
-- [ ] **⚠️ Nuit du 26 sept à Tokyo — NON COUVERTE** : la résa Tokyu Stay démarre le 27 alors que l'arrivée à Tokyo est prévue le 26 au soir. Étendre d'une nuit, réserver ailleurs, ou dormir à Nagoya/Gifu le 26 (cf. section 7)
+- [ ] **Hôtel Nagoya** — **2 nuits, 25 et 26 sept**, 2 chambres, côté gare de Nagoya (Gifu-Hashima à ~10 min de Shinkansen le 26 au matin, départ Tokyo le 27). *Passé de 1 à 2 nuits le 6 sept pour aligner l'étape sur la résa Tokyo.*
+- [ ] **Après-midi du 26 sept** — libre à Nagoya/Gifu : choisir le programme, et vérifier/réserver l'**ukai** (pêche au cormoran, Nagara, Gifu) si ça tente
 - [ ] **Risque typhon / jet lag** — plus de jour tampon : surveiller la météo J18–20
 - [ ] **Jeans** Voir pour visiter/réserver (pas obligatoire)
 - [ ] **Baguettes** Voir pour visiter/réserver (pas obligatoire)
@@ -462,8 +473,11 @@ Fiches détaillées des hébergements et activités confirmés dans [`reservatio
 ✅ Réservation Osaka raccourcie à 2 nuits (18-20 sept), alignée sur le programme retenu (Option B, section 5). Annulation gratuite jusqu'à 2 jours avant l'arrivée (cf. fiche).
 
 ✅ **Tokyo réservé** : Tokyu Stay Tsukiji, 2 chambres non-fumeur, ≈ CHF 720 (¥138 825), annulation
-gratuite jusqu'à 1 jour avant l'arrivée. ⚠️ **La nuit du 26 sept reste à couvrir** (résa à partir
-du 27, arrivée prévue le 26 au soir) — cf. sections 7 et 9.
+gratuite jusqu'à 1 jour avant l'arrivée. Le planning a été aligné dessus — la nuit du 26 se passe
+à Nagoya/Gifu et le transfert vers Tokyo bascule au 27 (cf. sections 6 et 7).
+
+⚠️ **Manque encore l'hôtel de Nagoya** (2 nuits, 25 et 26 sept) — seule étape du voyage sans
+hébergement identifié, cf. section 9.
 
 **Total hébergements réservés à ce jour : ≈ CHF 1 540** (Shanghai CHF 246 + Osaka CHF 574 + Tokyo CHF 720).
 

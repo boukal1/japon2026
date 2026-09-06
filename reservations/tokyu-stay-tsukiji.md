@@ -12,11 +12,11 @@
 | **Hébergements** | 2 |
 | **Votre groupe** | 2 adultes |
 
-> ⚠️ **Attention - nuit du 26 septembre non couverte.** Le planning prévoit
-> 5 nuits à Tokyo (26 sept - 1ᵉʳ oct, arrivée le 26 après la forge de Gifu),
-> mais cette réservation démarre le **27**. Soit ajouter la nuit du 26 ici
-> (si disponible), soit prévoir un autre hébergement pour cette nuit-là,
-> soit décaler l'arrivée à Tokyo au 27.
+> ✅ **Planning aligné sur cette réservation (6 sept).** L'itinéraire prévoyait
+> initialement une arrivée à Tokyo le 26 au soir, soit une nuit de plus que la
+> résa. Arbitrage retenu : **2 nuits à Nagoya/Gifu (25 et 26)** au lieu d'une,
+> puis Shinkansen Nagoya → Tokyo le **27 au matin** (~1 h 40), check-in ici dès
+> 15:00. Aucun trou d'hébergement.
 
 ## Établissement
 
