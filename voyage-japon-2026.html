@@ -938,39 +938,44 @@
     io.observe(p);
   })();
 
-  // photos : image principale des articles Wikipédia listés dans data-wiki.
-  // 1) API MediaWiki (action=query, prop=pageimages, origin=*) en une requête groupée par langue ;
-  // 2) repli : API REST « summary », figure par figure ; 3) si rien ne charge, note visible + détail en console.
+  // photos : 1) fichiers locaux assets/img/<slug>.jpg listés dans assets/img/manifest.json
+  // (remplis par scripts/fetch-photos.mjs) ; 2) sinon, image principale de l'article Wikipédia
+  // indiqué dans data-wiki : API MediaWiki (origin=*) groupée, puis repli API REST « summary » ;
+  // 3) au bout de 7 s, si rien n'est affiché, une note l'indique et le détail va en console.
   (function(){
     if(!('fetch' in window))return;
     var figs=Array.prototype.slice.call(document.querySelectorAll('figure[data-wiki]'));
     if(!figs.length)return;
-    var W=900, log=[];
+    var W=900, log=[], t0=Date.now();
     function norm(t){return t.replace(/_/g,' ').trim();}
+    function slug(t){return norm(t).normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');}
     function show(f,src,page){
       if(!src||f.querySelector('img'))return;
       var img=new Image();
       img.alt=(f.querySelector('.cap b')||{}).textContent||f.getAttribute('data-wiki');
-      img.loading='lazy';img.decoding='async';img.referrerPolicy='no-referrer';
+      img.decoding='async';img.referrerPolicy='no-referrer';
       img.onload=function(){f.classList.add('has-img');};
-      img.onerror=function(){log.push('image KO: '+src);};
+      img.onerror=function(){log.push('image KO: '+src);f.removeChild(img);};
       img.src=src;
       f.insertBefore(img,f.firstChild);
       var a=f.querySelector('a.credit'); if(a&&page)a.href=page;
     }
-    function pick(p){ // p = page (Action API) ou summary (REST)
+    function pick(p){ // p = page (API MediaWiki) ou summary (API REST)
       var th=p.thumbnail&&p.thumbnail.source, or=(p.original||p.originalimage||{});
       if(or.source&&or.width&&or.width<=W)return or.source;
       if(th)return th.replace(/\/(\d+)px-/,'/'+W+'px-');
       return or.source||null;
     }
+    function withTimeout(pr,ms,label){
+      return new Promise(function(res){var t=setTimeout(function(){log.push(label+' : pas de réponse après '+ms/1000+' s');res(null);},ms);pr.then(function(v){clearTimeout(t);res(v);},function(e){clearTimeout(t);log.push(label+' KO: '+(e&&e.message||e));res(null);});});
+    }
+    function getJson(url,label){return withTimeout(fetch(url).then(function(r){if(!r.ok)throw new Error('HTTP '+r.status);return r.json();}),8000,label);}
     function viaActionApi(lang,titles){
       var chunks=[];for(var i=0;i<titles.length;i+=50)chunks.push(titles.slice(i,i+50));
       return Promise.all(chunks.map(function(ch){
         var url='https://'+lang+'.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&origin=*&redirects=1'
                +'&prop=pageimages&piprop=thumbnail%7Coriginal&pithumbsize='+W+'&titles='+encodeURIComponent(ch.join('|'));
-        return fetch(url).then(function(r){if(!r.ok)throw new Error('HTTP '+r.status);return r.json();})
-          .catch(function(e){log.push('api.php '+lang+' KO: '+e.message);return null;});
+        return getJson(url,'api.php '+lang);
       })).then(function(results){
         var map={},ok=false;
         results.forEach(function(j){
@@ -993,31 +998,40 @@
     function viaRest(lang,f){
       var t=norm(f.getAttribute('data-wiki'));
       var url='https://'+lang+'.wikipedia.org/api/rest_v1/page/summary/'+encodeURIComponent(t.replace(/ /g,'_'));
-      return fetch(url).then(function(r){if(!r.ok)throw new Error('HTTP '+r.status);return r.json();})
-        .then(function(j){show(f,pick(j),j.content_urls&&j.content_urls.desktop?j.content_urls.desktop.page:null);})
-        .catch(function(e){log.push('rest '+t+' KO: '+e.message);});
+      return getJson(url,'rest '+t).then(function(j){if(j)show(f,pick(j),j.content_urls&&j.content_urls.desktop?j.content_urls.desktop.page:null);});
     }
-    var byLang={};
-    figs.forEach(function(f){var l=f.getAttribute('data-lang')||'en';(byLang[l]=byLang[l]||[]).push(f);});
-    var jobs=Object.keys(byLang).map(function(lang){
-      var list=byLang[lang],titles=[];
-      list.forEach(function(f){var t=norm(f.getAttribute('data-wiki'));if(titles.indexOf(t)<0)titles.push(t);});
-      return viaActionApi(lang,titles).then(function(map){
-        var rest=[];
-        list.forEach(function(f){var t=norm(f.getAttribute('data-wiki'));if(map&&map[t])show(f,map[t].src,map[t].page);else rest.push(f);});
-        return Promise.all(rest.map(function(f){return viaRest(lang,f);}));
+    function viaWikipedia(list){
+      var byLang={};
+      list.forEach(function(f){var l=f.getAttribute('data-lang')||'en';(byLang[l]=byLang[l]||[]).push(f);});
+      return Promise.all(Object.keys(byLang).map(function(lang){
+        var fl=byLang[lang],titles=[];
+        fl.forEach(function(f){var t=norm(f.getAttribute('data-wiki'));if(titles.indexOf(t)<0)titles.push(t);});
+        return viaActionApi(lang,titles).then(function(map){
+          var rest=[];
+          fl.forEach(function(f){var t=norm(f.getAttribute('data-wiki'));if(map&&map[t])show(f,map[t].src,map[t].page);else rest.push(f);});
+          return Promise.all(rest.map(function(f){return viaRest(lang,f);}));
+        });
+      }));
+    }
+    // 1) local d'abord
+    getJson('assets/img/manifest.json','manifest local').then(function(man){
+      var rest=[];
+      figs.forEach(function(f){
+        var sl=slug(f.getAttribute('data-wiki')), m=man&&man[sl];
+        if(m){show(f,'assets/img/'+sl+'.jpg',m.page||m.article||null);}else rest.push(f);
       });
+      if(!man)log.length=0; // pas de manifest = normal tant que le dossier n'est pas rempli
+      return rest.length?viaWikipedia(rest):null;
     });
-    Promise.all(jobs).then(function(){
-      setTimeout(function(){
-        var n=document.querySelectorAll('figure.has-img').length;
-        if(n===0){
-          var note=document.getElementById('photo-note');
-          if(note){note.hidden=false;note.textContent='Les photos ne se sont pas chargées ('+(log.length?log[0]:'aucune réponse de Wikipédia')+'). Vérifier la connexion ou un bloqueur de contenu — détail dans la console du navigateur.';}
-        }
-        if(log.length)console.warn('[photos Wikipédia] '+n+' image(s) chargée(s), '+log.length+' problème(s):\n'+log.join('\n'));
-      },5000);
-    });
+    // 3) bilan, quoi qu'il arrive
+    setTimeout(function(){
+      var n=document.querySelectorAll('figure.has-img').length;
+      if(n===0){
+        var note=document.getElementById('photo-note');
+        if(note){note.hidden=false;note.textContent='Aucune photo affichée après '+Math.round((Date.now()-t0)/1000)+' s — '+(log.length?log[0]:'aucune erreur remontée par le navigateur')+'. Solution durable : lancer scripts/fetch-photos.mjs pour héberger les photos dans le dépôt (cf. assets/img/README.md).';}
+      }
+      if(log.length||n<figs.length)console.warn('[photos] '+n+'/'+figs.length+' figure(s) avec image'+(log.length?', '+log.length+' problème(s):\n'+log.join('\n'):''));
+    },7000);
   })();
 </script>
 </body>

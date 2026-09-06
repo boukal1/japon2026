@@ -455,4 +455,5 @@ HTML est mise à jour dans le même commit.
 
 - **Japan Experience** — atelier forge de couteau (Gifu) (https://www.japan-experience.com/fr/activites/autres-regions/forge-a-gifu-fabriquez-votre-propre-couteau)
 - **JAF** — traduction du permis (faite)
+- **Photos de la page** — `node scripts/fetch-photos.mjs` depuis une machine qui accède à Wikipédia remplit `assets/img/` (images libres + crédits) ; mode d'emploi dans [`assets/img/README.md`](assets/img/README.md)
 - **Pokémon Café** — réservation officielle (https://reserve.pokemon-cafe.jp) · site officiel (https://www.pokemon-cafe.jp/en/)

@@ -27,6 +27,7 @@ jobs:
         run: |
           mkdir _site
           cp voyage-japon-2026.html _site/index.html
+          if [ -d assets ]; then cp -r assets _site/assets; fi
 
       - uses: actions/configure-pages@v5
         with:
