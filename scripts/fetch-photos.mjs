@@ -69,15 +69,36 @@ async function pageImages(lang, titles) {
     for (const t of chunk) {
       let k = t, n = 0; while (alias[k] && n++ < 5) k = alias[k];
       const p = pages[k];
-      if (p && !p.missing && p.pageimage) out[t] = { file: p.pageimage, pageTitle: p.title, lang };
+      if (p && !p.missing) out[t] = { file: p.pageimage || null, pageTitle: p.title, lang };
     }
   }
   return out;
 }
 
+// 1b) images de l'article dans l'ordre de la page (action=parse), pour trouver une vraie photo
+const BAD = /logo|map|flag|icon|dimension|seal|emblem|locator|position|coat|diagram|plan|carte|blason|banner|button|symbol/i;
+async function articleImages(lang, pageTitle) {
+  try {
+    const j = await api(`${lang}.wikipedia.org`, { action: 'parse', page: pageTitle, prop: 'images', redirects: '1' });
+    return (j.parse?.images ?? []).filter(f => /\.jpe?g$/i.test(f) && !BAD.test(f));
+  } catch { return []; }
+}
+
+// choisit le premier candidat qui est une photo JPEG d'au moins 800 px de large
+async function pickPhoto(lang, pi) {
+  const candidates = [];
+  if (pi.file && /\.jpe?g$/i.test(pi.file) && !BAD.test(pi.file)) candidates.push(pi.file);
+  for (const f of await articleImages(lang, pi.pageTitle)) if (!candidates.includes(f)) candidates.push(f);
+  for (const file of candidates.slice(0, 6)) {
+    const info = await fileInfo(lang, file);
+    if (info && /jpeg/i.test(info.mime) && info.width >= 800) return { file, info };
+  }
+  return null;
+}
+
 // 2) URL redimensionnée + auteur/licence via l'API de Commons (le fichier peut aussi être local au wiki)
 async function fileInfo(lang, file) {
-  const q = { action: 'query', titles: `File:${file}`, prop: 'imageinfo', iiprop: 'url|extmetadata|mime', iiurlwidth: String(WIDTH) };
+  const q = { action: 'query', titles: `File:${file}`, prop: 'imageinfo', iiprop: 'url|extmetadata|mime|size', iiurlwidth: String(WIDTH) };
   let j = await api('commons.wikimedia.org', q);
   let p = j.query?.pages?.[0];
   if (!p || p.missing || !p.imageinfo) { j = await api(`${lang}.wikipedia.org`, q); p = j.query?.pages?.[0]; }
@@ -88,7 +109,8 @@ async function fileInfo(lang, file) {
   return {
     url: ii.thumburl || ii.url,
     page: ii.descriptionurl,
-    mime: ii.thumbmime || ii.mime,
+    mime: ii.mime,
+    width: ii.width || 0,
     author: strip(meta.Artist?.value) || 'auteur non renseigné',
     license: strip(meta.LicenseShortName?.value) || 'licence non renseignée',
     licenseUrl: meta.LicenseUrl?.value || '',
@@ -108,10 +130,12 @@ for (const [lang, set] of Object.entries(byLang)) {
       skipped++; console.log(`· ${s}.jpg déjà présent`); continue;
     }
     const pi = imgs[title];
-    if (!pi) { failed.push(`${title} (pas d'image libre sur l'article)`); continue; }
+    if (!pi) { failed.push(`${title} (article introuvable)`); continue; }
     try {
-      const info = await fileInfo(lang, pi.file);
-      if (!info) throw new Error('imageinfo introuvable');
+      const chosen = await pickPhoto(lang, pi);
+      if (!chosen) throw new Error("aucune photo JPEG ≥ 800 px dans l'article");
+      const { file, info } = chosen;
+      pi.file = file;
       const r = await get(info.url);
       const buf = Buffer.from(await r.arrayBuffer());
       writeFileSync(dest, buf);

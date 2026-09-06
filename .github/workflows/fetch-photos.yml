@@ -29,12 +29,15 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
 
       - name: Télécharger les photos et leurs crédits
         env:
           FETCH_PHOTOS_NEWLIST: ${{ runner.temp }}/new-photos.txt
         run: node scripts/fetch-photos.mjs ${{ inputs.force && '--force' || '' }}
+
+      - name: Installer ImageMagick (absent des runners Ubuntu 24.04)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq imagemagick > /dev/null && convert -version | head -1
 
       - name: Optimiser les nouvelles images (≤ 1000 px, JPEG qualité 80, PNG/SVG convertis)
         env:
