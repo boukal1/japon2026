@@ -367,28 +367,40 @@ Reflète la **boucle Kyushu Option B** (retenue, cf. section 5). Option A gardé
 
 ## 9. À réserver & à surveiller
 
+> **Contrôle du 6 septembre (J-10).** 🔴 = à boucler avant le départ, en priorité. Constat : le J-30 du Shinkansen du 20 est
+> dépassé depuis le 21 août ; il reste **6 nuits d'hôtel à réserver** (Fukuoka 20, Kumamoto 21, Beppu/environs 23,
+> Mojiko 24, Nagoya 25–26) plus la voiture, en plein Silver Week. Doublon « Atelier forge Gifu — confirmer résa »
+> supprimé : la forge est réservée (une seule ligne).
+
+**Dates clés en voyage :** 15 sept frais d'annulation Yufuin dès J-7 (30 %, puis 50 % dès le 19, 70 % le 21, 100 % le 22) ·
+16 sept fin d'annulation gratuite forge (J-10) et hôtel Osaka (J-2) · 17 sept 14:00 hôtel Shanghai · 18 sept 14:00 JST QR
+Nintendo récupérable · 22 sept check-in Yufuin 17:30, **arrivée après 20:00 = pas de dîner** · 26 sept fin d'annulation
+gratuite hôtel Tokyo (J-1) · 29 sept 22:00 JST dernière annulation Pokémon Café · 1ᵉʳ oct check-out 11:00, HND 22:45.
+
+
 - [x] **Permis** — Traduction
 - [x] **Passeport** — Enregistrement du passeport
-- [ ] **Applications Chine** Application pour le chine (Alipay, wechat, amap)
-- [ ] **Applications Japon** Application pour le Japon (tablelog)
-- [ ] **Shinkansen 20 sept** — Shin-Osaka → Hakata, sièges réservés, dès l'ouverture J-30 (veille Silver Week, déjà chargé)
-- [ ] **Transfert privé Shanghai** — A/R hôtel ↔ PVG via l'hôtel
+- [ ] **Applications Chine** — Alipay (mode tourist + carte Revolut), WeChat Pay, Amap : installer, créer les comptes et lier une carte avant le départ (vérification parfois lente)
+- [ ] **Applications Japon** — Tabelog (restaurants)
+- [ ] 🔴 **Shinkansen 20 sept** — Shin-Osaka → Hakata, sièges réservés. **La vente est ouverte depuis le 21 août (J-30 dépassé) : réserver immédiatement** (veille Silver Week, le train le plus chargé du voyage). Dans le même geste : Hakata → Nagoya (25) et Nagoya → Tokyo (27)
+- [ ] **Transfert privé Shanghai** — A/R hôtel ↔ PVG, à demander à l'Atour par e-mail avant le 15 sept
 - [x] **Résa Osaka raccourcie** — Villa Fontaine Grand Osaka Umeda ramenée de 3 à 2 nuits (18-20 sept) ; ≈ CHF 574 (¥112 797)
 - [x] **Musée Nintendo** — 19 sept 14:00 — RÉSERVÉ, non annulable
-- [ ] **Atelier forge Gifu** — confirmer résa ; annulation 100 % à J-10
-- [ ] **Hôtel Fukuoka** — 1 nuit, 20 sept (nouveau, boucle Option B)
-- [ ] **Hôtel Kumamoto** — 1 nuit, 21 sept
+- [ ] 🔴 **Hôtel Fukuoka** — 1 nuit, 20 sept, 2 chambres
+- [ ] 🔴 **Hôtel Kumamoto** — 1 nuit, 21 sept, 2 chambres
 - [ ] **Vérifier horaires Kuratake Shrine** (Amakusa) avant de verrouiller le créneau du 21 sept
 - [x] **Ryokan** — **RÉSERVÉ : Yufuin Onsen Kaede no Shoja (由布院温泉 楓の小舎), 22→23 sept, 1 nuit**, chambre spéciale 椛の間 (離れ, rotenburo privatif), demi-pension kaiseki ; ≈ CHF 478 (¥92 400 TTC, payé). ⚠️ C'est **Yufuin**, pas Beppu (~30-40 min de route entre les deux) — à recouper avec le check-in 17:30 après la Yamanami Highway et avec la rando du Mont Tsurumi prévue 08:00 le 23 à Beppu (départ tôt de Yufuin nécessaire, ou horaire à décaler).
-- [ ] **Hôtel Mojiko / Kitakyushu** — 1 nuit, 24 sept (nouveau, remplace l'ancien arrêt déjeuner par une étape avec nuit sur place, mi-chemin vers Tsunoshima Bridge)
-- [ ] **Location voiture Kyushu** — prise Fukuoka le 20 sept, restitution Hakata le 25 sept ; permis CH + trad. JAF à bord
+- [ ] 🔴 **Hôtel nuit du 23 sept** — Beppu ou environs (jour libre après le checkout de Yufuin) : rien de réservé pour cette nuit
+- [ ] 🔴 **Hôtel Mojiko / Kitakyushu** — 1 nuit, 24 sept (nouveau, remplace l'ancien arrêt déjeuner par une étape avec nuit sur place, mi-chemin vers Tsunoshima Bridge)
+- [ ] 🔴 **Location voiture Kyushu** — prise Fukuoka le 20 au soir ou le 21 au matin, restitution Hakata le 25 sept ; permis CH + trad. JAF à bord (flottes limitées en Silver Week)
 - [x] **Baseball** — **RÉSERVÉ : Hanshin – Hiroshima, Koshien (Nishinomiya), ven 18 sept 18:00**, juste après l'atterrissage KIX 14:55, billets en main. **Un seul match sur le voyage** (décision du 6 sept) : plus rien à réserver ni à surveiller — garder simplement les billets accessibles hors ligne.
 - [x] **Pokémon Café (Nihonbashi)** — **RÉSERVÉ : mer 30 sept, 13:00, 2 pers., sièges Type B, 90 min** (arrivée 12:45). Aucun goodie pré-commandé, nombre de personnes non modifiable. Annulable jusqu'à 22:00 JST la veille. → e-mail de confirmation à garder hors ligne pour le comptoir.
-- [x] **Forge Gifu** - Réservation de la forge sur japan-experience
+- [x] **Forge Gifu** — RÉSERVÉ sur Japan Experience (26 sept 08:50, Gifu-Hashima, 1 participant, CHF 300). Annulation 100 % dès J-10 = **16 sept**, plus rien à confirmer
 - [x] **Hôtel Tokyo** — **RÉSERVÉ : Tokyu Stay Tsukiji, 27 sept → 1ᵉʳ oct, 4 nuits, 2 chambres** (Residential Double 18 m² + Moderate Single 15 m²) ; ≈ CHF 720 (¥138 825). Lave-linge-séchant dans chaque chambre. Annulation gratuite jusqu'à 1 jour avant l'arrivée.
-- [ ] **Hôtel Nagoya** — **2 nuits, 25 et 26 sept**, 2 chambres, côté gare de Nagoya (Gifu-Hashima à ~10 min de Shinkansen le 26 au matin, départ Tokyo le 27). *Passé de 1 à 2 nuits le 6 sept pour aligner l'étape sur la résa Tokyo.*
+- [ ] 🔴 **Hôtel Nagoya** — **2 nuits, 25 et 26 sept**, 2 chambres, côté gare de Nagoya (Gifu-Hashima à ~10 min de Shinkansen le 26 au matin, départ Tokyo le 27). *Passé de 1 à 2 nuits le 6 sept pour aligner l'étape sur la résa Tokyo.*
 - [ ] **Après-midi du 26 sept** — libre à Nagoya/Gifu : choisir le programme, et vérifier/réserver l'**ukai** (pêche au cormoran, Nagara, Gifu) si ça tente
-- [ ] **Risque typhon / jet lag** — plus de jour tampon : surveiller la météo J18–20
+- [ ] **Hors ligne** — billets baseball, e-mail Pokémon Café, confirmations hôtels, ryokan et forge en screenshots accessibles sans réseau ; numéro du ryokan à portée de main
+- [ ] **Risque typhon / jet lag** — plus de jour tampon : surveiller la météo dès le 13 sept, surtout J18–20
 - [ ] **Jeans** Voir pour visiter/réserver (pas obligatoire)
 - [ ] **Baguettes** Voir pour visiter/réserver (pas obligatoire)
 
@@ -418,12 +430,28 @@ gratuite jusqu'à 1 jour avant l'arrivée. Le planning a été aligné dessus �
 ⚠️ **Manque encore l'hôtel de Nagoya** (2 nuits, 25 et 26 sept) — seule étape du voyage sans
 hébergement identifié, cf. section 9.
 
-**Total hébergements réservés à ce jour : ≈ CHF 1 540** (Shanghai CHF 246 + Osaka CHF 574 + Tokyo CHF 720).
+**Total hébergements réservés à ce jour : ≈ CHF 2 018** (Shanghai CHF 246 + Osaka CHF 574 + Yufuin CHF 478 + Tokyo CHF 720) — **8 nuits sur 14**.
 
 
 ---
 
-## 11. Ressources
+## 11. Budget
+
+Le budget détaillé (par personne, méthode, cash vs Revolut) vit dans [`budget.md`](budget.md) ; la page HTML en affiche la
+synthèse pour deux personnes. Résumé au 6 septembre :
+
+| | CHF · 2 pers. | CHF / pers. |
+|---|---|---|
+| **Engagé, chiffré** (vols, 4 hébergements, forge, baseball, Nintendo) | 5 248 | ≈ 2 624 |
+| **À prévoir** (6 nuits, voiture, 3 Shinkansen, transferts, quotidien, shopping) | 3 670 – 4 920 | 1 835 – 2 460 |
+| **Total prévisionnel**, vols compris | ≈ 8 900 – 10 200 | ≈ 4 600 – 5 250 |
+
+Règle : chaque ligne « estimé » de `budget.md` est remplacée par le montant réel dès qu'elle est réservée, et la synthèse
+HTML est mise à jour dans le même commit.
+
+---
+
+## 12. Ressources
 
 - **Japan Experience** — atelier forge de couteau (Gifu) (https://www.japan-experience.com/fr/activites/autres-regions/forge-a-gifu-fabriquez-votre-propre-couteau)
 - **JAF** — traduction du permis (faite)
