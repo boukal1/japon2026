@@ -1,0 +1,56 @@
+name: Récupérer les photos (Wikipédia → assets/img)
+
+# Lancement manuel : onglet Actions → « Récupérer les photos » → Run workflow.
+# Télécharge l'image libre de chaque article Wikipédia référencé dans la page,
+# écrit assets/img/<slug>.jpg + manifest.json + CREDITS.md, commite sur main,
+# puis relance le déploiement GitHub Pages.
+
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Re-télécharger même les fichiers déjà présents"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: fetch-photos
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Télécharger les photos et leurs crédits
+        run: node scripts/fetch-photos.mjs ${{ inputs.force && '--force' || '' }}
+
+      - name: Commiter assets/img si quelque chose a changé
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/img
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Photos : assets/img mis à jour depuis Wikipédia (images libres, crédits dans CREDITS.md)"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Relancer le déploiement Pages
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy-pages.yml --ref main

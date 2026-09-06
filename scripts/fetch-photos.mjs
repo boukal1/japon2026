@@ -5,7 +5,7 @@
 // assets/img/manifest.json lu par la page. À lancer depuis une machine qui accède à
 // Wikipédia :   node scripts/fetch-photos.mjs        (Node 18+, aucune dépendance)
 //
-// Options : --width=1200 (largeur max, défaut 1200) · --force (re-télécharge tout)
+// Options : --width=1000 (largeur max, défaut 1000) · --force (re-télécharge tout)
 // Photos perso : déposer assets/img/<slug>.jpg puis relancer le script, il complète
 // le manifest sans écraser les fichiers existants (sauf --force).
 
@@ -15,11 +15,12 @@ import { fileURLToPath } from 'node:url';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const html = readFileSync(join(root, 'voyage-japon-2026.html'), 'utf8');
+await sleep(0);
 const outDir = join(root, 'assets', 'img');
 mkdirSync(outDir, { recursive: true });
 
 const args = Object.fromEntries(process.argv.slice(2).map(a => { const m = a.match(/^--([^=]+)(?:=(.*))?$/); return m ? [m[1], m[2] ?? true] : [a, true]; }));
-const WIDTH = Number(args.width) || 1200;
+const WIDTH = Number(args.width) || 1000;
 const FORCE = !!args.force;
 const UA = 'japon2026-photos/1.0 (https://github.com/boukal1/japon2026; usage personnel)';
 
@@ -35,11 +36,24 @@ for (const f of figs) (byLang[f.lang] ??= new Set()).add(f.title);
 const manifestPath = join(outDir, 'manifest.json');
 const manifest = existsSync(manifestPath) ? JSON.parse(readFileSync(manifestPath, 'utf8')) : {};
 
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+// 3 tentatives, pause 2 s puis 6 s, sur erreur réseau ou 429/5xx
+async function get(url, extra = {}) {
+  let last;
+  for (let i = 0; i < 3; i++) {
+    try {
+      const r = await fetch(url, { headers: { 'User-Agent': UA, 'Api-User-Agent': UA, ...extra } });
+      if (r.ok) return r;
+      last = new Error(`HTTP ${r.status}`);
+      if (r.status !== 429 && r.status < 500) throw last;
+    } catch (e) { last = e; }
+    await sleep(i === 0 ? 2000 : 6000);
+  }
+  throw last;
+}
 async function api(host, params) {
   const url = `https://${host}/w/api.php?${new URLSearchParams({ format: 'json', formatversion: '2', ...params })}`;
-  const r = await fetch(url, { headers: { 'User-Agent': UA, 'Api-User-Agent': UA } });
-  if (!r.ok) throw new Error(`${host} HTTP ${r.status}`);
-  return r.json();
+  return (await get(url)).json();
 }
 
 // 1) page image (nom de fichier + titre final) via l'API du wiki
@@ -98,8 +112,7 @@ for (const [lang, set] of Object.entries(byLang)) {
     try {
       const info = await fileInfo(lang, pi.file);
       if (!info) throw new Error('imageinfo introuvable');
-      const r = await fetch(info.url, { headers: { 'User-Agent': UA } });
-      if (!r.ok) throw new Error(`téléchargement HTTP ${r.status}`);
+      const r = await get(info.url);
       const buf = Buffer.from(await r.arrayBuffer());
       writeFileSync(dest, buf);
       manifest[s] = { title, source: 'wikimedia', file: pi.file, page: info.page, author: info.author, license: info.license, licenseUrl: info.licenseUrl,
