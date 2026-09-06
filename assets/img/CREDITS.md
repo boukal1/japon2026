@@ -11,7 +11,7 @@ Images de `assets/img/`, récupérées par `scripts/fetch-photos.mjs`. Les fichi
 | gifu-castle.jpg | Gifu Castle | Alpsdake | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Gifu_Castle.jpg) |
 | ginza.jpg | Ginza | Kakidai | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Ginza-WAKO_at_night.jpg) |
 | golden-gai.jpg | Golden Gai | urbz | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:G2_Street_20090626_2.jpg) |
-| japanese-high-school-baseball-championship.jpg | Japanese High School Baseball Championship | auteur non renseigné | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Ceremonial_First_Pitch_1915.jpg) |
+| hanshin-koshien-stadium.jpg | Hanshin Koshien Stadium | 百楽兎 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Summer_Koshien_2009_Final.jpg) |
 | japanese-kitchen-knife.jpg | Japanese kitchen knife | Photo courtesy of:
 
 willem! | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](https://commons.wikimedia.org/wiki/File:Japonese_knife_Tokyo_(willem!).jpg) |
@@ -21,6 +21,7 @@ willem! | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](h
 | nagara-river.jpg | Nagara River | Original uploader was Douggers at en.Wikipedia | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5) | [Commons](https://commons.wikimedia.org/wiki/File:Nagararivergifu.JPG) |
 | nagoya-castle.jpg | Nagoya Castle | Bariston | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Nagoya_Castle_7.jpg) |
 | nihonbashi.jpg | Nihonbashi | Sitao Xiang | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Chuo-dori_from_Nihonbashi.jpg) |
+| nintendo-museum.jpg | Nintendo Museum | Nagomijirap | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Nintendo_Museum_Entrance.jpg) |
 | senso-ji.jpg | Sensō-ji | Akonnchiroll | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Sensoji_2023.jpg) |
 | shanghai-tower.jpg | Shanghai Tower | Balon Greyjoy | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:20191114_Shanghai_Tower_(2).jpg) |
 | the-bund.jpg | The Bund | 钉钉 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:The_Bund_2.jpg) |
@@ -28,7 +29,6 @@ willem! | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) | [Commons](h
 | toyosu-market.jpg | Toyosu Market | Arne Müseler | [CC BY-SA 3.0 de](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en) | [Commons](https://commons.wikimedia.org/wiki/File:Toyosu_Market_Tokyo_2.jpg) |
 | tsukiji.jpg | Tsukiji | Wpcpey | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Tsukiji_2015.jpg) |
 | tsunoshima.jpg | Tsunoshima | 上条ジョー | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Tuno_ailand.jpg) |
-| uji-kyoto.jpg | Uji, Kyoto | 663highland | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5) | [Commons](https://commons.wikimedia.org/wiki/File:Byodoin_Phoenix_Hall_Uji_2009.jpg) |
 | umeda.jpg | Umeda | Zairon | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:Osaka_Umeda_Sky_Building_Panoramablick_05.jpg) |
 | xiaolongbao.jpg | Xiaolongbao | Peachyeung316 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | [Commons](https://commons.wikimedia.org/wiki/File:A_Xiaolongbao_from_The_Modern_Shanghai.jpg) |
 | yu-garden.jpg | Yu Garden | Stefan Fussan | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) | [Commons](https://commons.wikimedia.org/wiki/File:Shanghai_-_Yu_Garden_-_0035.jpg) |

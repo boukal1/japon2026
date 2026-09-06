@@ -248,5 +248,25 @@
     "license": "CC BY 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
     "article": "https://en.wikipedia.org/wiki/Nagara_River"
+  },
+  "hanshin-koshien-stadium": {
+    "title": "Hanshin Koshien Stadium",
+    "source": "wikimedia",
+    "file": "Summer_Koshien_2009_Final.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Summer_Koshien_2009_Final.jpg",
+    "author": "百楽兎",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "article": "https://en.wikipedia.org/wiki/Koshien_Stadium"
+  },
+  "nintendo-museum": {
+    "title": "Nintendo Museum",
+    "source": "wikimedia",
+    "file": "Nintendo_Museum_Entrance.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nintendo_Museum_Entrance.jpg",
+    "author": "Nagomijirap",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "article": "https://en.wikipedia.org/wiki/Nintendo_Museum"
   }
 }
