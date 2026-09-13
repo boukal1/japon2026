@@ -4,7 +4,7 @@
 >
 > 🌐 Version en ligne : https://boukal1.github.io/japon2026/
 >
-> Voyageurs : 2 amis · Base : Genève/Lausanne · Budget : milieu de gamme · Dernière mise à jour : 6 septembre 2026.
+> Voyageurs : 2 amis · Base : Genève/Lausanne · Budget : milieu de gamme · Dernière mise à jour : 13 septembre 2026.
 
 ---
 
@@ -173,14 +173,23 @@ FUKUOKA (1 nuit) → Uto → Kuratake Shrine (Amakusa) → Kumamoto (1 nuit)
 
 | Jour | Date | Départ | Arrivée | Trajet & Programme | Nuit |
 |---|---|---|---|---|---|
-| J1 | 20 sept (dim) | **08:00** Shin-Osaka (Shinkansen) | **~21:00** Fukuoka | 10:20 arrivée Hakata → dépôt bagages · 11:00–13:00 Dazaifu Tenmangu (+ déjeuner) · 14:00 Ohori Park + ruines château · 15:15 Kushida Shrine · 16:15 Canal City · 19:00–21:00 yatai de Nakasu | Fukuoka |
-| J2 | 21 sept (lun) | **08:00** Fukuoka | **~19:00** Kumamoto | Prise voiture → 09:45 Uto (**Jinbe**, 15 min) → 12:15 Kuratake Shrine, Amakusa (visite + déjeuner, ~1h30) → 14:00 départ → 16:40 Kumamoto : **Luffy** (préfecture, 15 min) → château (1h) → 19:00 basashi | Kumamoto |
+| J1 | 20 sept (dim) | **08:00** Shin-Osaka (Shinkansen) | **~21:00** Fukuoka | 10:20 arrivée Hakata → dépôt bagages · 11:00–13:00 Dazaifu Tenmangu (+ déjeuner) · 14:00 Ohori Park + ruines château · 15:15 Kushida Shrine · 16:15 Canal City · 19:00–21:00 yatai de Nakasu | **Fukuoka — RÉSERVÉ (Hakata Green Hotel No.1)** |
+| J2 | 21 sept (lun) | **08:00** Fukuoka | **~19:00** Kumamoto | Prise voiture (réservée, 09:00 Hakataeki Minami) → 09:45 Uto (**Jinbe**, 15 min) → 12:15 Kuratake Shrine, Amakusa (visite + déjeuner, ~1h30) → 14:00 départ → 16:40 Kumamoto : **Luffy** (préfecture, 15 min) → château (1h) → 19:00 basashi | **Kumamoto — RÉSERVÉ (One Station Hotel Kumamoto)** |
 | J3 | 22 sept (mar) | **08:30** Kumamoto | **17:30** Yufuin | 09:00 Ozu (**Zoro**) → 09:35 Mashiki (**Sanji**) → 10:10 Mifune (**Brook**) → 10:55 Nishihara (**Nami**) → 11:40 gare d'Aso (**Usopp**) + déjeuner akaushi → 13:00 Milk Road + Daikanbō → 14:00 Yamanami Highway (~2h30–3h, arrêts photo) → 17:30 check-in ryokan (Yufuin Onsen Kaede no Shoja) | **Yufuin — RÉSERVÉ (ryokan Kaede no Shoja, rotenburo privatif)** |
 | J4 | 23 sept (mer, équinoxe) | Yufuin | — | Petit-déj en chambre → checkout ryokan (Yufuin, heure standard ~10h à confirmer) → **~30-40 min de route vers Beppu** → rando **Mont Tsurumi** (ropeway + sentier, vue panoramique sur la baie) · jigoku-mushi (déjeuner/goûter vapeur) · quartier Kannawa · bain de sable (tattoo-friendly) | **Libre / flexible** — sur place à Beppu ou début de route tranquille vers Kitakyushu selon l'envie. ⚠️ Le créneau **08:00 Mont Tsurumi** de l'ancien plan supposait de dormir à Beppu — impossible en partant de Yufuin après checkout ; horaires à revoir (checkout tôt, ou hike en fin de matinée/après-midi). |
 | J5 | 24 sept (jeu) | — | **~16:00** Mojiko/Kitakyushu | Route tranquille vers Kitakyushu (~1h30–2h selon point de départ de la veille) → après-midi/soirée **Mojiko Retro** (marché, port, dîner yaki-curry, illuminations de nuit) | Mojiko / Kitakyushu |
-| J6 | 25 sept (ven) | **09:00** Mojiko | **~19:00** Nagoya | Matinée Mojiko Retro → 11:00 Tsunoshima Bridge (~40 min via Kanmon) → 12:30 route Hakata → 14:00 retour voiture → Shinkansen Hakata→Nagoya (~4h) | Nagoya |
+| J6 | 25 sept (ven) | **09:00** Mojiko | **~19:00** Nagoya | Matinée Mojiko Retro → 11:00 Tsunoshima Bridge (~40 min via Kanmon) → 12:30 route Hakata → 14:00 retour voiture ⚠️ *(résa actuelle : restitution 17:30, cf. note ci-dessous)* → Shinkansen Hakata→Nagoya (~4h) | Nagoya |
 
 Horaires indicatifs (estimations sur temps de route + durées de visite raisonnables) — à affiner une fois les réservations calées.
+
+✅ **Voiture réservée** : Nissan Dayz (ou similaire), boîte auto, prise en
+charge lundi 21 sept 09:00 à Fukuoka (Hakataeki Minami), restitution
+vendredi 25 sept 17:30 au même point — cf.
+[fiche](reservations/location-voiture-kyushu.md). Prix non communiqué,
+à ajouter au budget dès réception de la facture. ⚠️ **Restitution à 17:30 vs.
+14:00 planifié pour le J6** — écart de 3h30 qui décale d'autant le Shinkansen
+Hakata → Nagoya (à réserver sur un créneau plus tardif) et l'arrivée à
+Nagoya, probablement en soirée plutôt qu'en fin d'après-midi.
 
 ### Statues One Piece (Kumamoto Revival Project)
 
@@ -351,8 +360,8 @@ Reflète la **boucle Kyushu Option B** (retenue, cf. section 5). Option A gardé
 | 17 sept | Shanghai express 24 h — base Le Bund |
 | 18 sept | Shanghai → Osaka (KIX 14:55) · **Baseball Koshien 18:00** (Hanshin-Hiroshima) ✅ |
 | 19 sept | Musée Nintendo, Uji (14:00) |
-| 20 sept | Shinkansen → Hakata · journée Fukuoka (Dazaifu, Ohori Park, yatai Nakasu) |
-| 21 sept | Uto (Jinbe) → Kuratake Shrine (Amakusa) → Kumamoto (Luffy, château, basashi) |
+| 20 sept | Shinkansen → Hakata · journée Fukuoka (Dazaifu, Ohori Park, yatai Nakasu) · **hôtel Fukuoka réservé** |
+| 21 sept | Prise voiture (réservée) → Uto (Jinbe) → Kuratake Shrine (Amakusa) → Kumamoto (Luffy, château, basashi) · **hôtel Kumamoto réservé** |
 | 22 sept | Straw Hat road trip (Zoro/Sanji/Brook/Nami/Usopp) → Milk Road/Daikanbō → Yamanami Highway → **Yufuin (ryokan, réservé)** |
 | 23 sept | Checkout Yufuin → Beppu — rando Mont Tsurumi + jigoku-mushi + Kannawa + bain de sable · journée libre/flexible |
 | 24 sept | Route tranquille vers Kitakyushu → Mojiko Retro (soirée, illuminations) |
@@ -367,10 +376,10 @@ Reflète la **boucle Kyushu Option B** (retenue, cf. section 5). Option A gardé
 
 ## 9. À réserver & à surveiller
 
-> **Contrôle du 6 septembre (J-10).** 🔴 = à boucler avant le départ, en priorité. Constat : le J-30 du Shinkansen du 20 est
-> dépassé depuis le 21 août ; il reste **6 nuits d'hôtel à réserver** (Fukuoka 20, Kumamoto 21, Beppu/environs 23,
-> Mojiko 24, Nagoya 25–26) plus la voiture, en plein Silver Week. Doublon « Atelier forge Gifu — confirmer résa »
-> supprimé : la forge est réservée (une seule ligne).
+> **Contrôle du 13 septembre (J-3).** 🔴 = à boucler avant le départ, en priorité. Constat : le J-30 du Shinkansen du 20 est
+> dépassé depuis le 21 août (toujours pas réservé) ; hôtels Fukuoka, Kumamoto et voiture Kyushu réservés ce jour — il
+> reste **4 nuits d'hôtel à réserver** (Beppu/environs 23, Mojiko 24, Nagoya 25–26), en plein Silver Week, plus le prix
+> de la voiture à ajouter au budget dès réception de la facture.
 
 **Dates clés en voyage :** 15 sept frais d'annulation Yufuin dès J-7 (30 %, puis 50 % dès le 19, 70 % le 21, 100 % le 22) ·
 16 sept fin d'annulation gratuite forge (J-10) et hôtel Osaka (J-2) · 17 sept 14:00 hôtel Shanghai · 18 sept 14:00 JST QR
@@ -386,13 +395,13 @@ gratuite hôtel Tokyo (J-1) · 29 sept 22:00 JST dernière annulation Pokémon C
 - [ ] **Transfert privé Shanghai** — A/R hôtel ↔ PVG, à demander à l'Atour par e-mail avant le 15 sept
 - [x] **Résa Osaka raccourcie** — Villa Fontaine Grand Osaka Umeda ramenée de 3 à 2 nuits (18-20 sept) ; ≈ CHF 574 (¥112 797)
 - [x] **Musée Nintendo** — 19 sept 14:00 — RÉSERVÉ, non annulable
-- [ ] 🔴 **Hôtel Fukuoka** — 1 nuit, 20 sept, 2 chambres
-- [ ] 🔴 **Hôtel Kumamoto** — 1 nuit, 21 sept, 2 chambres
+- [x] **Hôtel Fukuoka** — **RÉSERVÉ : Hakata Green Hotel No.1 (博多グリーンホテル1号館), 20→21 sept, 1 nuit, 2 chambres simples non-fumeurs** ; ≈ CHF 244 (¥46 000). ⚠️ Aucune annulation gratuite (frais = montant total dès la réservation). Fiche : [reservations/hakata-green-hotel-fukuoka.md](reservations/hakata-green-hotel-fukuoka.md).
+- [x] **Hôtel Kumamoto** — **RÉSERVÉ : One Station Hotel Kumamoto -DLIGHT LIFE & HOTELS- (ワン・ステーションホテル熊本), 21→22 sept, 1 nuit, 2 chambres** (lits jumeaux éco + double éco) ; ≈ CHF 236 (¥44 349). Annulation gratuite jusqu'à 2 jours avant l'arrivée (19 sept). Fiche : [reservations/one-station-hotel-kumamoto.md](reservations/one-station-hotel-kumamoto.md).
 - [ ] **Vérifier horaires Kuratake Shrine** (Amakusa) avant de verrouiller le créneau du 21 sept
 - [x] **Ryokan** — **RÉSERVÉ : Yufuin Onsen Kaede no Shoja (由布院温泉 楓の小舎), 22→23 sept, 1 nuit**, chambre spéciale 椛の間 (離れ, rotenburo privatif), demi-pension kaiseki ; ≈ CHF 478 (¥92 400 TTC, payé). ⚠️ C'est **Yufuin**, pas Beppu (~30-40 min de route entre les deux) — à recouper avec le check-in 17:30 après la Yamanami Highway et avec la rando du Mont Tsurumi prévue 08:00 le 23 à Beppu (départ tôt de Yufuin nécessaire, ou horaire à décaler).
 - [ ] 🔴 **Hôtel nuit du 23 sept** — Beppu ou environs (jour libre après le checkout de Yufuin) : rien de réservé pour cette nuit
 - [ ] 🔴 **Hôtel Mojiko / Kitakyushu** — 1 nuit, 24 sept (nouveau, remplace l'ancien arrêt déjeuner par une étape avec nuit sur place, mi-chemin vers Tsunoshima Bridge)
-- [ ] 🔴 **Location voiture Kyushu** — prise Fukuoka le 20 au soir ou le 21 au matin, restitution Hakata le 25 sept ; permis CH + trad. JAF à bord (flottes limitées en Silver Week)
+- [x] **Location voiture Kyushu** — **RÉSERVÉE : Nissan Dayz ou similaire** (boîte auto, clim, 4 places/portes), prise en charge lundi 21 sept 09:00 à Fukuoka (Hakataeki Minami), restitution vendredi 25 sept 17:30 au même point ; permis CH + trad. JAF à bord. ⚠️ Prix non communiqué — à ajouter au budget dès réception de la facture. ⚠️ Restitution prévue 17:30 vs. 14:00 planifié pour le J6 (section 5) — écart de 3h30 à arbitrer sur le Shinkansen Hakata→Nagoya. Fiche : [reservations/location-voiture-kyushu.md](reservations/location-voiture-kyushu.md).
 - [x] **Baseball** — **RÉSERVÉ : Hanshin – Hiroshima, Koshien (Nishinomiya), ven 18 sept 18:00**, juste après l'atterrissage KIX 14:55, billets en main. **Un seul match sur le voyage** (décision du 6 sept) : plus rien à réserver ni à surveiller — garder simplement les billets accessibles hors ligne.
 - [x] **Pokémon Café (Nihonbashi)** — **RÉSERVÉ : mer 30 sept, 13:00, 2 pers., sièges Type B, 90 min** (arrivée 12:45). Aucun goodie pré-commandé, nombre de personnes non modifiable. Annulable jusqu'à 22:00 JST la veille. → e-mail de confirmation à garder hors ligne pour le comptoir.
 - [x] **Forge Gifu** — RÉSERVÉ sur Japan Experience (26 sept 08:50, Gifu-Hashima, 1 participant, CHF 300). Annulation 100 % dès J-10 = **16 sept**, plus rien à confirmer
@@ -418,6 +427,9 @@ Fiches détaillées des hébergements et activités confirmés dans [`reservatio
 | 4 | Tokyo | Pokémon Café — Nihonbashi | 30 sept, 13:00 | 90 min · 2 pers. | [fiche](reservations/pokemon-cafe-tokyo.md) |
 | 5 | Tokyo | Tokyu Stay Tsukiji - Tokyo Ginza Area | 27 sept – 1ᵉʳ oct | 4 nuits | [fiche](reservations/tokyu-stay-tsukiji.md) |
 | 6 | Kyushu (boucle) | Yufuin Onsen Kaede no Shoja | 22-23 sept | 1 nuit | [fiche](reservations/yufuin-kaede-no-shoja.md) |
+| 7 | Kyushu (boucle) | Hakata Green Hotel No.1 (Fukuoka) | 20-21 sept | 1 nuit, 2 chambres | [fiche](reservations/hakata-green-hotel-fukuoka.md) |
+| 8 | Kyushu (boucle) | One Station Hotel Kumamoto -DLIGHT LIFE & HOTELS- | 21-22 sept | 1 nuit, 2 chambres | [fiche](reservations/one-station-hotel-kumamoto.md) |
+| 9 | Kyushu (boucle) | Location voiture (Nissan Dayz ou similaire) | 21-25 sept | Fukuoka → Hakata, prix à confirmer | [fiche](reservations/location-voiture-kyushu.md) |
 
 ✅ Réservation Osaka raccourcie à 2 nuits (18-20 sept), alignée sur le programme retenu (Option B, section 5). Annulation gratuite jusqu'à 2 jours avant l'arrivée (cf. fiche).
 
@@ -427,10 +439,15 @@ Fiches détaillées des hébergements et activités confirmés dans [`reservatio
 gratuite jusqu'à 1 jour avant l'arrivée. Le planning a été aligné dessus — la nuit du 26 se passe
 à Nagoya/Gifu et le transfert vers Tokyo bascule au 27 (cf. sections 6 et 7).
 
-⚠️ **Manque encore l'hôtel de Nagoya** (2 nuits, 25 et 26 sept) — seule étape du voyage sans
-hébergement identifié, cf. section 9.
+✅ **Boucle Kyushu — hôtels Fukuoka et Kumamoto réservés** (1 nuit chacun, 2 chambres) et **voiture
+de location réservée** (21→25 sept, Nissan Dayz ou similaire, prix non communiqué à ce stade) —
+cf. fiches ci-dessus. ⚠️ La restitution voiture (25 sept 17:30) est ~3h30 plus tardive que prévu au
+programme (14:00), ce qui décale le Shinkansen Hakata→Nagoya — cf. section 5.
 
-**Total hébergements réservés à ce jour : ≈ CHF 2 018** (Shanghai CHF 246 + Osaka CHF 574 + Yufuin CHF 478 + Tokyo CHF 720) — **8 nuits sur 14**.
+⚠️ **Manque encore** : hôtel de la nuit du 23 sept (Beppu/environs), hôtel Mojiko/Kitakyushu
+(24 sept), et hôtel de Nagoya (2 nuits, 25-26 sept) — cf. section 9.
+
+**Total hébergements réservés à ce jour : ≈ CHF 2 498** (Shanghai CHF 246 + Osaka CHF 574 + Fukuoka CHF 244 + Kumamoto CHF 236 + Yufuin CHF 478 + Tokyo CHF 720) — **10 nuits sur 14**.
 
 
 ---
@@ -438,13 +455,13 @@ hébergement identifié, cf. section 9.
 ## 11. Budget
 
 Le budget détaillé (par personne, méthode, cash vs Revolut) vit dans [`budget.md`](budget.md) ; la page HTML en affiche la
-synthèse pour deux personnes. Résumé au 6 septembre :
+synthèse pour deux personnes. Résumé au 13 septembre :
 
 | | CHF · 2 pers. | CHF / pers. |
 |---|---|---|
-| **Engagé, chiffré** (vols, 4 hébergements, forge, baseball, Nintendo) | 5 248 | ≈ 2 624 |
-| **À prévoir** (6 nuits, voiture, 3 Shinkansen, transferts, quotidien, shopping) | 3 670 – 4 920 | 1 835 – 2 460 |
-| **Total prévisionnel**, vols compris | ≈ 8 900 – 10 200 | ≈ 4 600 – 5 250 |
+| **Engagé, chiffré** (vols, 6 hébergements, forge, baseball, Nintendo) | 5 728 | ≈ 2 864 |
+| **À prévoir** (4 nuits, voiture *(prix à confirmer)*, 3 Shinkansen, transferts, quotidien, shopping) | 3 310 – 4 480 | 1 655 – 2 240 |
+| **Total prévisionnel**, vols compris | ≈ 9 038 – 10 208 | ≈ 4 669 – 5 254 |
 
 Règle : chaque ligne « estimé » de `budget.md` est remplacée par le montant réel dès qu'elle est réservée, et la synthèse
 HTML est mise à jour dans le même commit.
