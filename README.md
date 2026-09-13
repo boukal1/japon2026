@@ -185,8 +185,8 @@ Horaires indicatifs (estimations sur temps de route + durées de visite raisonna
 ✅ **Voiture réservée** : Nissan Dayz (ou similaire), boîte auto, prise en
 charge lundi 21 sept 09:00 à Fukuoka (Hakataeki Minami), restitution
 vendredi 25 sept 17:30 au même point — cf.
-[fiche](reservations/location-voiture-kyushu.md). Prix non communiqué,
-à ajouter au budget dès réception de la facture. ⚠️ **Restitution à 17:30 vs.
+[fiche](reservations/location-voiture-kyushu.md). **CHF 281.33 au total**
+(≈ CHF 140.67/pers). ⚠️ **Restitution à 17:30 vs.
 14:00 planifié pour le J6** — écart de 3h30 qui décale d'autant le Shinkansen
 Hakata → Nagoya (à réserver sur un créneau plus tardif) et l'arrivée à
 Nagoya, probablement en soirée plutôt qu'en fin d'après-midi.
@@ -377,9 +377,8 @@ Reflète la **boucle Kyushu Option B** (retenue, cf. section 5). Option A gardé
 ## 9. À réserver & à surveiller
 
 > **Contrôle du 13 septembre (J-3).** 🔴 = à boucler avant le départ, en priorité. Constat : le J-30 du Shinkansen du 20 est
-> dépassé depuis le 21 août (toujours pas réservé) ; hôtels Fukuoka, Kumamoto et voiture Kyushu réservés ce jour — il
-> reste **4 nuits d'hôtel à réserver** (Beppu/environs 23, Mojiko 24, Nagoya 25–26), en plein Silver Week, plus le prix
-> de la voiture à ajouter au budget dès réception de la facture.
+> dépassé depuis le 21 août (toujours pas réservé) ; hôtels Fukuoka, Kumamoto et voiture Kyushu réservés et chiffrés ce
+> jour — il reste **4 nuits d'hôtel à réserver** (Beppu/environs 23, Mojiko 24, Nagoya 25–26), en plein Silver Week.
 
 **Dates clés en voyage :** 15 sept frais d'annulation Yufuin dès J-7 (30 %, puis 50 % dès le 19, 70 % le 21, 100 % le 22) ·
 16 sept fin d'annulation gratuite forge (J-10) et hôtel Osaka (J-2) · 17 sept 14:00 hôtel Shanghai · 18 sept 14:00 JST QR
@@ -401,7 +400,7 @@ gratuite hôtel Tokyo (J-1) · 29 sept 22:00 JST dernière annulation Pokémon C
 - [x] **Ryokan** — **RÉSERVÉ : Yufuin Onsen Kaede no Shoja (由布院温泉 楓の小舎), 22→23 sept, 1 nuit**, chambre spéciale 椛の間 (離れ, rotenburo privatif), demi-pension kaiseki ; ≈ CHF 478 (¥92 400 TTC, payé). ⚠️ C'est **Yufuin**, pas Beppu (~30-40 min de route entre les deux) — à recouper avec le check-in 17:30 après la Yamanami Highway et avec la rando du Mont Tsurumi prévue 08:00 le 23 à Beppu (départ tôt de Yufuin nécessaire, ou horaire à décaler).
 - [ ] 🔴 **Hôtel nuit du 23 sept** — Beppu ou environs (jour libre après le checkout de Yufuin) : rien de réservé pour cette nuit
 - [ ] 🔴 **Hôtel Mojiko / Kitakyushu** — 1 nuit, 24 sept (nouveau, remplace l'ancien arrêt déjeuner par une étape avec nuit sur place, mi-chemin vers Tsunoshima Bridge)
-- [x] **Location voiture Kyushu** — **RÉSERVÉE : Nissan Dayz ou similaire** (boîte auto, clim, 4 places/portes), prise en charge lundi 21 sept 09:00 à Fukuoka (Hakataeki Minami), restitution vendredi 25 sept 17:30 au même point ; permis CH + trad. JAF à bord. ⚠️ Prix non communiqué — à ajouter au budget dès réception de la facture. ⚠️ Restitution prévue 17:30 vs. 14:00 planifié pour le J6 (section 5) — écart de 3h30 à arbitrer sur le Shinkansen Hakata→Nagoya. Fiche : [reservations/location-voiture-kyushu.md](reservations/location-voiture-kyushu.md).
+- [x] **Location voiture Kyushu** — **RÉSERVÉE : Nissan Dayz ou similaire** (boîte auto, clim, 4 places/portes), prise en charge lundi 21 sept 09:00 à Fukuoka (Hakataeki Minami), restitution vendredi 25 sept 17:30 au même point ; permis CH + trad. JAF à bord. **CHF 281.33 au total** (≈ CHF 140.67/pers). ⚠️ Restitution prévue 17:30 vs. 14:00 planifié pour le J6 (section 5) — écart de 3h30 à arbitrer sur le Shinkansen Hakata→Nagoya. Fiche : [reservations/location-voiture-kyushu.md](reservations/location-voiture-kyushu.md).
 - [x] **Baseball** — **RÉSERVÉ : Hanshin – Hiroshima, Koshien (Nishinomiya), ven 18 sept 18:00**, juste après l'atterrissage KIX 14:55, billets en main. **Un seul match sur le voyage** (décision du 6 sept) : plus rien à réserver ni à surveiller — garder simplement les billets accessibles hors ligne.
 - [x] **Pokémon Café (Nihonbashi)** — **RÉSERVÉ : mer 30 sept, 13:00, 2 pers., sièges Type B, 90 min** (arrivée 12:45). Aucun goodie pré-commandé, nombre de personnes non modifiable. Annulable jusqu'à 22:00 JST la veille. → e-mail de confirmation à garder hors ligne pour le comptoir.
 - [x] **Forge Gifu** — RÉSERVÉ sur Japan Experience (26 sept 08:50, Gifu-Hashima, 1 participant, CHF 300). Annulation 100 % dès J-10 = **16 sept**, plus rien à confirmer
@@ -429,7 +428,7 @@ Fiches détaillées des hébergements et activités confirmés dans [`reservatio
 | 6 | Kyushu (boucle) | Yufuin Onsen Kaede no Shoja | 22-23 sept | 1 nuit | [fiche](reservations/yufuin-kaede-no-shoja.md) |
 | 7 | Kyushu (boucle) | Hakata Green Hotel No.1 (Fukuoka) | 20-21 sept | 1 nuit, 2 chambres | [fiche](reservations/hakata-green-hotel-fukuoka.md) |
 | 8 | Kyushu (boucle) | One Station Hotel Kumamoto -DLIGHT LIFE & HOTELS- | 21-22 sept | 1 nuit, 2 chambres | [fiche](reservations/one-station-hotel-kumamoto.md) |
-| 9 | Kyushu (boucle) | Location voiture (Nissan Dayz ou similaire) | 21-25 sept | Fukuoka → Hakata, prix à confirmer | [fiche](reservations/location-voiture-kyushu.md) |
+| 9 | Kyushu (boucle) | Location voiture (Nissan Dayz ou similaire) | 21-25 sept | Fukuoka → Hakata, ≈ CHF 281.33 | [fiche](reservations/location-voiture-kyushu.md) |
 
 ✅ Réservation Osaka raccourcie à 2 nuits (18-20 sept), alignée sur le programme retenu (Option B, section 5). Annulation gratuite jusqu'à 2 jours avant l'arrivée (cf. fiche).
 
@@ -440,7 +439,7 @@ gratuite jusqu'à 1 jour avant l'arrivée. Le planning a été aligné dessus �
 à Nagoya/Gifu et le transfert vers Tokyo bascule au 27 (cf. sections 6 et 7).
 
 ✅ **Boucle Kyushu — hôtels Fukuoka et Kumamoto réservés** (1 nuit chacun, 2 chambres) et **voiture
-de location réservée** (21→25 sept, Nissan Dayz ou similaire, prix non communiqué à ce stade) —
+de location réservée** (21→25 sept, Nissan Dayz ou similaire, **CHF 281.33 au total**) —
 cf. fiches ci-dessus. ⚠️ La restitution voiture (25 sept 17:30) est ~3h30 plus tardive que prévu au
 programme (14:00), ce qui décale le Shinkansen Hakata→Nagoya — cf. section 5.
 
@@ -459,9 +458,9 @@ synthèse pour deux personnes. Résumé au 13 septembre :
 
 | | CHF · 2 pers. | CHF / pers. |
 |---|---|---|
-| **Engagé, chiffré** (vols, 6 hébergements, forge, baseball, Nintendo) | 5 728 | ≈ 2 864 |
-| **À prévoir** (4 nuits, voiture *(prix à confirmer)*, 3 Shinkansen, transferts, quotidien, shopping) | 3 310 – 4 480 | 1 655 – 2 240 |
-| **Total prévisionnel**, vols compris | ≈ 9 038 – 10 208 | ≈ 4 669 – 5 254 |
+| **Engagé, chiffré** (vols, 6 hébergements, voiture Kyushu, forge, baseball, Nintendo) | 6 009 | ≈ 3 155 |
+| **À prévoir** (4 nuits, 3 Shinkansen, transferts, quotidien, shopping) | 2 960 – 3 980 | 1 480 – 1 990 |
+| **Total prévisionnel**, vols compris | ≈ 8 969 – 9 989 | ≈ 4 635 – 5 145 |
 
 Règle : chaque ligne « estimé » de `budget.md` est remplacée par le montant réel dès qu'elle est réservée, et la synthèse
 HTML est mise à jour dans le même commit.

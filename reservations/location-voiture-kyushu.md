@@ -23,17 +23,13 @@
 
 ## Tarif
 
-⚠️ **Non communiqué** dans les informations transmises — à compléter dès
-réception de la confirmation/facture (loueur, référence, prix, franchise
-d'assurance). Le budget (cf. [`../budget.md`](../budget.md)) utilise en
-attendant une estimation de CHF 175–250/pers pour 5 jours (location +
-assurance, coût véhicule divisé par 2 voyageurs).
+- **Prix total : CHF 281.33** (location Kyushu, 4 jours pleins)
+- **≈ CHF 140.67 par personne** (coût véhicule divisé par 2 voyageurs)
 
 ## À retenir
 
 - Durée réelle de location : **4 jours pleins** (lundi 09:00 → vendredi
-  17:30), et non 5 jours comme estimé dans le budget — à ajuster une fois le
-  prix connu.
+  17:30).
 - **Permis :** permis suisses + traduction JAF en japonais à avoir à bord
   (cf. README, section 1).
 - ⚠️ **Écart avec le programme (README, section 5, Option B, J6 – 25 sept) :**

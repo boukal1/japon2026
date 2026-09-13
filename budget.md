@@ -4,7 +4,7 @@
 >
 > Synthèse pour deux personnes sur la page HTML (section Budget) et dans le README (section 11). Règle : chaque ligne « estimé » est remplacée par le montant réel dès qu'elle est réservée.
 >
-> Dernière mise à jour : 13 septembre 2026 (J-3). Depuis la version précédente : hôtel Fukuoka réservé (Hakata Green Hotel No.1, 1 nuit, 2 chambres, non remboursable), hôtel Kumamoto réservé (One Station Hotel Kumamoto, 1 nuit, 2 chambres, annulable jusqu'à J-2), voiture de location Kyushu réservée (Nissan Dayz ou similaire, 21→25 sept, prix non communiqué — estimation conservée).
+> Dernière mise à jour : 13 septembre 2026 (J-3). Depuis la version précédente : hôtel Fukuoka réservé (Hakata Green Hotel No.1, 1 nuit, 2 chambres, non remboursable), hôtel Kumamoto réservé (One Station Hotel Kumamoto, 1 nuit, 2 chambres, annulable jusqu'à J-2), prix de la location de voiture Kyushu connu (CHF 281.33 au total, ≈ 140.67/pers) et déplacé de « reste à réserver » vers « déjà payé/confirmé ».
 
 ---
 
@@ -20,12 +20,13 @@
 | Tokyu Stay Tsukiji, Tokyo (4n, 2 chambres) | 360.00 | ✅ Réservé — annulable jusqu'au 26 sept |
 | Hakata Green Hotel No.1, Fukuoka (1n, 2 chambres) | 122.00 | ✅ Réservé — **non remboursable** (frais = montant total dès la réservation) |
 | One Station Hotel Kumamoto (1n, 2 chambres) | 118.00 | ✅ Réservé — annulable jusqu'au 19 sept |
+| Location voiture Kyushu (4 j, Nissan Dayz ou similaire, ÷2) | 140.67 | ✅ Réservée (21→25 sept) — CHF 281.33 au total |
 | Musée Nintendo (¥3 300) | ≈17.00 | ✅ Réservé — non annulable une fois le QR émis |
 | Forge Gifu (1 participant) | 300.00 | ✅ Réservé — 100 % dès le 16 sept |
 | Baseball Koshien (18 sept, Hanshin–Hiroshima) | 100.00 | ✅ Billets en main |
-| **Sous-total déjà payé/confirmé** | **3'014.10** *(2'864 en moyenne si la forge est répartie)* | |
+| **Sous-total déjà payé/confirmé** | **3'154.77** *(3'004.77 en moyenne si la forge est répartie)* | |
 
-Pour deux personnes : **CHF 5'728** (vols 2'696 · hébergements 2'498 · activités 534).
+Pour deux personnes : **CHF 6'009.33** (vols 2'696 · hébergements 2'498 · transport 281.33 · activités 534).
 
 ## Reste à réserver / estimé
 
@@ -34,7 +35,6 @@ Pour deux personnes : **CHF 5'728** (vols 2'696 · hébergements 2'498 · activi
 | Hôtel | Beppu ou environs (1n, standard) — nuit du 23, jour libre après Yufuin | 90–110 | ⬜ À réserver 🔴 |
 | Hôtel | Mojiko / Kitakyushu (1n, standard) — 24 sept | 90–110 | ⬜ À réserver 🔴 |
 | Hôtel | Nagoya (2n, standard, côté gare) — 25–26 sept | 180–220 | ⬜ À réserver 🔴 |
-| Voiture | Location + assurance Kyushu (4 j, ÷2) | 175–250 | ✅ Réservée (21→25 sept) — **prix non communiqué, estimation conservée** |
 | Voiture | Essence (÷2) | 40–60 | — |
 | Voiture | Péages (÷2, dont Kanmon) | 30–50 | — |
 | Shinkansen | Shin-Osaka → Hakata (sièges réservés) — **vente ouverte depuis le 21 août** | 95–105 | ⬜ À acheter 🔴 |
@@ -43,17 +43,17 @@ Pour deux personnes : **CHF 5'728** (vols 2'696 · hébergements 2'498 · activi
 | Transfert | PVG ↔ hôtel Shanghai, privé, A/R (÷2) | 35–60 | ⬜ À demander à l'hôtel |
 | Quotidien | Nourriture/transport local (~15 j, 1 seul jour ryokan tout compris) | 520–700 | Estimé |
 | Shopping | Bookoff, vêtements, jeux/figurines, souvenirs (arrêts occasionnels) | 200–350 | Estimé |
-| **Sous-total reste à réserver/estimé** | | **≈ 1'655 – 2'240** | |
+| **Sous-total reste à réserver/estimé** | | **≈ 1'480 – 1'990** | |
 
-Pour deux personnes : **≈ CHF 3'310 – 4'480**.
+Pour deux personnes : **≈ CHF 2'960 – 3'980**.
 
 ## Total
 
 | | CHF/pers | CHF · 2 pers. |
 |---|---|---|
-| Déjà payé/confirmé | 3'014.10 *(forge côté participant)* | 5'728 |
-| Reste à réserver/estimé | 1'655 – 2'240 | 3'310 – 4'480 |
-| **TOTAL ESTIMÉ** | **≈ 4'669 – 5'254** | **≈ 9'038 – 10'208** |
+| Déjà payé/confirmé | 3'154.77 *(forge côté participant)* | 6'009.33 |
+| Reste à réserver/estimé | 1'480 – 1'990 | 2'960 – 3'980 |
+| **TOTAL ESTIMÉ** | **≈ 4'635 – 5'145** | **≈ 8'969 – 9'989** |
 
 ✅ **Nagoya 2 nuits tranché (6 sept)** : Tokyo passe de 5 à 4 nuits (27 sept → 1ᵉʳ oct), l'ancre de vol retour (HND 1 oct 22:45) est inchangée. Plus rien à arbitrer.
 
@@ -61,15 +61,15 @@ Pour deux personnes : **≈ CHF 3'310 – 4'480**.
 
 ✅ **Baseball** : un seul match, le 18 sept au Koshien (billets en main, 100 CHF/pers). Le créneau reste serré (KIX 14:55 → Nishinomiya ~40 min, pas de check-in hôtel avant le match).
 
-✅ **Fukuoka, Kumamoto et voiture Kyushu réservés (13 sept)** : hôtels Fukuoka (Hakata Green Hotel No.1) et Kumamoto (One Station Hotel Kumamoto) chiffrés et déplacés en « déjà payé/confirmé » ; voiture (Nissan Dayz ou similaire, 21→25 sept) réservée mais sans prix communiqué — l'estimation (175–250 CHF/pers) reste dans « reste à réserver » en attendant la facture. ⚠️ Restitution voiture prévue à 17:30 le 25 sept, alors que le programme visait ~14:00 — impact à vérifier sur l'achat du Shinkansen Hakata→Nagoya (cf. README section 5).
+✅ **Fukuoka, Kumamoto et voiture Kyushu réservés (13 sept)** : hôtels Fukuoka (Hakata Green Hotel No.1) et Kumamoto (One Station Hotel Kumamoto), ainsi que la voiture (Nissan Dayz ou similaire, 21→25 sept, CHF 281.33 au total) chiffrés et déplacés en « déjà payé/confirmé ». ⚠️ Restitution voiture prévue à 17:30 le 25 sept, alors que le programme visait ~14:00 — impact à vérifier sur l'achat du Shinkansen Hakata→Nagoya (cf. README section 5).
 
 ## Fourchette selon upgrade vol aller (GVA→Shanghai)
 
 | Scénario | Total/pers |
 |---|---|
-| Economy (base) | ≈ CHF 4'669–5'254 |
-| + Premium Economy aller (+364) | ≈ CHF 5'033–5'618 |
-| + Business aller (+718) | ≈ CHF 5'387–5'972 |
+| Economy (base) | ≈ CHF 4'635–5'145 |
+| + Premium Economy aller (+364) | ≈ CHF 4'999–5'509 |
+| + Business aller (+718) | ≈ CHF 5'353–5'863 |
 
 ## Détail quotidien (nourriture + transport local, hors jour ryokan tout compris)
 
@@ -91,16 +91,15 @@ Pour deux personnes : **≈ CHF 3'310 – 4'480**.
 
 | | CHF/pers | Détail |
 |---|---|---|
-| Reste à réserver/estimé (payable par carte) | 1'655 – 2'240 | Hôtels restants, voiture *(prix à confirmer)* + essence + péages, Shinkansen, transfert PVG, part carte du quotidien, shopping |
+| Reste à réserver/estimé (payable par carte) | 1'480 – 1'990 | Hôtels restants, essence + péages, Shinkansen, transfert PVG, part carte du quotidien, shopping |
 | Moins : part déjà comptée en cash ci-dessus | −250 à −350 | (déduit du poste « quotidien ») |
-| Marge de sécurité (~10 %, imprévus/change) | +165 à +225 | |
-| **Solde Revolut recommandé au départ** | **≈ 1'620 – 2'130** | Idéalement chargé avant le départ, complété si besoin en cours de route ; **à revoir dès que le prix de la voiture Kyushu sera connu** |
+| Marge de sécurité (~10 %, imprévus/change) | +148 à +199 | |
+| **Solde Revolut recommandé au départ** | **≈ 1'445 – 1'880** | Idéalement chargé avant le départ, complété si besoin en cours de route |
 
 ⚠️ Pour la Chine, activer Alipay en mode « tourist » avec la carte Revolut (Visa/Mastercard) avant le départ — beaucoup de commerces n'acceptent quasiment que ça.
 
 ## Reste à chiffrer / vérifier
 
-- [ ] Prix réel location voiture Kyushu — **réservée** (Nissan Dayz ou similaire, 21→25 sept, 4 jours, Fukuoka↔Hakata) mais **prix non communiqué dans la confirmation** : à ajouter dès réception de la facture
 - [ ] Prix réel Shinkansen (billets nominatifs vs JR Pass régional Kyushu — à comparer)
 - [ ] Prix hôtels Beppu/environs, Mojiko, Nagoya
 - [ ] Transfert privé PVG (tarif via l'Atour)
@@ -112,5 +111,5 @@ Pour deux personnes : **≈ CHF 3'310 – 4'480**.
 - Taux : ≈ ¥193 et ≈ CNY 8,3 pour CHF 1 (dérivés des réservations existantes).
 - Base hôtel : ratio observé sur Villa Fontaine Osaka (CHF 143.50/chambre/nuit), Tokyu Stay Tsukiji (CHF 90/chambre/nuit), Hakata Green Hotel Fukuoka (CHF 122/chambre/nuit) et One Station Hotel Kumamoto (≈ CHF 117.50/chambre/nuit) — cohérent avec la fourchette 90–110 CHF/pers estimée pour les hôtels Kyushu restants.
 - Ryokan (Yufuin) : demi-pension (dîner kaiseki + petit-déj) incluse dans le prix — pas un vrai surcoût nourriture, juste un déplacement du poste « quotidien » vers « hôtel ».
-- Voiture : coût total véhicule divisé par 2 voyageurs.
+- Voiture : coût total véhicule divisé par 2 voyageurs — réservation Kyushu confirmée à CHF 281.33 au total (≈ CHF 140.67/pers).
 - Shinkansen : estimations sur tarifs publics standards, sièges réservés (pertinent vu Silver Week).
